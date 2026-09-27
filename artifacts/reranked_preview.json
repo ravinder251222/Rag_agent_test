@@ -1,0 +1,56 @@
+{
+  "question": "How many casual leaves do I get?",
+  "reranker_model": "cross-encoder/ms-marco-MiniLM-L-6-v2",
+  "retrieved_count": 8,
+  "kept_top_n": 4,
+  "reranked_chunks": [
+    {
+      "retrieval_rank": 5,
+      "rerank_rank": 1,
+      "rerank_score": 3.288,
+      "similarity": 0.3349,
+      "chunk_id": "hr-faq.html|chunk-1",
+      "source": "data/raw/web/hr-faq.html",
+      "file_name": "hr-faq.html",
+      "page": null,
+      "location": "",
+      "text": "How much leave do I actually get in a year?\nForty-two days of paid leave, plus public holidays. It splits like this:\n\nType Days How you get it Does it carry over?\nCasual Leave (CL) 12 3 days land on 1 Jan, 1 Apr, 1 Jul, 1 Oct No — use it or lose it on 31 Dec\nSick Leave (SL) 12 All 12 on 1 January No\nEarned Leave (EL) 18 1.5 days for every full month you work Yes, up to 30 days\n\nThe leave year is the calendar year (January to December). This trips people\nup because the appraisal year and the financial year both run April to March.\n\nCan I take Casual Leave for a week?\nNo. Casual Leave maxes out at three consecutive days. Anything longer has to\nbe Earned Leave, and you need to give notice — seven days for a three-day break,\nfifteen days for five days or more."
+    },
+    {
+      "retrieval_rank": 1,
+      "rerank_rank": 2,
+      "rerank_score": 1.4722,
+      "similarity": 0.4053,
+      "chunk_id": "leave-and-attendance-policy.pdf|page-8|chunk-0",
+      "source": "data/raw/pdfs/leave-and-attendance-policy.pdf",
+      "file_name": "leave-and-attendance-policy.pdf",
+      "page": 8,
+      "location": "page 8",
+      "text": "3. Casual Leave (CL)\n3.1 Purpose and Quantum\nCasual Leave covers short, unplanned personal absences: a domestic emergency, a civic appointment, a\nschool event, a vehicle breakdown, a religious observance not covered by the holiday calendar. The\nentitlement is twelve (12) days per leave year, credited three (3) days on the first day of each quarter.\n3.2 Rules\n1. Casual Leave may be taken in units of half a day or one full day.\n2. Not more than three (3) consecutive days of Casual Leave may be taken at one time.\nAn absence longer than three days must be applied as Earned Leave.\n3. Casual Leave may not be combined with Earned Leave in a single continuous absence, except\nwhere the Casual Leave is the first or last day of the absence and the total absence does not exceed five\n(5) days."
+    },
+    {
+      "retrieval_rank": 2,
+      "rerank_rank": 3,
+      "rerank_score": 0.7665,
+      "similarity": 0.378,
+      "chunk_id": "leave-and-attendance-policy.pdf|page-8|chunk-1",
+      "source": "data/raw/pdfs/leave-and-attendance-policy.pdf",
+      "file_name": "leave-and-attendance-policy.pdf",
+      "page": 8,
+      "location": "page 8",
+      "text": "where the Casual Leave is the first or last day of the absence and the total absence does not exceed five\n(5) days.\n4. Casual Leave may be prefixed or suffixed to a weekly off or a public holiday. Intervening\nweekly offs and holidays are not counted against the Casual Leave balance.\n5. Unused Casual Leave lapses on 31 December. It is not carried forward and is not\nencashable, on separation or otherwise.\n6. Casual Leave credited for a quarter that has not yet begun may not be availed in advance.\n3.3 Notice\nCasual Leave requires a minimum of one (1) working day's advance notice on PeopleHub. Where the\ncircumstances make advance notice impossible, the employee must inform the reporting manager by"
+    },
+    {
+      "retrieval_rank": 6,
+      "rerank_rank": 4,
+      "rerank_score": -1.8045,
+      "similarity": 0.3109,
+      "chunk_id": "hr-glossary.md|chunk-2",
+      "source": "data/raw/markdown/hr-glossary.md",
+      "file_name": "hr-glossary.md",
+      "page": null,
+      "location": "",
+      "text": "**Buddy** — A colleague assigned to a new joiner for their first 30 days for practical\nand social integration. Not a mentor, not a manager, and explicitly not the person who\nhandles performance, leave or grievances. INR 3,000 on completion.\n\n**Carry forward** — Unused Earned Leave rolled into the next leave year, capped at 30\ndays. Anything above the cap is auto-encashed in the January payroll. Casual and Sick\nLeave never carry forward.\n\n**Casual Leave (CL)** — 12 days a year, credited 3 days per quarter, maximum 3\nconsecutive days at a time, lapses on 31 December, never encashable.\n\n**Compa-ratio** — Your CTC divided by the midpoint of your band's salary range. Below\n0.85 or above 1.15 needs written justification from the function head at every review."
+    }
+  ]
+}

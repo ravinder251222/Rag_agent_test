@@ -1,0 +1,61 @@
+course_id,title,category,duration_hours,mandatory_flag,target_role,renewal_months
+NEX-SEC-101,Information Security Awareness,Compliance,2.0,Y,All Employees,12
+NEX-HR-102,Prevention of Sexual Harassment (POSH),Compliance,2.0,Y,All Employees,12
+NEX-HR-103,Code of Conduct and Business Ethics,Compliance,1.5,Y,All Employees,12
+NEX-LEG-104,"Data Protection and the DPDP Act, 2023",Compliance,1.5,Y,All Employees,12
+NEX-LEG-105,Anti-Bribery and Anti-Corruption,Compliance,1.0,Y,All Employees,24
+NEX-QMS-106,ISO 9001:2015 Quality Management System,Compliance,1.0,Y,All Employees,24
+NEX-SEC-107,ISO/IEC 27001:2022 ISMS Awareness,Compliance,1.5,Y,All Employees,12
+NEX-HR-115,Responding to a Concern: A Manager's Duty,Compliance,3.0,Y,Managers (B4 and above),12
+NEX-HR-118,Internal Committee Capacity Building,Compliance,8.0,Y,Internal Committee Members,12
+NEX-LEG-111,Insider Trading and Client UPSI,Compliance,1.0,Y,Restricted Engagement Teams,12
+NEX-SEC-112,Client Data Handling for BFSI Engagements,Compliance,2.0,Y,BFSI Delivery Teams,12
+NEX-ENG-201,Java 21 and Modern JVM Practices,Technical - Engineering,16.0,N,Software Engineer (B2-B3),0
+NEX-ENG-202,Spring Boot Service Design,Technical - Engineering,20.0,N,Software Engineer (B2-B3),0
+NEX-ENG-203,C# 12 and ASP.NET Core,Technical - Engineering,20.0,N,Software Engineer (B2-B3),0
+NEX-ENG-205,React and TypeScript Front-End Engineering,Technical - Engineering,18.0,N,Software Engineer (B2-B3),0
+NEX-ENG-206,Secure Coding: OWASP Top 10 in Practice,Technical - Engineering,6.0,Y,All Engineering Roles,24
+NEX-ENG-207,Relational Data Modelling and Advanced SQL,Technical - Engineering,12.0,N,"Engineering, Data",0
+NEX-ENG-208,"Git, Branching and the Nexora Code Review Standard",Technical - Engineering,4.0,Y,All Engineering Roles,0
+NEX-ENG-210,Engineering Craft: Writing Code Others Can Change,Technical - Engineering,12.0,N,Software Engineer (B2),0
+NEX-ENG-212,Debugging and Production Troubleshooting,Technical - Engineering,8.0,N,Engineering (B2-B4),0
+NEX-ENG-214,API Design and Versioning,Technical - Engineering,8.0,N,Engineering (B3-B4),0
+NEX-ENG-216,Event-Driven Architecture with Kafka,Technical - Engineering,14.0,N,Engineering (B3-B5),0
+NEX-ENG-320,Design for Change: Architecture Fundamentals,Technical - Engineering,16.0,N,Senior Software Engineer (B3),0
+NEX-ENG-330,Legacy Modernisation Patterns,Technical - Engineering,12.0,N,Technical Lead (B4),0
+NEX-CLD-241,AWS Core Services for Delivery Teams,Technical - Cloud,16.0,N,"Cloud, Engineering",0
+NEX-CLD-242,Microsoft Azure Landing Zone Design,Technical - Cloud,16.0,N,Cloud Engineer (B2-B4),0
+NEX-CLD-244,Kubernetes in Production,Technical - Cloud,20.0,N,"Cloud, DevOps (B3-B4)",0
+NEX-CLD-245,Infrastructure as Code with Terraform,Technical - Cloud,12.0,N,"Cloud, DevOps",0
+NEX-CLD-246,CI/CD Pipelines with GitLab,Technical - Cloud,8.0,N,"Engineering, Cloud",0
+NEX-CLD-247,"Observability: Metrics, Logs and Traces",Technical - Cloud,10.0,N,"Cloud, Engineering (B3+)",0
+NEX-CLD-248,Incident Response and On-Call Readiness,Technical - Cloud,6.0,Y,On-Call Roster Members,12
+NEX-CLD-249,Cloud FinOps and Cost Optimisation,Technical - Cloud,8.0,N,"Cloud, Delivery (B4+)",0
+NEX-DAT-261,Data Engineering with Spark,Technical - Data & AI,20.0,N,Data Engineer (B2-B4),0
+NEX-DAT-262,Analytics Engineering with dbt,Technical - Data & AI,12.0,N,Data Engineer (B2-B3),0
+NEX-DAT-263,Dimensional Modelling and Warehouse Design,Technical - Data & AI,14.0,N,"Data Engineer, Data Architect",0
+NEX-DAT-264,Airflow Orchestration Patterns,Technical - Data & AI,8.0,N,Data Engineer,0
+NEX-DAT-265,Applied Machine Learning Foundations,Technical - Data & AI,24.0,N,Data & Analytics (B2-B4),0
+NEX-DAT-266,MLOps: Deploying and Monitoring Models,Technical - Data & AI,16.0,N,Data & Analytics (B3-B5),0
+NEX-DAT-267,Responsible AI and Model Governance,Technical - Data & AI,4.0,Y,"Data & Analytics, Product",12
+NEX-DAT-268,Generative AI at Nexora: Approved Tools and Limits,Technical - Data & AI,2.0,Y,All Employees,12
+NEX-QE-281,Test Strategy and the Nexora Definition of Done,Quality Engineering,8.0,N,QA Engineer (B1-B3),0
+NEX-QE-282,Test Automation with Playwright,Quality Engineering,16.0,N,QA Engineer (B2-B3),0
+NEX-QE-283,API and Contract Testing,Quality Engineering,10.0,N,"QA Engineer, Engineering",0
+NEX-QE-284,Performance Engineering Fundamentals,Quality Engineering,14.0,N,QA Lead (B3-B4),0
+NEX-QE-285,Accessibility Testing to WCAG 2.2,Quality Engineering,6.0,N,"QA, Product & Design",0
+NEX-DEL-301,The Nexora Delivery Operating Model,Delivery & Process,6.0,Y,Delivery Management,24
+NEX-DEL-302,Agile Estimation and Sprint Planning,Delivery & Process,8.0,N,"Engineering, Delivery",0
+NEX-DEL-303,"Risk, Issue and Dependency Management",Delivery & Process,6.0,N,Delivery Management (B4+),0
+NEX-DEL-304,Client Communication and Status Reporting,Delivery & Process,6.0,N,"Delivery, Engineering (B3+)",0
+NEX-DEL-305,"Delivery Economics: Utilisation, Margin and Revenue",Delivery & Process,8.0,N,Delivery Manager (B5+),0
+NEX-DEL-306,Estimation for Fixed-Price Engagements,Delivery & Process,8.0,N,"Presales, Delivery (B4+)",0
+NEX-DEL-307,Scrum Master Practicum,Delivery & Process,16.0,N,Scrum Master (B4),0
+NEX-LDR-101,Leadership Foundations,Leadership & Behavioural,24.0,Y,Band B4-B5 (promotion prerequisite),0
+NEX-LDR-410,Leading Engineers: Technical Leadership,Leadership & Behavioural,16.0,N,Technical Lead (B4),0
+NEX-LDR-520,Managing Managers,Leadership & Behavioural,20.0,N,Senior Manager (B6),0
+NEX-BEH-121,Giving and Receiving Feedback,Leadership & Behavioural,4.0,N,All Employees,0
+NEX-BEH-122,Difficult Conversations,Leadership & Behavioural,6.0,N,Managers (B4 and above),0
+NEX-BEH-123,Inclusive Hiring and Interview Skills,Leadership & Behavioural,4.0,Y,Interview Panel Members,24
+NEX-BEH-124,Written Communication for Engineers,Leadership & Behavioural,6.0,N,All Employees,0
+NEX-BEH-125,Presenting to Clients,Leadership & Behavioural,6.0,N,Band B3 and above,0

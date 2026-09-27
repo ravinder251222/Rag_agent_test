@@ -1,0 +1,93 @@
+{
+  "embedding_model": "sentence-transformers/all-MiniLM-L12-v2",
+  "vector_dimension": 384,
+  "total_chunks": 1715,
+  "total_vectors": 1715,
+  "preview": [
+    {
+      "chunk_id": "employee_directory.csv|row-1|chunk-0",
+      "text_preview": "emp_id: NEX10314\nname: Shruti Sharma\ndesignation: Senior Software Engineer\ndepartment: Engineering\nlocation: Gurugram\nmanager_id: NEX33526\ndate_of_joi",
+      "vector_dimension": 384,
+      "first_10_numbers": [
+        0.008415,
+        0.037072,
+        0.013114,
+        -0.011348,
+        0.034653,
+        0.018934,
+        0.025307,
+        -0.071845,
+        -0.086161,
+        0.006795
+      ]
+    },
+    {
+      "chunk_id": "employee_directory.csv|row-2|chunk-0",
+      "text_preview": "emp_id: NEX10373\nname: Girish Hegde\ndesignation: Senior Software Engineer\ndepartment: Engineering\nlocation: Gurugram\nmanager_id: NEX32373\ndate_of_join",
+      "vector_dimension": 384,
+      "first_10_numbers": [
+        0.007829,
+        0.029198,
+        0.014433,
+        -0.026222,
+        0.020719,
+        0.013673,
+        0.03419,
+        -0.080148,
+        -0.107175,
+        -0.011438
+      ]
+    },
+    {
+      "chunk_id": "employee_directory.csv|row-3|chunk-0",
+      "text_preview": "emp_id: NEX10409\nname: Naveen Nagarajan\ndesignation: Accounts Payable Analyst\ndepartment: Finance & Accounts\nlocation: Pune\nmanager_id: NEX29245\ndate_",
+      "vector_dimension": 384,
+      "first_10_numbers": [
+        0.018273,
+        0.031922,
+        -0.062722,
+        0.004959,
+        -0.020211,
+        -0.039892,
+        0.020996,
+        -0.022008,
+        -0.02553,
+        -0.028552
+      ]
+    },
+    {
+      "chunk_id": "employee_directory.csv|row-4|chunk-0",
+      "text_preview": "emp_id: NEX10599\nname: Mohit Sharma\ndesignation: Talent Acquisition Specialist\ndepartment: Human Resources\nlocation: Gurugram\nmanager_id: NEX37792\ndat",
+      "vector_dimension": 384,
+      "first_10_numbers": [
+        0.024696,
+        0.007683,
+        -0.011947,
+        0.016887,
+        0.011156,
+        0.000404,
+        0.05794,
+        -0.073006,
+        -0.087876,
+        0.02978
+      ]
+    },
+    {
+      "chunk_id": "employee_directory.csv|row-5|chunk-0",
+      "text_preview": "emp_id: NEX10626\nname: Venkatesh Dutta\ndesignation: Associate Security Analyst\ndepartment: Information Security\nlocation: Bengaluru\nmanager_id: NEX280",
+      "vector_dimension": 384,
+      "first_10_numbers": [
+        0.016907,
+        0.055779,
+        -0.067477,
+        0.015159,
+        0.035863,
+        -0.02711,
+        0.027171,
+        -0.018988,
+        -0.040997,
+        0.054101
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "question": "How many casual leaves do I get?",
+  "answer": "You get **12 days of Casual Leave (CL) per leave year**, credited **3 days per quarter** [S1][S2][S4].",
+  "cited_labels": [
+    "S1",
+    "S2",
+    "S4"
+  ],
+  "citations": [
+    {
+      "label": "S1",
+      "file_name": "hr-faq.html",
+      "source": "data/raw/web/hr-faq.html",
+      "page": null,
+      "location": ""
+    },
+    {
+      "label": "S2",
+      "file_name": "leave-and-attendance-policy.pdf",
+      "source": "data/raw/pdfs/leave-and-attendance-policy.pdf",
+      "page": 8,
+      "location": "page 8"
+    },
+    {
+      "label": "S4",
+      "file_name": "hr-glossary.md",
+      "source": "data/raw/markdown/hr-glossary.md",
+      "page": null,
+      "location": ""
+    }
+  ]
+}

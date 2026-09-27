@@ -1,0 +1,230 @@
+================================================================================
+NEXORA TECHNOLOGIES PRIVATE LIMITED
+HR POLICY AMENDMENT LOG
+Maintained by: HR Operations (Nandita Sharma)     Last entry: 12 May 2026
+Classification: Confidential - Internal Use Only
+================================================================================
+Format:  <date>  <document-id> v<version>  <clause>  <summary>
+Entries are appended, never edited. A correction is a new entry.
+Retention: permanent. Extracted quarterly for the ISO 9001 document control audit.
+================================================================================
+
+
+2026-05-12   HR-POL-004 v4.2   Cl. 9.4
+    Pune regional holiday list corrected. Bakrid / Eid-ul-Adha 27 May 2026 was
+    published as an optional holiday for Pune in the calendar issued on 28 Nov
+    2025. It is a FIXED regional holiday for Pune. Employees who had declared it
+    as one of their two optional holidays have had that declaration reversed and
+    the optional day returned to their balance. 41 employees affected. No action
+    required from employees.
+    Raised by: Farida Contractor (Pune Shared Services). Approved: K. Deshpande.
+
+2026-05-04   HR-MAN-011 v3.0   Cl. 11.3
+    Q3 FY25-26 onboarding metrics published. Bengaluru day-one readiness 94.5%
+    against a 98% target and buddy assignment 89.1% against 100%. Corrective
+    actions agreed with the Bengaluru site lead: weekly joiner intake capped at
+    25 per site; buddy nomination moved from DOJ-5 to DOJ-10. Both changes are
+    live from the June 2026 cohort.
+
+2026-04-16   FIN-POL-006 v3.1   Annexure B
+    Own-car mileage rate revised from INR 11 to INR 12 per km. Two-wheeler rate
+    unchanged at INR 5 per km. Effective for travel undertaken on or after
+    1 May 2026. Claims for earlier travel are settled at the old rate regardless
+    of when they are submitted.
+
+2026-04-01   HR-POL-007 v2.4   Cl. 9.1   ** MATERIAL CHANGE **
+    NOTICE PERIOD RESTRUCTURED BY BAND.
+    Old position (HR-POL-007 v2.2, and HR-POL-001 v3.1 Cl. 16.1):
+        90 calendar days for ALL confirmed employees.
+    New position from 1 April 2026:
+        Band B1 - B3 ......... 60 calendar days
+        Band B4 and above .... 90 calendar days
+        Probation, all bands . 30 calendar days
+    Rationale: exit-interview and TA data showed the flat 90-day period was
+    costing us candidates at B1-B3 without any corresponding delivery benefit;
+    at B4+ the continuity risk is real and 90 days is retained.
+    ACTION OUTSTANDING: the Employee Handbook (HR-POL-001) clause 16.1 still
+    carries the flat 90-day figure. The Handbook is overdue for its scheduled
+    review (was due 31 March 2026) and will be corrected in v4.0. Until then,
+    HR-POL-007 v2.4 prevails - see HR-POL-001 Cl. 1.3, which provides that the
+    detailed policy governs. The intranet HR FAQ page also still shows 90 days
+    and has been raised with HR Communications (ticket NEX-HD-2026-04117).
+    Approved: ELT, 3 March 2026.
+
+2026-04-01   HR-POL-007 v2.4   Cl. 8.1
+    Group Mediclaim parental top-up premium revised from INR 16,000 to
+    INR 18,500 per parent per year, following the 1 July 2025 renewal loading.
+    Employees already enrolled were notified individually on 6 March 2026.
+
+2026-04-01   HR-POL-007 v2.4   Cl. 9.2
+    Full and final settlement timeline reduced from 60 days to 45 days from the
+    last working day. Driven by the Q2 FY25-26 exit survey; F&F delay was the
+    single most cited complaint from leavers.
+
+2026-04-01   HR-POL-007 v2.4   Cl. 2.4
+    Band salary ranges revised for FY 2026-27 against the Aon and Mercer India
+    Technology surveys. B3 minimum raised from INR 12,50,000 to INR 14,00,000.
+    Pune ranges continue at 94% of Gurugram; Bengaluru remains at parity.
+
+2026-04-01   HR-POL-002 v5.0   Cl. 3.4   ** NEW CLAUSE **
+    Generative AI usage clause added to the Code of Conduct, cross-referring to
+    ISMS-POL-009. Covers approved enterprise instances, the prohibition on
+    entering client-confidential material or personal data into unapproved
+    services, client-contract overrides, and reviewer accountability for
+    AI-assisted code.
+    Approved: Board of Directors, 24 February 2026.
+
+2026-04-01   HR-POL-002 v5.0   Cl. 2.2
+    Gift declaration threshold raised from INR 3,000 to INR 5,000. Cash, cash
+    equivalents, gift cards, loans and shares remain prohibited at any value.
+    Gifts to or from a government official remain prohibited at any value without
+    the General Counsel's prior written approval.
+
+2026-04-01   HR-POL-002 v5.0   Cl. 11.4
+    Conciliation restated to make explicit that it may be initiated ONLY at the
+    written request of the complainant, and may never be proposed by the IC, the
+    employer or the respondent. Restatement, not a change in position; some ICs
+    had read the earlier drafting as permitting a suggestion.
+
+2026-04-01   HR-POL-002 v5.0   Cl. 10.2 - 10.4
+    Internal Committee rosters refreshed. Zoya Rahman (Gurugram), Divya Menon
+    (Bengaluru) and Farida Contractor (Pune) added as members. Terms recorded.
+
+2026-03-01   HR-POL-012 v1.4   Cl. 1   ** MATERIAL CHANGE **
+    HYBRID OFFICE MINIMUM REDUCED FROM 12 TO 10 WORKING DAYS PER CALENDAR MONTH.
+    Old position: minimum 12 working days per month in the assigned office.
+    New position: minimum 10 working days per month, including the team anchor
+    day in each week it falls.
+    Rationale: January 2026 workplace survey (71% response rate). The 12-day
+    minimum was being met by badge-in without corresponding co-location value;
+    anchor-day attendance is the measure that correlates with team outcomes.
+    ELT decision 11 February 2026.
+    ACTION OUTSTANDING: HR-POL-001 v3.1 Cl. 4.6 and the intranet HR FAQ both
+    still say 12 days. Both to be corrected - Handbook at v4.0, FAQ by HR
+    Communications. Tracked under NEX-HD-2026-03042.
+
+2026-02-01   HR-MAN-011 v3.0   Cl. 5.2
+    Buddy allowance increased from INR 2,000 to INR 3,000 on completion of the
+    30-day period and a positive closing note.
+
+2026-02-01   HR-MAN-011 v3.0   Cl. 2.1
+    Pre-boarding timeline extended. Offer-to-joining activities now begin at
+    DOJ-30 (was DOJ-21). New DOJ-3 readiness gate introduced: assets, accounts,
+    seat, buddy and 30-60-90 plan must all be green, escalating to the function
+    head the same day if any is red.
+
+2026-02-01   HR-MAN-011 v3.0   Cl. 8.6   ** NEW **
+    Internal faculty honorarium introduced at INR 4,000 per delivered training
+    hour, capped at INR 60,000 per financial year.
+
+2026-01-01   HR-POL-004 v4.2   Cl. 2.1, 7.2   ** MATERIAL CHANGE **
+    PATERNITY LEAVE INCREASED FROM 5 TO 10 WORKING DAYS.
+    Old position (HR-POL-004 v4.1, and HR-POL-001 v3.1 Cl. 5.1):
+        5 working days, within 6 months of birth or adoption handover.
+    New position from 1 January 2026:
+        10 working days, in up to two blocks, within 6 months of the date of
+        birth or the date of handover of an adopted child; available for up to
+        two children during tenure; extended to the non-birthing parent of any
+        gender, including partners in a same-sex relationship recorded by the
+        employee's nomination on PeopleHub.
+    ACTION OUTSTANDING: HR-POL-001 v3.1 Cl. 5.1 still shows 5 working days. The
+    intranet HR FAQ also still shows 5. Both flagged; Handbook correction to
+    land in v4.0. HR-POL-004 v4.2 is the governing document.
+    Approved: ELT, 18 November 2025.
+
+2026-01-01   HR-POL-004 v4.2   Cl. 6.2   ** MATERIAL CHANGE **
+    COMPENSATORY OFF VALIDITY EXTENDED FROM 45 TO 60 DAYS.
+    Old position: comp-off had to be availed within 45 days of being earned.
+    New position: 60 days from the date earned, then it lapses. Still not
+    encashable in any circumstance. Balance still capped at 6 at any time. Still
+    not available at Band B6 and above.
+    Rationale: 23% of comp-offs earned in FY 2024-25 lapsed unused, concentrated
+    in Managed Services where incident work clusters at quarter end.
+    ACTION OUTSTANDING: HR-POL-001 v3.1 Cl. 5.1 and the intranet HR FAQ both
+    still say 45 days. Helpdesk agents have been briefed; two tickets in Q1
+    FY26-27 were answered with the stale figure and have been corrected.
+
+2026-01-01   HR-POL-004 v4.2   Cl. 10.2   ** NEW **
+    Restrictions added on declining leave. A manager must record a specific
+    business reason - "project pressure" is expressly not acceptable - and must
+    offer an alternative window within 60 days. Leave may not be declined at all
+    where it is certified sick leave, statutory parental or bereavement leave,
+    a window declined twice before, or where declining would push the employee
+    over the 30-day EL carry-forward cap.
+
+2025-11-28   HR-POL-004 v4.1   Cl. 9
+    Holiday calendar 2026 published. 10 fixed holidays common to all sites, plus
+    regional holidays and 2 optional days per employee. Note that Independence
+    Day (15 Aug 2026) and Kannada Rajyotsava (1 Nov 2026) both fall on a weekly
+    off; no compensatory day is granted for either.
+
+2025-07-01   HR-POL-004 v4.1   Cl. 12.6, 12.7   ** NEW **
+    Two entitlements added. (a) Four additional days of paid leave per leave
+    year for employees with a benchmark disability certified under the RPwD Act
+    2016, for medical review, therapy or assistive device fitting; separate from
+    and not requiring exhaustion of Sick Leave. (b) Up to 30 days of paid
+    special leave in a rolling 24-month period for gender affirmation treatment,
+    administered directly by the CHRO's office, not visible to the reporting
+    manager, and recorded only as Special Leave.
+
+2025-04-01   HR-POL-007 v2.2   Cl. 1.4   ** NEW **
+    Annual pay equity review formalised. Median fixed pay compared by gender
+    within each band / role family / location cohort of 10 or more. Unexplained
+    gaps above 3% corrected in the same cycle from a CHRO-held adjustment budget
+    outside the function pool. Result reported to the Nomination and
+    Remuneration Committee.
+
+2025-04-01   HR-POL-007 v2.2   Cl. 8.4   ** NEW **
+    Car lease scheme introduced for Band B6 and above through Meridian Fleet
+    Solutions. 36 or 48 month terms, restructured within existing CTC.
+
+2025-01-01   HR-POL-004 v4.0   Cl. 5.3
+    Automatic encashment of Earned Leave above the 30-day carry-forward cap
+    introduced, processed in the January payroll. Previously the excess simply
+    lapsed. Applied for the first time in January 2025: 312 employees, aggregate
+    INR 41,80,000.
+
+2025-01-01   HR-POL-004 v4.0   Cl. 8.3
+    Attendance day-classification bands revised. "Short day" band (6.00-7.99
+    net hours) introduced as a flag rather than a deduction; three in a month
+    trigger a manager review. Below 4.50 hours remains a full-day deduction.
+
+2024-04-01   HR-POL-001 v3.1   Cl. 7.7
+    Employee referral awards revised upward: B1-B3 from INR 20,000 to
+    INR 25,000; B4-B5 from INR 40,000 to INR 50,000; B6+ from INR 75,000 to
+    INR 1,00,000. Split unchanged at 50% on joining, 50% at day 180.
+
+2024-04-01   HR-POL-001 v3.1   Cl. 4.5
+    Night transport clause added. Women employees rostered between 20:00 and
+    06:00 receive door-to-door Company transport with a security escort and may
+    decline a night roster without adverse consequence. Facilities maintains the
+    escort attendance register at each site.
+
+2023-10-01   HR-POL-001 v3.0   Cl. 4.6
+    Hybrid working model introduced Company-wide, replacing the interim
+    remote-working arrangements that had run since March 2020. Three
+    designations defined: Site-Anchored, Hybrid, Fully Remote. Hybrid minimum
+    set at 12 working days per calendar month. [SUPERSEDED - see 2026-03-01]
+
+2023-04-01   HR-POL-002 v4.3   Part B
+    POSH mechanism extended, as a matter of Company policy, to employees of
+    every gender and gender identity. Statutory reporting obligations continue
+    to apply only to complaints made by an aggrieved woman under the Act.
+    IC term of office standardised at 3 years across all three sites.
+
+2023-01-01   HR-POL-004 v3.4   Cl. 2.1
+    Earned Leave increased from 15 to 18 days per leave year. Carry-forward cap
+    set at 30 days (previously 45). Employees holding more than 30 days at
+    31 December 2022 were allowed a one-time protected balance, run down by
+    31 December 2024. All protected balances are now closed.
+
+2022-01-01   HR-POL-004 v3.0   All
+    Location-specific leave and attendance addenda withdrawn and consolidated
+    into a single Company-wide policy: the Bengaluru attendance addendum of
+    March 2019 and the Pune shift-attendance note of July 2022 both stand
+    withdrawn.
+
+================================================================================
+END OF LOG   -   Nexora Technologies Private Limited   -   Internal Use Only
+Queries on any entry: hrhelpdesk@nexoratech.in, quoting the entry date.
+================================================================================

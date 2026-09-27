@@ -1,0 +1,4241 @@
+{
+  "$schema": "https://intranet.nexoratech.in/schemas/org-structure-v3.json",
+  "generated_at": "2026-05-12T18:42:11+05:30",
+  "source_system": "PeopleHub",
+  "extract_type": "full",
+  "classification": "Confidential - Internal Use Only",
+  "organisation": {
+    "legal_name": "Nexora Technologies Private Limited",
+    "short_name": "Nexora Technologies",
+    "cin": "U72200HR2011PTC043117",
+    "incorporated": "2011-09-09",
+    "financial_year": "1 April - 31 March",
+    "leave_year": "1 January - 31 December",
+    "total_headcount": 1240,
+    "headcount_as_at": "2026-04-01",
+    "note": "This extract is a 300-employee sample of the full 1,240-person roster, used for reporting and system testing. Reporting lines within the sample are complete and self-consistent.",
+    "sites": [
+      {
+        "site": "Gurugram",
+        "address": "Nexora Tower, Plot 17, Sector 44, Gurugram, Haryana 122003",
+        "state": "Haryana",
+        "approx_headcount": 521,
+        "is_registered_office": true,
+        "internal_committee_presiding_officer": "Ritu Malhotra",
+        "district_officer_jurisdiction": "Deputy Commissioner, Gurugram District, Haryana"
+      },
+      {
+        "site": "Bengaluru",
+        "address": "Level 6-8, Prestige Tech Park III, Outer Ring Road, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+        "state": "Karnataka",
+        "approx_headcount": 459,
+        "is_registered_office": false,
+        "internal_committee_presiding_officer": "Lakshmi Sundaresan",
+        "district_officer_jurisdiction": "Deputy Commissioner, Bengaluru Urban District, Karnataka"
+      },
+      {
+        "site": "Pune",
+        "address": "Tower B, Panchshil Business Park, Viman Nagar, Pune, Maharashtra 411014",
+        "state": "Maharashtra",
+        "approx_headcount": 260,
+        "is_registered_office": false,
+        "internal_committee_presiding_officer": "Neelam Bhosale",
+        "district_officer_jurisdiction": "Collector and District Magistrate, Pune District, Maharashtra"
+      }
+    ],
+    "practices": [
+      {
+        "name": "Application Engineering",
+        "departments": [
+          "Engineering",
+          "Product & Design",
+          "Quality Engineering"
+        ]
+      },
+      {
+        "name": "Cloud and Platform Services",
+        "departments": [
+          "Cloud & Infrastructure",
+          "IT Support"
+        ]
+      },
+      {
+        "name": "Data and Analytics",
+        "departments": [
+          "Data & Analytics"
+        ]
+      },
+      {
+        "name": "Quality Engineering",
+        "departments": [
+          "Quality Engineering"
+        ]
+      },
+      {
+        "name": "Corporate Functions",
+        "departments": [
+          "Human Resources",
+          "Finance & Accounts",
+          "Legal & Compliance",
+          "Marketing",
+          "Facilities & Administration",
+          "Information Security"
+        ]
+      },
+      {
+        "name": "Growth",
+        "departments": [
+          "Sales & Account Management",
+          "Presales & Solutions",
+          "Delivery Management"
+        ]
+      }
+    ]
+  },
+  "career_bands": [
+    {
+      "band": "B1",
+      "label": "Associate",
+      "notice_period_days": 60,
+      "variable_pay_pct_of_ctc": 5,
+      "comp_off_eligible": true
+    },
+    {
+      "band": "B2",
+      "label": "Professional",
+      "notice_period_days": 60,
+      "variable_pay_pct_of_ctc": 5,
+      "comp_off_eligible": true
+    },
+    {
+      "band": "B3",
+      "label": "Senior Professional",
+      "notice_period_days": 60,
+      "variable_pay_pct_of_ctc": 8,
+      "comp_off_eligible": true
+    },
+    {
+      "band": "B4",
+      "label": "Lead / Architect",
+      "notice_period_days": 90,
+      "variable_pay_pct_of_ctc": 12,
+      "comp_off_eligible": true
+    },
+    {
+      "band": "B5",
+      "label": "Manager",
+      "notice_period_days": 90,
+      "variable_pay_pct_of_ctc": 15,
+      "comp_off_eligible": true
+    },
+    {
+      "band": "B6",
+      "label": "Senior Manager",
+      "notice_period_days": 90,
+      "variable_pay_pct_of_ctc": 15,
+      "comp_off_eligible": false
+    },
+    {
+      "band": "B7",
+      "label": "Director",
+      "notice_period_days": 90,
+      "variable_pay_pct_of_ctc": 20,
+      "comp_off_eligible": false
+    },
+    {
+      "band": "B8",
+      "label": "Vice President",
+      "notice_period_days": 90,
+      "variable_pay_pct_of_ctc": 20,
+      "comp_off_eligible": false
+    }
+  ],
+  "departments": [
+    {
+      "department": "Cloud & Infrastructure",
+      "function_head": {
+        "emp_id": "NEX11728",
+        "name": "Shailesh Narayanan",
+        "designation": "Vice President - Cloud"
+      },
+      "headcount_in_sample": 31,
+      "headcount_by_location": {
+        "Bengaluru": 15,
+        "Gurugram": 2,
+        "Pune": 14
+      },
+      "headcount_by_band": {
+        "B1": 12,
+        "B2": 6,
+        "B3": 4,
+        "B4": 4,
+        "B5": 2,
+        "B7": 2,
+        "B8": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 1,
+        "Graduate Engineer Trainee": 3,
+        "Permanent": 27
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Data & Analytics",
+      "function_head": {
+        "emp_id": "NEX25814",
+        "name": "Sanjay Bhattacharya",
+        "designation": "Senior Manager - Data & Analytics"
+      },
+      "headcount_in_sample": 24,
+      "headcount_by_location": {
+        "Bengaluru": 16,
+        "Gurugram": 8
+      },
+      "headcount_by_band": {
+        "B1": 6,
+        "B2": 2,
+        "B3": 7,
+        "B4": 1,
+        "B5": 5,
+        "B6": 3
+      },
+      "headcount_by_employment_type": {
+        "Graduate Engineer Trainee": 1,
+        "Permanent": 23
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Delivery Management",
+      "function_head": {
+        "emp_id": "NEX25409",
+        "name": "Sandeep Nair",
+        "designation": "Senior Director - Delivery"
+      },
+      "headcount_in_sample": 28,
+      "headcount_by_location": {
+        "Bengaluru": 7,
+        "Gurugram": 12,
+        "Pune": 9
+      },
+      "headcount_by_band": {
+        "B1": 5,
+        "B2": 6,
+        "B3": 5,
+        "B4": 7,
+        "B5": 1,
+        "B6": 2,
+        "B7": 2
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 3,
+        "Graduate Engineer Trainee": 3,
+        "Permanent": 22
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Engineering",
+      "function_head": {
+        "emp_id": "NEX30252",
+        "name": "Rohan Iyer",
+        "designation": "Chief Technology Officer"
+      },
+      "headcount_in_sample": 79,
+      "headcount_by_location": {
+        "Bengaluru": 23,
+        "Gurugram": 42,
+        "Pune": 14
+      },
+      "headcount_by_band": {
+        "B1": 16,
+        "B2": 21,
+        "B3": 21,
+        "B4": 5,
+        "B5": 6,
+        "B6": 5,
+        "B7": 3,
+        "B8": 1,
+        "ELT": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 4,
+        "Graduate Engineer Trainee": 2,
+        "Intern": 2,
+        "Permanent": 71
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Executive Leadership",
+      "function_head": {
+        "emp_id": "NEX11646",
+        "name": "Meera Raghunathan",
+        "designation": "Founder & Chief Executive Officer"
+      },
+      "headcount_in_sample": 2,
+      "headcount_by_location": {
+        "Gurugram": 2
+      },
+      "headcount_by_band": {
+        "ELT": 2
+      },
+      "headcount_by_employment_type": {
+        "Permanent": 2
+      },
+      "sites": [
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Facilities & Administration",
+      "function_head": {
+        "emp_id": "NEX27141",
+        "name": "Farida Contractor",
+        "designation": "Senior Manager - Shared Services"
+      },
+      "headcount_in_sample": 10,
+      "headcount_by_location": {
+        "Bengaluru": 2,
+        "Gurugram": 5,
+        "Pune": 3
+      },
+      "headcount_by_band": {
+        "B1": 2,
+        "B2": 2,
+        "B3": 3,
+        "B4": 1,
+        "B6": 2
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 2,
+        "Graduate Engineer Trainee": 1,
+        "Permanent": 7
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Finance & Accounts",
+      "function_head": {
+        "emp_id": "NEX24614",
+        "name": "Arjun Menon",
+        "designation": "Chief Financial Officer"
+      },
+      "headcount_in_sample": 16,
+      "headcount_by_location": {
+        "Gurugram": 12,
+        "Pune": 4
+      },
+      "headcount_by_band": {
+        "B1": 4,
+        "B2": 2,
+        "B3": 4,
+        "B5": 2,
+        "B6": 3,
+        "ELT": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 1,
+        "Permanent": 15
+      },
+      "sites": [
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Human Resources",
+      "function_head": {
+        "emp_id": "NEX19123",
+        "name": "Kavita Deshpande",
+        "designation": "Chief Human Resources Officer"
+      },
+      "headcount_in_sample": 26,
+      "headcount_by_location": {
+        "Bengaluru": 4,
+        "Gurugram": 16,
+        "Pune": 6
+      },
+      "headcount_by_band": {
+        "B1": 6,
+        "B2": 5,
+        "B3": 4,
+        "B4": 2,
+        "B5": 4,
+        "B6": 1,
+        "B7": 3,
+        "ELT": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 2,
+        "Graduate Engineer Trainee": 1,
+        "Intern": 1,
+        "Permanent": 22
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "IT Support",
+      "function_head": {
+        "emp_id": "NEX19945",
+        "name": "Radhika Puri",
+        "designation": "Chief Information Officer"
+      },
+      "headcount_in_sample": 13,
+      "headcount_by_location": {
+        "Bengaluru": 3,
+        "Gurugram": 6,
+        "Pune": 4
+      },
+      "headcount_by_band": {
+        "B1": 5,
+        "B2": 3,
+        "B3": 3,
+        "B7": 1,
+        "B8": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 2,
+        "Graduate Engineer Trainee": 2,
+        "Permanent": 9
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Information Security",
+      "function_head": {
+        "emp_id": "NEX17967",
+        "name": "Sagar Basu",
+        "designation": "Manager - Information Security"
+      },
+      "headcount_in_sample": 9,
+      "headcount_by_location": {
+        "Bengaluru": 4,
+        "Gurugram": 5
+      },
+      "headcount_by_band": {
+        "B1": 4,
+        "B2": 1,
+        "B3": 1,
+        "B4": 2,
+        "B5": 1
+      },
+      "headcount_by_employment_type": {
+        "Permanent": 9
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Legal & Compliance",
+      "function_head": {
+        "emp_id": "NEX37498",
+        "name": "Farhan Qureshi",
+        "designation": "General Counsel"
+      },
+      "headcount_in_sample": 4,
+      "headcount_by_location": {
+        "Gurugram": 4
+      },
+      "headcount_by_band": {
+        "B3": 1,
+        "B4": 2,
+        "ELT": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 1,
+        "Permanent": 3
+      },
+      "sites": [
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Marketing",
+      "function_head": {
+        "emp_id": "NEX15584",
+        "name": "Shivam Deshpande",
+        "designation": "Senior Manager - Marketing"
+      },
+      "headcount_in_sample": 9,
+      "headcount_by_location": {
+        "Gurugram": 9
+      },
+      "headcount_by_band": {
+        "B1": 1,
+        "B2": 4,
+        "B3": 2,
+        "B5": 1,
+        "B6": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 1,
+        "Intern": 1,
+        "Permanent": 7
+      },
+      "sites": [
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Presales & Solutions",
+      "function_head": {
+        "emp_id": "NEX43501",
+        "name": "Manoj Rajan",
+        "designation": "Senior Manager - Solutions"
+      },
+      "headcount_in_sample": 5,
+      "headcount_by_location": {
+        "Bengaluru": 3,
+        "Gurugram": 2
+      },
+      "headcount_by_band": {
+        "B1": 1,
+        "B2": 2,
+        "B3": 1,
+        "B6": 1
+      },
+      "headcount_by_employment_type": {
+        "Permanent": 5
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Product & Design",
+      "function_head": {
+        "emp_id": "NEX41379",
+        "name": "Harsh Nair",
+        "designation": "Senior UX Designer"
+      },
+      "headcount_in_sample": 6,
+      "headcount_by_location": {
+        "Bengaluru": 1,
+        "Gurugram": 5
+      },
+      "headcount_by_band": {
+        "B1": 2,
+        "B2": 3,
+        "B3": 1
+      },
+      "headcount_by_employment_type": {
+        "Graduate Engineer Trainee": 1,
+        "Intern": 1,
+        "Permanent": 4
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram"
+      ]
+    },
+    {
+      "department": "Quality Engineering",
+      "function_head": {
+        "emp_id": "NEX28761",
+        "name": "Lakshmi Sundaresan",
+        "designation": "Director - Quality Engineering"
+      },
+      "headcount_in_sample": 27,
+      "headcount_by_location": {
+        "Bengaluru": 9,
+        "Gurugram": 4,
+        "Pune": 14
+      },
+      "headcount_by_band": {
+        "B1": 8,
+        "B2": 5,
+        "B3": 4,
+        "B4": 3,
+        "B5": 3,
+        "B6": 2,
+        "B7": 2
+      },
+      "headcount_by_employment_type": {
+        "Graduate Engineer Trainee": 4,
+        "Permanent": 23
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram",
+        "Pune"
+      ]
+    },
+    {
+      "department": "Sales & Account Management",
+      "function_head": {
+        "emp_id": "NEX25226",
+        "name": "Balaji Mehra",
+        "designation": "Senior Account Manager"
+      },
+      "headcount_in_sample": 11,
+      "headcount_by_location": {
+        "Bengaluru": 3,
+        "Gurugram": 8
+      },
+      "headcount_by_band": {
+        "B1": 3,
+        "B2": 5,
+        "B3": 1,
+        "B4": 1,
+        "B5": 1
+      },
+      "headcount_by_employment_type": {
+        "Fixed-Term Contract": 1,
+        "Graduate Engineer Trainee": 2,
+        "Permanent": 8
+      },
+      "sites": [
+        "Bengaluru",
+        "Gurugram"
+      ]
+    }
+  ],
+  "reporting_tree": {
+    "emp_id": "NEX11646",
+    "name": "Meera Raghunathan",
+    "designation": "Founder & Chief Executive Officer",
+    "band": "ELT",
+    "location": "Gurugram",
+    "employment_type": "Permanent",
+    "date_of_joining": "2013-04-15",
+    "reports_to": null,
+    "direct_reports": 8,
+    "reports": [
+      {
+        "emp_id": "NEX24614",
+        "name": "Arjun Menon",
+        "designation": "Chief Financial Officer",
+        "band": "ELT",
+        "location": "Gurugram",
+        "employment_type": "Permanent",
+        "date_of_joining": "2013-04-01",
+        "reports_to": "NEX11646",
+        "direct_reports": 7,
+        "reports": [
+          {
+            "emp_id": "NEX38438",
+            "name": "Girish Pai",
+            "designation": "Director - Quality Engineering",
+            "band": "B7",
+            "location": "Pune",
+            "employment_type": "Permanent",
+            "date_of_joining": "2016-02-01",
+            "reports_to": "NEX24614",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX14702",
+                "name": "Anjali Trivedi",
+                "designation": "Senior Manager - Quality Engineering",
+                "band": "B6",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2020-02-12",
+                "reports_to": "NEX38438",
+                "direct_reports": 3,
+                "reports": [
+                  {
+                    "emp_id": "NEX33935",
+                    "name": "Kanika Deshmukh",
+                    "designation": "Quality Engineering Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2015-02-16",
+                    "reports_to": "NEX14702",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX36609",
+                        "name": "Bhavana Wadhwa",
+                        "designation": "QA Lead",
+                        "band": "B4",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2018-09-21",
+                        "reports_to": "NEX33935",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX21322",
+                            "name": "Hemant Khanna",
+                            "designation": "Senior QA Engineer",
+                            "band": "B3",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2020-07-27",
+                            "reports_to": "NEX36609",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX36499",
+                                "name": "Dinesh Rastogi",
+                                "designation": "QA Engineer",
+                                "band": "B2",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-04-09",
+                                "reports_to": "NEX21322",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX36377",
+                            "name": "Ajay Rana",
+                            "designation": "QA Engineer",
+                            "band": "B2",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-03-06",
+                            "reports_to": "NEX36609",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX30230",
+                                "name": "Rohan Maheshwari",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2024-03-02",
+                                "reports_to": "NEX36377",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX19581",
+                        "name": "Kavya Pai",
+                        "designation": "Senior QA Engineer",
+                        "band": "B3",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2022-07-29",
+                        "reports_to": "NEX33935",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX30758",
+                            "name": "Madhav Aggarwal",
+                            "designation": "Associate QA Engineer",
+                            "band": "B1",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-10-18",
+                            "reports_to": "NEX19581",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX32936",
+                    "name": "Pavan Chatterjee",
+                    "designation": "Quality Engineering Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2018-08-24",
+                    "reports_to": "NEX14702",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX31060",
+                        "name": "Shruti Pandit",
+                        "designation": "Senior QA Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2020-11-10",
+                        "reports_to": "NEX32936",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX18839",
+                            "name": "Faisal Reddy",
+                            "designation": "QA Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2023-07-19",
+                            "reports_to": "NEX31060",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX17737",
+                                "name": "Sowmya Bansal",
+                                "designation": "Associate QA Engineer",
+                                "band": "B1",
+                                "location": "Gurugram",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2023-09-18",
+                                "reports_to": "NEX18839",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX43621",
+                            "name": "Karthik Chauhan",
+                            "designation": "Graduate Engineer Trainee",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Graduate Engineer Trainee",
+                            "date_of_joining": "2022-01-05",
+                            "reports_to": "NEX31060",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX32407",
+                    "name": "Vandana Ahuja",
+                    "designation": "Quality Engineering Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2016-09-26",
+                    "reports_to": "NEX14702",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX28407",
+                        "name": "Nilesh Joshi",
+                        "designation": "Senior QA Engineer",
+                        "band": "B3",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2021-05-27",
+                        "reports_to": "NEX32407",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX20275",
+                "name": "Megha Maheshwari",
+                "designation": "Senior Manager - Quality Engineering",
+                "band": "B6",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-03-28",
+                "reports_to": "NEX38438",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX28761",
+            "name": "Lakshmi Sundaresan",
+            "designation": "Director - Quality Engineering",
+            "band": "B7",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2021-11-15",
+            "reports_to": "NEX24614",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX17452",
+                "name": "Aman Pathak",
+                "designation": "QA Lead",
+                "band": "B4",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-06-05",
+                "reports_to": "NEX28761",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX15138",
+                    "name": "Lakshman Verma",
+                    "designation": "QA Engineer",
+                    "band": "B2",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-08-19",
+                    "reports_to": "NEX17452",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX21385",
+                    "name": "Vinod Rajan",
+                    "designation": "QA Engineer",
+                    "band": "B2",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-04-14",
+                    "reports_to": "NEX17452",
+                    "direct_reports": 4,
+                    "reports": [
+                      {
+                        "emp_id": "NEX18597",
+                        "name": "Bhaskar Madhavan",
+                        "designation": "Associate QA Engineer",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-10-21",
+                        "reports_to": "NEX21385",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX47565",
+                        "name": "Nikhil Grover",
+                        "designation": "Graduate Engineer Trainee",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Graduate Engineer Trainee",
+                        "date_of_joining": "2024-05-15",
+                        "reports_to": "NEX21385",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX31380",
+                        "name": "Tarun Verma",
+                        "designation": "Associate QA Engineer",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-04-01",
+                        "reports_to": "NEX21385",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX31616",
+                        "name": "Vivek Kapoor",
+                        "designation": "Graduate Engineer Trainee",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Graduate Engineer Trainee",
+                        "date_of_joining": "2025-09-22",
+                        "reports_to": "NEX21385",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX41176",
+                "name": "Nakul Oberoi",
+                "designation": "QA Lead",
+                "band": "B4",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-09-11",
+                "reports_to": "NEX28761",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX22670",
+            "name": "Aparna Sethi",
+            "designation": "Senior Manager - Finance",
+            "band": "B6",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2016-05-09",
+            "reports_to": "NEX24614",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX39034",
+                "name": "Keshav Sinha",
+                "designation": "Manager - Finance & Accounts",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-12-10",
+                "reports_to": "NEX22670",
+                "direct_reports": 4,
+                "reports": [
+                  {
+                    "emp_id": "NEX17501",
+                    "name": "Anand Kulkarni",
+                    "designation": "Senior Finance Analyst",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-04-13",
+                    "reports_to": "NEX39034",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX38409",
+                        "name": "Prakash Pandey",
+                        "designation": "Finance Executive",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-05-30",
+                        "reports_to": "NEX17501",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX40927",
+                        "name": "Sanjay Fernandes",
+                        "designation": "Finance Executive",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-05-15",
+                        "reports_to": "NEX17501",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX21096",
+                    "name": "Aniket Prasad",
+                    "designation": "Senior Finance Analyst",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-02-12",
+                    "reports_to": "NEX39034",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX23520",
+                        "name": "Omkar Rana",
+                        "designation": "Finance Executive",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2022-03-27",
+                        "reports_to": "NEX21096",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX28917",
+                    "name": "Srikanth Mitra",
+                    "designation": "Senior Finance Analyst",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-03-02",
+                    "reports_to": "NEX39034",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX44001",
+                    "name": "Vidya Awasthi",
+                    "designation": "Senior Finance Analyst",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-09-13",
+                    "reports_to": "NEX39034",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX29245",
+                "name": "Varsha Wadhwa",
+                "designation": "Manager - Finance & Accounts",
+                "band": "B5",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2018-11-21",
+                "reports_to": "NEX22670",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX17461",
+                    "name": "Amol Singh",
+                    "designation": "Accounts Payable Analyst",
+                    "band": "B2",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-07-15",
+                    "reports_to": "NEX29245",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX24374",
+                        "name": "Akanksha Nadkarni",
+                        "designation": "Finance Executive",
+                        "band": "B1",
+                        "location": "Pune",
+                        "employment_type": "Fixed-Term Contract",
+                        "date_of_joining": "2024-02-26",
+                        "reports_to": "NEX17461",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX10409",
+                    "name": "Naveen Nagarajan",
+                    "designation": "Accounts Payable Analyst",
+                    "band": "B2",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-12-16",
+                    "reports_to": "NEX29245",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX15955",
+            "name": "Madhuri Iyengar",
+            "designation": "Senior Manager - Finance",
+            "band": "B6",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2015-02-02",
+            "reports_to": "NEX24614",
+            "direct_reports": 0
+          },
+          {
+            "emp_id": "NEX15584",
+            "name": "Shivam Deshpande",
+            "designation": "Senior Manager - Marketing",
+            "band": "B6",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2018-10-16",
+            "reports_to": "NEX24614",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX26461",
+                "name": "Suresh Hegde",
+                "designation": "Manager - Marketing",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-02-03",
+                "reports_to": "NEX15584",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX24960",
+                    "name": "Kanika Garg",
+                    "designation": "Senior Marketing Specialist",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2018-08-12",
+                    "reports_to": "NEX26461",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX12776",
+                        "name": "Ishita Maheshwari",
+                        "designation": "Marketing Associate",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-02-20",
+                        "reports_to": "NEX24960",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX27732",
+                        "name": "Meghana Bhosale",
+                        "designation": "Marketing Associate",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-03-04",
+                        "reports_to": "NEX24960",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX16127",
+                    "name": "Sridevi Joshi",
+                    "designation": "Senior Marketing Specialist",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Fixed-Term Contract",
+                    "date_of_joining": "2022-09-24",
+                    "reports_to": "NEX26461",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX45029",
+                        "name": "Karan Agarwal",
+                        "designation": "Marketing Associate",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-06-17",
+                        "reports_to": "NEX16127",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX45852",
+                            "name": "Parth Varma",
+                            "designation": "Intern - Mkt",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Intern",
+                            "date_of_joining": "2023-12-26",
+                            "reports_to": "NEX45029",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX13232",
+                        "name": "Vishal Mahajan",
+                        "designation": "Marketing Associate",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-05-16",
+                        "reports_to": "NEX16127",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX13925",
+            "name": "Suresh Iyengar",
+            "designation": "Senior Manager - Payroll & Compliance",
+            "band": "B6",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2021-08-16",
+            "reports_to": "NEX24614",
+            "direct_reports": 0
+          },
+          {
+            "emp_id": "NEX25226",
+            "name": "Balaji Mehra",
+            "designation": "Senior Account Manager",
+            "band": "B5",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2016-05-17",
+            "reports_to": "NEX24614",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX16726",
+                "name": "Dinesh Anand",
+                "designation": "Account Manager",
+                "band": "B4",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2020-04-15",
+                "reports_to": "NEX25226",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX31035",
+                    "name": "Hema Kaul",
+                    "designation": "Account Executive",
+                    "band": "B2",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-07-31",
+                    "reports_to": "NEX16726",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX47471",
+                    "name": "Mitali Khanna",
+                    "designation": "Account Executive",
+                    "band": "B2",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-12-09",
+                    "reports_to": "NEX16726",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX21886",
+                "name": "Jatin Bansal",
+                "designation": "Senior Account Executive",
+                "band": "B3",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2022-07-25",
+                "reports_to": "NEX25226",
+                "direct_reports": 4,
+                "reports": [
+                  {
+                    "emp_id": "NEX31984",
+                    "name": "Aniket Venkataraman",
+                    "designation": "Account Executive",
+                    "band": "B2",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-02-13",
+                    "reports_to": "NEX21886",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX17366",
+                    "name": "Mihir Fernandes",
+                    "designation": "Account Executive",
+                    "band": "B2",
+                    "location": "Gurugram",
+                    "employment_type": "Fixed-Term Contract",
+                    "date_of_joining": "2025-06-30",
+                    "reports_to": "NEX21886",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX45154",
+                    "name": "Santosh Awasthi",
+                    "designation": "Account Executive",
+                    "band": "B2",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-05-20",
+                    "reports_to": "NEX21886",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX12179",
+                        "name": "Gaurav Mallya",
+                        "designation": "Inside Sales Executive",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-02-29",
+                        "reports_to": "NEX45154",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX22239",
+                        "name": "Ramesh Seth",
+                        "designation": "Graduate Engineer Trainee",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Graduate Engineer Trainee",
+                        "date_of_joining": "2025-04-10",
+                        "reports_to": "NEX45154",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX39599",
+                    "name": "Shraddha Chandra",
+                    "designation": "Graduate Engineer Trainee",
+                    "band": "B1",
+                    "location": "Gurugram",
+                    "employment_type": "Graduate Engineer Trainee",
+                    "date_of_joining": "2026-01-28",
+                    "reports_to": "NEX21886",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX37498",
+        "name": "Farhan Qureshi",
+        "designation": "General Counsel",
+        "band": "ELT",
+        "location": "Gurugram",
+        "employment_type": "Permanent",
+        "date_of_joining": "2017-03-15",
+        "reports_to": "NEX11646",
+        "direct_reports": 4,
+        "reports": [
+          {
+            "emp_id": "NEX33102",
+            "name": "Farhan Ahluwalia",
+            "designation": "Senior Manager - Administration",
+            "band": "B6",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2019-06-18",
+            "reports_to": "NEX37498",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX45017",
+                "name": "Mukesh Khare",
+                "designation": "Facilities Lead",
+                "band": "B4",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2018-08-17",
+                "reports_to": "NEX33102",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX24696",
+                    "name": "Amit Madhavan",
+                    "designation": "Senior Facilities Executive",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Fixed-Term Contract",
+                    "date_of_joining": "2020-01-15",
+                    "reports_to": "NEX45017",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX42842",
+                        "name": "Shweta Venkataraman",
+                        "designation": "Graduate Engineer Trainee",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Graduate Engineer Trainee",
+                        "date_of_joining": "2022-10-07",
+                        "reports_to": "NEX24696",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX29610",
+                    "name": "Ankit Mathur",
+                    "designation": "Senior Facilities Executive",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-11-04",
+                    "reports_to": "NEX45017",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX32174",
+                        "name": "Shruti Ramachandran",
+                        "designation": "Facilities Associate",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Fixed-Term Contract",
+                        "date_of_joining": "2024-12-09",
+                        "reports_to": "NEX29610",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX19457",
+                "name": "Pragya Ahuja",
+                "designation": "Facilities Executive",
+                "band": "B2",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-04-08",
+                "reports_to": "NEX33102",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX27141",
+            "name": "Farida Contractor",
+            "designation": "Senior Manager - Shared Services",
+            "band": "B6",
+            "location": "Pune",
+            "employment_type": "Permanent",
+            "date_of_joining": "2023-09-09",
+            "reports_to": "NEX37498",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX11121",
+                "name": "Vinod Biswas",
+                "designation": "Senior Facilities Executive",
+                "band": "B3",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-04-18",
+                "reports_to": "NEX27141",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX35284",
+                    "name": "Sarvesh Kohli",
+                    "designation": "Facilities Executive",
+                    "band": "B2",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2022-05-23",
+                    "reports_to": "NEX11121",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX24928",
+            "name": "Karan Jain",
+            "designation": "Legal Counsel",
+            "band": "B4",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2021-09-21",
+            "reports_to": "NEX37498",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX45909",
+                "name": "Bhaskar Chopra",
+                "designation": "Senior Compliance Analyst",
+                "band": "B3",
+                "location": "Gurugram",
+                "employment_type": "Fixed-Term Contract",
+                "date_of_joining": "2020-01-09",
+                "reports_to": "NEX24928",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX38545",
+            "name": "Mitali Kamath",
+            "designation": "Legal Counsel",
+            "band": "B4",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2025-03-31",
+            "reports_to": "NEX37498",
+            "direct_reports": 0
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX19123",
+        "name": "Kavita Deshpande",
+        "designation": "Chief Human Resources Officer",
+        "band": "ELT",
+        "location": "Gurugram",
+        "employment_type": "Permanent",
+        "date_of_joining": "2015-04-20",
+        "reports_to": "NEX11646",
+        "direct_reports": 6,
+        "reports": [
+          {
+            "emp_id": "NEX19945",
+            "name": "Radhika Puri",
+            "designation": "Chief Information Officer",
+            "band": "B8",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2013-03-01",
+            "reports_to": "NEX19123",
+            "direct_reports": 4,
+            "reports": [
+              {
+                "emp_id": "NEX28819",
+                "name": "Deepak Bhatia",
+                "designation": "Director - IT",
+                "band": "B7",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2018-04-06",
+                "reports_to": "NEX19945",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX27965",
+                    "name": "Yogesh Anand",
+                    "designation": "Senior IT Support Engineer",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2020-03-16",
+                    "reports_to": "NEX28819",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX47477",
+                        "name": "Atul Bansal",
+                        "designation": "IT Support Engineer",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-07-30",
+                        "reports_to": "NEX27965",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX13249",
+                            "name": "Subodh Talwar",
+                            "designation": "IT Support Associate",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2025-08-27",
+                            "reports_to": "NEX47477",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX45659",
+                        "name": "Shalini Awasthi",
+                        "designation": "IT Support Engineer",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-05-30",
+                        "reports_to": "NEX27965",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX42994",
+                            "name": "Meghana Contractor",
+                            "designation": "Graduate Engineer Trainee",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Graduate Engineer Trainee",
+                            "date_of_joining": "2025-10-06",
+                            "reports_to": "NEX45659",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX16741",
+                "name": "Arjun Goel",
+                "designation": "Senior IT Support Engineer",
+                "band": "B3",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2022-08-29",
+                "reports_to": "NEX19945",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX25170",
+                    "name": "Simran Deshmukh",
+                    "designation": "IT Support Associate",
+                    "band": "B1",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-02-06",
+                    "reports_to": "NEX16741",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX24385",
+                "name": "Kaushik Rajan",
+                "designation": "Senior IT Support Engineer",
+                "band": "B3",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2018-09-27",
+                "reports_to": "NEX19945",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX23359",
+                    "name": "Amol Sivaraman",
+                    "designation": "Graduate Engineer Trainee",
+                    "band": "B1",
+                    "location": "Pune",
+                    "employment_type": "Graduate Engineer Trainee",
+                    "date_of_joining": "2025-08-25",
+                    "reports_to": "NEX24385",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX24851",
+                "name": "Amit Tandon",
+                "designation": "IT Support Engineer",
+                "band": "B2",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-10-30",
+                "reports_to": "NEX19945",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX23564",
+                    "name": "Vikas Puri",
+                    "designation": "IT Support Associate",
+                    "band": "B1",
+                    "location": "Bengaluru",
+                    "employment_type": "Fixed-Term Contract",
+                    "date_of_joining": "2023-11-08",
+                    "reports_to": "NEX24851",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX19701",
+            "name": "Ananya Krishnan",
+            "designation": "Director - Learning & Development",
+            "band": "B7",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2014-09-26",
+            "reports_to": "NEX19123",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX49011",
+                "name": "Nithya Ramachandran",
+                "designation": "Senior Manager - Human Resources",
+                "band": "B6",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-02-29",
+                "reports_to": "NEX19701",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX20774",
+                    "name": "Mukesh Seth",
+                    "designation": "Senior HR Business Partner",
+                    "band": "B4",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2021-03-15",
+                    "reports_to": "NEX49011",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX28273",
+                        "name": "Saurabh Talwar",
+                        "designation": "Talent Acquisition Specialist",
+                        "band": "B2",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-04-23",
+                        "reports_to": "NEX20774",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX23182",
+            "name": "Nandita Sharma",
+            "designation": "Director - HR Operations",
+            "band": "B7",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2018-03-12",
+            "reports_to": "NEX19123",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX19896",
+                "name": "Sameer Vaidya",
+                "designation": "Manager - Human Resources",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2015-03-27",
+                "reports_to": "NEX23182",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX28946",
+                    "name": "Akanksha Gawande",
+                    "designation": "HR Business Partner",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-02-08",
+                    "reports_to": "NEX19896",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX48978",
+                        "name": "Rajat Bhatia",
+                        "designation": "Intern - Hr",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Intern",
+                        "date_of_joining": "2024-07-08",
+                        "reports_to": "NEX28946",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX13833",
+                "name": "Zoya Rahman",
+                "designation": "Manager - Human Resources",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-02-15",
+                "reports_to": "NEX23182",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX18867",
+                    "name": "Aditi Bajaj",
+                    "designation": "HR Business Partner",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-10-23",
+                    "reports_to": "NEX13833",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX16612",
+                    "name": "Atul Maheshwari",
+                    "designation": "HR Business Partner",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-01-15",
+                    "reports_to": "NEX13833",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX35319",
+                        "name": "Madhuri Grover",
+                        "designation": "HR Executive",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-03-18",
+                        "reports_to": "NEX16612",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX20417",
+            "name": "Priyanka Bhattacharya",
+            "designation": "Director - Talent Acquisition",
+            "band": "B7",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2015-11-02",
+            "reports_to": "NEX19123",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX16467",
+                "name": "Suraj Ahuja",
+                "designation": "Manager - Human Resources",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-04-07",
+                "reports_to": "NEX20417",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX24862",
+                    "name": "Zaid Puri",
+                    "designation": "Senior HR Business Partner",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2019-10-16",
+                    "reports_to": "NEX16467",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX37792",
+                        "name": "Vinay Jain",
+                        "designation": "HR Business Partner",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-07-24",
+                        "reports_to": "NEX24862",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX10599",
+                            "name": "Mohit Sharma",
+                            "designation": "Talent Acquisition Specialist",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-09-30",
+                            "reports_to": "NEX37792",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX17668",
+                                "name": "Ankit Rao",
+                                "designation": "HR Executive",
+                                "band": "B1",
+                                "location": "Gurugram",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-11-04",
+                                "reports_to": "NEX10599",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX28881",
+                                "name": "Prakash Patil",
+                                "designation": "HR Executive",
+                                "band": "B1",
+                                "location": "Gurugram",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-09-08",
+                                "reports_to": "NEX10599",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX46558",
+            "name": "Ritu Malhotra",
+            "designation": "Senior Director - Delivery Assurance",
+            "band": "B7",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2015-11-30",
+            "reports_to": "NEX19123",
+            "direct_reports": 0
+          },
+          {
+            "emp_id": "NEX13905",
+            "name": "Swati Kulkarni",
+            "designation": "Manager - Talent Acquisition",
+            "band": "B5",
+            "location": "Pune",
+            "employment_type": "Permanent",
+            "date_of_joining": "2022-12-21",
+            "reports_to": "NEX19123",
+            "direct_reports": 3,
+            "reports": [
+              {
+                "emp_id": "NEX35309",
+                "name": "Rashmi Shetty",
+                "designation": "Talent Acquisition Specialist",
+                "band": "B2",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2025-10-10",
+                "reports_to": "NEX13905",
+                "direct_reports": 0
+              },
+              {
+                "emp_id": "NEX28368",
+                "name": "Tarun Basu",
+                "designation": "Talent Acquisition Specialist",
+                "band": "B2",
+                "location": "Pune",
+                "employment_type": "Fixed-Term Contract",
+                "date_of_joining": "2024-05-06",
+                "reports_to": "NEX13905",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX21288",
+                    "name": "Saurabh Mukherjee",
+                    "designation": "HR Executive",
+                    "band": "B1",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-02-15",
+                    "reports_to": "NEX28368",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX36237",
+                "name": "Tushar Wadhwa",
+                "designation": "Talent Acquisition Specialist",
+                "band": "B2",
+                "location": "Pune",
+                "employment_type": "Fixed-Term Contract",
+                "date_of_joining": "2024-12-23",
+                "reports_to": "NEX13905",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX16350",
+                    "name": "Vedant Bansal",
+                    "designation": "Graduate Engineer Trainee",
+                    "band": "B1",
+                    "location": "Pune",
+                    "employment_type": "Graduate Engineer Trainee",
+                    "date_of_joining": "2025-07-19",
+                    "reports_to": "NEX36237",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX30252",
+        "name": "Rohan Iyer",
+        "designation": "Chief Technology Officer",
+        "band": "ELT",
+        "location": "Bengaluru",
+        "employment_type": "Permanent",
+        "date_of_joining": "2019-10-09",
+        "reports_to": "NEX11646",
+        "direct_reports": 6,
+        "reports": [
+          {
+            "emp_id": "NEX17930",
+            "name": "Ajay Dutta",
+            "designation": "Vice President - Engineering",
+            "band": "B8",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2015-06-15",
+            "reports_to": "NEX30252",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX38924",
+                "name": "Amit Grover",
+                "designation": "Director - Engineering",
+                "band": "B7",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2015-11-30",
+                "reports_to": "NEX17930",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX27333",
+                    "name": "Vedant Rajan",
+                    "designation": "Senior Manager - Engineering",
+                    "band": "B6",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2016-11-28",
+                    "reports_to": "NEX38924",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX26702",
+                        "name": "Meera Gill",
+                        "designation": "Engineering Manager",
+                        "band": "B5",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2017-10-27",
+                        "reports_to": "NEX27333",
+                        "direct_reports": 4,
+                        "reports": [
+                          {
+                            "emp_id": "NEX38594",
+                            "name": "Prashant Goel",
+                            "designation": "Technical Lead",
+                            "band": "B4",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2019-10-09",
+                            "reports_to": "NEX26702",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX30506",
+                            "name": "Ranjit Nambiar",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2020-01-29",
+                            "reports_to": "NEX26702",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX12998",
+                            "name": "Sunil Talwar",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-03-25",
+                            "reports_to": "NEX26702",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX22413",
+                                "name": "Nikhil Naidu",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2023-03-27",
+                                "reports_to": "NEX12998",
+                                "direct_reports": 1,
+                                "reports": [
+                                  {
+                                    "emp_id": "NEX21302",
+                                    "name": "Rohan Mehta",
+                                    "designation": "Intern - Eng",
+                                    "band": "B1",
+                                    "location": "Pune",
+                                    "employment_type": "Intern",
+                                    "date_of_joining": "2025-01-27",
+                                    "reports_to": "NEX22413",
+                                    "direct_reports": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX49810",
+                            "name": "Swati Chopra",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2018-11-02",
+                            "reports_to": "NEX26702",
+                            "direct_reports": 3,
+                            "reports": [
+                              {
+                                "emp_id": "NEX30203",
+                                "name": "Pranav Subramanian",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-07-07",
+                                "reports_to": "NEX49810",
+                                "direct_reports": 1,
+                                "reports": [
+                                  {
+                                    "emp_id": "NEX19101",
+                                    "name": "Amit Bhandari",
+                                    "designation": "Intern - Eng",
+                                    "band": "B1",
+                                    "location": "Pune",
+                                    "employment_type": "Intern",
+                                    "date_of_joining": "2022-02-21",
+                                    "reports_to": "NEX30203",
+                                    "direct_reports": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "emp_id": "NEX39471",
+                                "name": "Vandana Mallya",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-06-06",
+                                "reports_to": "NEX49810",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX16396",
+                                "name": "Meera Goswami",
+                                "designation": "Associate Software Engineer",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-08-01",
+                                "reports_to": "NEX49810",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX44844",
+                "name": "Karthik Subramanian",
+                "designation": "Senior Engineering Manager",
+                "band": "B6",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2017-09-16",
+                "reports_to": "NEX17930",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX11728",
+            "name": "Shailesh Narayanan",
+            "designation": "Vice President - Cloud",
+            "band": "B8",
+            "location": "Pune",
+            "employment_type": "Permanent",
+            "date_of_joining": "2016-08-01",
+            "reports_to": "NEX30252",
+            "direct_reports": 3,
+            "reports": [
+              {
+                "emp_id": "NEX30490",
+                "name": "Neelam Bhosale",
+                "designation": "Director - Cloud & Infrastructure",
+                "band": "B7",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2012-10-09",
+                "reports_to": "NEX11728",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX42061",
+                    "name": "Abhishek Wadhwa",
+                    "designation": "DevOps Engineer",
+                    "band": "B2",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2025-01-30",
+                    "reports_to": "NEX30490",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX18165",
+                        "name": "Indrajit Anand",
+                        "designation": "Associate Cloud Engineer",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-10-14",
+                        "reports_to": "NEX42061",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX12139",
+                "name": "Sameer Awasthi",
+                "designation": "Director - Cloud & Infrastructure",
+                "band": "B7",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-11-07",
+                "reports_to": "NEX11728",
+                "direct_reports": 3,
+                "reports": [
+                  {
+                    "emp_id": "NEX26549",
+                    "name": "Deepak Sekhar",
+                    "designation": "Cloud Engineering Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2018-12-05",
+                    "reports_to": "NEX12139",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX21971",
+                        "name": "Amol Deshmukh",
+                        "designation": "Technical Architect",
+                        "band": "B4",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2020-02-03",
+                        "reports_to": "NEX26549",
+                        "direct_reports": 3,
+                        "reports": [
+                          {
+                            "emp_id": "NEX22286",
+                            "name": "Aman Verma",
+                            "designation": "DevOps Engineer",
+                            "band": "B2",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-04-03",
+                            "reports_to": "NEX21971",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX29160",
+                                "name": "Lavanya Menon",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2025-01-18",
+                                "reports_to": "NEX22286",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX43860",
+                                "name": "Rahul Gupta",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2022-12-16",
+                                "reports_to": "NEX22286",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX15068",
+                            "name": "Ashish Ramachandran",
+                            "designation": "DevOps Engineer",
+                            "band": "B2",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-09-05",
+                            "reports_to": "NEX21971",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX27105",
+                                "name": "Harini Bhat",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-01-15",
+                                "reports_to": "NEX15068",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX17353",
+                                "name": "Nirav Mehra",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-05-26",
+                                "reports_to": "NEX15068",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX12260",
+                            "name": "Rishi Rana",
+                            "designation": "DevOps Engineer",
+                            "band": "B2",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-09-04",
+                            "reports_to": "NEX21971",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX47946",
+                                "name": "Mahesh Agarwal",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Pune",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-02-19",
+                                "reports_to": "NEX12260",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX40960",
+                        "name": "Sudhir Rao",
+                        "designation": "Cloud Architect",
+                        "band": "B4",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2020-09-21",
+                        "reports_to": "NEX26549",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX27920",
+                            "name": "Anuradha Sharma",
+                            "designation": "Senior DevOps Engineer",
+                            "band": "B3",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-04-08",
+                            "reports_to": "NEX40960",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX22024",
+                            "name": "Siddharth Nambiar",
+                            "designation": "Senior DevOps Engineer",
+                            "band": "B3",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2023-12-06",
+                            "reports_to": "NEX40960",
+                            "direct_reports": 3,
+                            "reports": [
+                              {
+                                "emp_id": "NEX37749",
+                                "name": "Lavanya Pathak",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2022-12-12",
+                                "reports_to": "NEX22024",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX11633",
+                                "name": "Varsha Oberoi",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-04-23",
+                                "reports_to": "NEX22024",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX16593",
+                                "name": "Vikas Mehta",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2025-05-26",
+                                "reports_to": "NEX22024",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX26986",
+                    "name": "Mahesh Kaul",
+                    "designation": "Cloud Engineering Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2021-12-14",
+                    "reports_to": "NEX12139",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX49304",
+                    "name": "Prithvi Kapoor",
+                    "designation": "Cloud Architect",
+                    "band": "B4",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2019-10-07",
+                    "reports_to": "NEX12139",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX21768",
+                        "name": "Sanjay Mukherjee",
+                        "designation": "Senior DevOps Engineer",
+                        "band": "B3",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-12-09",
+                        "reports_to": "NEX49304",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX13123",
+                            "name": "Anirudh Fernandes",
+                            "designation": "DevOps Engineer",
+                            "band": "B2",
+                            "location": "Bengaluru",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2024-10-30",
+                            "reports_to": "NEX21768",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX35098",
+                                "name": "Subodh Puri",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2024-11-25",
+                                "reports_to": "NEX13123",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX25974",
+                            "name": "Supriya Das",
+                            "designation": "DevOps Engineer",
+                            "band": "B2",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-09-23",
+                            "reports_to": "NEX21768",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX45010",
+                                "name": "Arjun Mukherjee",
+                                "designation": "Associate Cloud Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-08-19",
+                                "reports_to": "NEX25974",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX15790",
+                "name": "Shreyas Das",
+                "designation": "Cloud Architect",
+                "band": "B4",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-03-14",
+                "reports_to": "NEX11728",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX37778",
+                    "name": "Chetan Mehta",
+                    "designation": "Senior DevOps Engineer",
+                    "band": "B3",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-04-08",
+                    "reports_to": "NEX15790",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX44168",
+                        "name": "Prashant Kulkarni",
+                        "designation": "Associate Cloud Engineer",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-10-29",
+                        "reports_to": "NEX37778",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX22540",
+            "name": "Manish Grover",
+            "designation": "Director - Engineering",
+            "band": "B7",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2013-01-05",
+            "reports_to": "NEX30252",
+            "direct_reports": 4,
+            "reports": [
+              {
+                "emp_id": "NEX46910",
+                "name": "Ipsita Malhotra",
+                "designation": "Senior Manager - Engineering",
+                "band": "B6",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2019-10-12",
+                "reports_to": "NEX22540",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX33526",
+                    "name": "Omkar Trivedi",
+                    "designation": "Engineering Manager",
+                    "band": "B5",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-12-21",
+                    "reports_to": "NEX46910",
+                    "direct_reports": 4,
+                    "reports": [
+                      {
+                        "emp_id": "NEX46361",
+                        "name": "Vikas Krishnan",
+                        "designation": "Technical Lead",
+                        "band": "B4",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2019-09-23",
+                        "reports_to": "NEX33526",
+                        "direct_reports": 3,
+                        "reports": [
+                          {
+                            "emp_id": "NEX29742",
+                            "name": "Praveen Rao",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2021-09-27",
+                            "reports_to": "NEX46361",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX39433",
+                                "name": "Chetan Dutta",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Gurugram",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2023-01-12",
+                                "reports_to": "NEX29742",
+                                "direct_reports": 1,
+                                "reports": [
+                                  {
+                                    "emp_id": "NEX22739",
+                                    "name": "Mohit Seth",
+                                    "designation": "Associate Software Engineer",
+                                    "band": "B1",
+                                    "location": "Gurugram",
+                                    "employment_type": "Permanent",
+                                    "date_of_joining": "2025-06-10",
+                                    "reports_to": "NEX39433",
+                                    "direct_reports": 0
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX41763",
+                            "name": "Vikas Sekhar",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2019-07-27",
+                            "reports_to": "NEX46361",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX30013",
+                                "name": "Abhishek Karnik",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Gurugram",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-12-30",
+                                "reports_to": "NEX41763",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX41569",
+                            "name": "Shashank Bajaj",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2026-01-05",
+                            "reports_to": "NEX46361",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX39800",
+                        "name": "Ragini Soni",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2022-05-23",
+                        "reports_to": "NEX33526",
+                        "direct_reports": 4,
+                        "reports": [
+                          {
+                            "emp_id": "NEX10648",
+                            "name": "Balaji Anand",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-04-10",
+                            "reports_to": "NEX39800",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX26808",
+                            "name": "Sarvesh Oberoi",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-03-31",
+                            "reports_to": "NEX39800",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX49471",
+                            "name": "Sachin Prasad",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-08-25",
+                            "reports_to": "NEX39800",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX33818",
+                            "name": "Uma Pai",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-07-22",
+                            "reports_to": "NEX39800",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX16432",
+                        "name": "Rakesh Chatterjee",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2022-11-19",
+                        "reports_to": "NEX33526",
+                        "direct_reports": 3,
+                        "reports": [
+                          {
+                            "emp_id": "NEX14736",
+                            "name": "Karthik Bhattacharya",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2025-06-23",
+                            "reports_to": "NEX16432",
+                            "direct_reports": 1,
+                            "reports": [
+                              {
+                                "emp_id": "NEX16285",
+                                "name": "Ravi Shukla",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Gurugram",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2025-08-09",
+                                "reports_to": "NEX14736",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX12318",
+                            "name": "Satish Pillai",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2024-12-21",
+                            "reports_to": "NEX16432",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX44671",
+                            "name": "Smita Goel",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-07-21",
+                            "reports_to": "NEX16432",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX10314",
+                        "name": "Shruti Sharma",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-03-18",
+                        "reports_to": "NEX33526",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX37644",
+                "name": "Pavan Oberoi",
+                "designation": "Senior Manager - Engineering",
+                "band": "B6",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-05-22",
+                "reports_to": "NEX22540",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX32373",
+                    "name": "Aditya Gopalan",
+                    "designation": "Technical Lead",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2021-06-12",
+                    "reports_to": "NEX37644",
+                    "direct_reports": 8,
+                    "reports": [
+                      {
+                        "emp_id": "NEX25668",
+                        "name": "Akash Ganguly",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Fixed-Term Contract",
+                        "date_of_joining": "2019-08-11",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX37922",
+                            "name": "Pooja Oberoi",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-01-31",
+                            "reports_to": "NEX25668",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX12278",
+                        "name": "Balaji Maheshwari",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-06-06",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX16785",
+                            "name": "Kiran Grover",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-01-20",
+                            "reports_to": "NEX12278",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX10373",
+                        "name": "Girish Hegde",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-05-15",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX47095",
+                            "name": "Umesh Deshpande",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-05-23",
+                            "reports_to": "NEX10373",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX43939",
+                        "name": "Meera Khanna",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2018-10-25",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX31310",
+                        "name": "Omkar Ahuja",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2022-07-18",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX20571",
+                        "name": "Shreyas Srinivasan",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-04-11",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX29226",
+                            "name": "Chetan Patel",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-07-08",
+                            "reports_to": "NEX20571",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX18073",
+                        "name": "Smita Garg",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2020-08-04",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX26478",
+                            "name": "Kunal Pillai",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-07-07",
+                            "reports_to": "NEX18073",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX36323",
+                            "name": "Uma Naidu",
+                            "designation": "Associate Software Engineer",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-12-02",
+                            "reports_to": "NEX18073",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX24841",
+                        "name": "Zaid Mahajan",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2021-06-16",
+                        "reports_to": "NEX32373",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX41353",
+                            "name": "Dhruv Vohra",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-08-04",
+                            "reports_to": "NEX24841",
+                            "direct_reports": 0
+                          },
+                          {
+                            "emp_id": "NEX18741",
+                            "name": "Vidya Agarwal",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Gurugram",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2024-05-21",
+                            "reports_to": "NEX24841",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX33481",
+                "name": "Deepika Nagarajan",
+                "designation": "Engineering Manager",
+                "band": "B5",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2021-12-04",
+                "reports_to": "NEX22540",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX35718",
+                    "name": "Ashish Deshpande",
+                    "designation": "Senior Software Engineer",
+                    "band": "B3",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2018-01-14",
+                    "reports_to": "NEX33481",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX43740",
+                    "name": "Mukesh Prasad",
+                    "designation": "Senior Software Engineer",
+                    "band": "B3",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2020-12-17",
+                    "reports_to": "NEX33481",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX20900",
+                "name": "Girish Chandra",
+                "designation": "Engineering Manager",
+                "band": "B5",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-05-21",
+                "reports_to": "NEX22540",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX18289",
+            "name": "Shalini Sengupta",
+            "designation": "Director - Engineering",
+            "band": "B7",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2015-09-28",
+            "reports_to": "NEX30252",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX26227",
+                "name": "Shashank Sinha",
+                "designation": "Senior Manager - Engineering",
+                "band": "B6",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2021-12-09",
+                "reports_to": "NEX18289",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX20469",
+                    "name": "Aditi Ahuja",
+                    "designation": "Engineering Manager",
+                    "band": "B5",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2017-12-11",
+                    "reports_to": "NEX26227",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX18083",
+                        "name": "Varun Nambiar",
+                        "designation": "Technical Lead",
+                        "band": "B4",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2021-10-25",
+                        "reports_to": "NEX20469",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX21787",
+                            "name": "Manoj Rao",
+                            "designation": "Senior Software Engineer",
+                            "band": "B3",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-05-26",
+                            "reports_to": "NEX18083",
+                            "direct_reports": 4,
+                            "reports": [
+                              {
+                                "emp_id": "NEX12297",
+                                "name": "Atul Bhosale",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-02-13",
+                                "reports_to": "NEX21787",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX36246",
+                                "name": "Mayank Joshi",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2022-10-03",
+                                "reports_to": "NEX21787",
+                                "direct_reports": 1,
+                                "reports": [
+                                  {
+                                    "emp_id": "NEX46173",
+                                    "name": "Uday Subramanian",
+                                    "designation": "Associate Software Engineer",
+                                    "band": "B1",
+                                    "location": "Bengaluru",
+                                    "employment_type": "Permanent",
+                                    "date_of_joining": "2025-06-25",
+                                    "reports_to": "NEX36246",
+                                    "direct_reports": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "emp_id": "NEX21559",
+                                "name": "Nupur Kohli",
+                                "designation": "Software Engineer",
+                                "band": "B2",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-08-22",
+                                "reports_to": "NEX21787",
+                                "direct_reports": 1,
+                                "reports": [
+                                  {
+                                    "emp_id": "NEX32425",
+                                    "name": "Varun Goswami",
+                                    "designation": "Graduate Engineer Trainee",
+                                    "band": "B1",
+                                    "location": "Bengaluru",
+                                    "employment_type": "Graduate Engineer Trainee",
+                                    "date_of_joining": "2025-06-03",
+                                    "reports_to": "NEX21559",
+                                    "direct_reports": 0
+                                  }
+                                ]
+                              },
+                              {
+                                "emp_id": "NEX15766",
+                                "name": "Keerthi Saxena",
+                                "designation": "Associate Software Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2021-04-27",
+                                "reports_to": "NEX21787",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX12754",
+                "name": "Manisha Mishra",
+                "designation": "Engineering Manager",
+                "band": "B5",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2020-03-18",
+                "reports_to": "NEX18289",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX16360",
+                    "name": "Sumit Sivaraman",
+                    "designation": "Technical Lead",
+                    "band": "B4",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-03-13",
+                    "reports_to": "NEX12754",
+                    "direct_reports": 3,
+                    "reports": [
+                      {
+                        "emp_id": "NEX49498",
+                        "name": "Kailash Soni",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2021-05-10",
+                        "reports_to": "NEX16360",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX20025",
+                            "name": "Zaid Ahluwalia",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2025-06-13",
+                            "reports_to": "NEX49498",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX26235",
+                                "name": "Pranav Mishra",
+                                "designation": "Associate Software Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-02-12",
+                                "reports_to": "NEX20025",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX26096",
+                                "name": "Prithvi Gawande",
+                                "designation": "Associate Software Engineer",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2024-09-02",
+                                "reports_to": "NEX20025",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX25737",
+                        "name": "Sunita Subramanian",
+                        "designation": "Senior Software Engineer",
+                        "band": "B3",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2019-07-16",
+                        "reports_to": "NEX16360",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX44687",
+                            "name": "Ragini Chatterjee",
+                            "designation": "Software Engineer",
+                            "band": "B2",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-05-14",
+                            "reports_to": "NEX25737",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX29083",
+                        "name": "Pranav Bhandari",
+                        "designation": "Software Engineer",
+                        "band": "B2",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-08-19",
+                        "reports_to": "NEX16360",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX17967",
+            "name": "Sagar Basu",
+            "designation": "Manager - Information Security",
+            "band": "B5",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2024-02-24",
+            "reports_to": "NEX30252",
+            "direct_reports": 3,
+            "reports": [
+              {
+                "emp_id": "NEX13488",
+                "name": "Ankita Sethi",
+                "designation": "Security Architect",
+                "band": "B4",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-07-17",
+                "reports_to": "NEX17967",
+                "direct_reports": 0
+              },
+              {
+                "emp_id": "NEX36238",
+                "name": "Saurabh Garg",
+                "designation": "Security Architect",
+                "band": "B4",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-07-03",
+                "reports_to": "NEX17967",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX44933",
+                    "name": "Bhaskar Sundaram",
+                    "designation": "Senior Information Security Analyst",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-06-18",
+                    "reports_to": "NEX36238",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX39361",
+                        "name": "Ashwin Prasad",
+                        "designation": "Associate Security Analyst",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-02-23",
+                        "reports_to": "NEX44933",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX40848",
+                        "name": "Bhavana Singh",
+                        "designation": "Associate Security Analyst",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-08-19",
+                        "reports_to": "NEX44933",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX28013",
+                "name": "Parvathi Naidu",
+                "designation": "Information Security Analyst",
+                "band": "B2",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-06-05",
+                "reports_to": "NEX17967",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX47356",
+                    "name": "Nupur Pai",
+                    "designation": "Associate Security Analyst",
+                    "band": "B1",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-09-18",
+                    "reports_to": "NEX28013",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX10626",
+                    "name": "Venkatesh Dutta",
+                    "designation": "Associate Security Analyst",
+                    "band": "B1",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-02-07",
+                    "reports_to": "NEX28013",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX41379",
+            "name": "Harsh Nair",
+            "designation": "Senior UX Designer",
+            "band": "B3",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2022-12-06",
+            "reports_to": "NEX30252",
+            "direct_reports": 3,
+            "reports": [
+              {
+                "emp_id": "NEX36169",
+                "name": "Balaji Grover",
+                "designation": "UX Designer",
+                "band": "B2",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-08-31",
+                "reports_to": "NEX41379",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX33707",
+                    "name": "Roshni Pathak",
+                    "designation": "Intern - Prd",
+                    "band": "B1",
+                    "location": "Gurugram",
+                    "employment_type": "Intern",
+                    "date_of_joining": "2024-02-26",
+                    "reports_to": "NEX36169",
+                    "direct_reports": 0
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX42784",
+                "name": "Namrata Prasad",
+                "designation": "UX Designer",
+                "band": "B2",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-03-15",
+                "reports_to": "NEX41379",
+                "direct_reports": 0
+              },
+              {
+                "emp_id": "NEX30001",
+                "name": "Nupur Ganguly",
+                "designation": "UX Designer",
+                "band": "B2",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-09-16",
+                "reports_to": "NEX41379",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX27320",
+                    "name": "Anuradha Kaul",
+                    "designation": "Graduate Engineer Trainee",
+                    "band": "B1",
+                    "location": "Gurugram",
+                    "employment_type": "Graduate Engineer Trainee",
+                    "date_of_joining": "2023-11-16",
+                    "reports_to": "NEX30001",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX34040",
+        "name": "Vikram Sundaram",
+        "designation": "Chief Operating Officer",
+        "band": "ELT",
+        "location": "Gurugram",
+        "employment_type": "Permanent",
+        "date_of_joining": "2019-06-24",
+        "reports_to": "NEX11646",
+        "direct_reports": 2,
+        "reports": [
+          {
+            "emp_id": "NEX25409",
+            "name": "Sandeep Nair",
+            "designation": "Senior Director - Delivery",
+            "band": "B7",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2017-11-09",
+            "reports_to": "NEX34040",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX29535",
+                "name": "Harish Sekhar",
+                "designation": "Program Manager",
+                "band": "B6",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2023-12-18",
+                "reports_to": "NEX25409",
+                "direct_reports": 4,
+                "reports": [
+                  {
+                    "emp_id": "NEX19471",
+                    "name": "Aniket Chopra",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2019-12-30",
+                    "reports_to": "NEX29535",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX39836",
+                    "name": "Deepa Mehta",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2022-07-19",
+                    "reports_to": "NEX29535",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX31690",
+                        "name": "Umesh Krishnan",
+                        "designation": "Business Analyst",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-09-10",
+                        "reports_to": "NEX39836",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX15019",
+                        "name": "Meghana Dutta",
+                        "designation": "Associate Delivery Manager",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-08-07",
+                        "reports_to": "NEX39836",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX10638",
+                    "name": "Saurabh Biswas",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2022-05-02",
+                    "reports_to": "NEX29535",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX29757",
+                    "name": "Vidya Ramachandran",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-08-20",
+                    "reports_to": "NEX29535",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX45373",
+                        "name": "Harish Shukla",
+                        "designation": "Business Analyst",
+                        "band": "B3",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2024-09-01",
+                        "reports_to": "NEX29757",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX14239",
+                        "name": "Harish Varma",
+                        "designation": "Associate Delivery Manager",
+                        "band": "B2",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-02-25",
+                        "reports_to": "NEX29757",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX47052",
+                            "name": "Kunal Varma",
+                            "designation": "Project Coordinator",
+                            "band": "B1",
+                            "location": "Gurugram",
+                            "employment_type": "Fixed-Term Contract",
+                            "date_of_joining": "2024-07-25",
+                            "reports_to": "NEX14239",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX41831",
+                "name": "Radhika Khanna",
+                "designation": "Program Manager",
+                "band": "B6",
+                "location": "Pune",
+                "employment_type": "Permanent",
+                "date_of_joining": "2019-06-10",
+                "reports_to": "NEX25409",
+                "direct_reports": 3,
+                "reports": [
+                  {
+                    "emp_id": "NEX42457",
+                    "name": "Farida Dutta",
+                    "designation": "Delivery Manager",
+                    "band": "B5",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2024-04-01",
+                    "reports_to": "NEX41831",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX20213",
+                        "name": "Vandana Shukla",
+                        "designation": "Scrum Master",
+                        "band": "B4",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-07-31",
+                        "reports_to": "NEX42457",
+                        "direct_reports": 2,
+                        "reports": [
+                          {
+                            "emp_id": "NEX18181",
+                            "name": "Pavan Patel",
+                            "designation": "Business Analyst",
+                            "band": "B3",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2021-09-13",
+                            "reports_to": "NEX20213",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX36611",
+                                "name": "Harsh Khare",
+                                "designation": "Associate Delivery Manager",
+                                "band": "B2",
+                                "location": "Bengaluru",
+                                "employment_type": "Permanent",
+                                "date_of_joining": "2025-01-27",
+                                "reports_to": "NEX18181",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX15079",
+                                "name": "Mayank Lal",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2021-06-14",
+                                "reports_to": "NEX18181",
+                                "direct_reports": 0
+                              }
+                            ]
+                          },
+                          {
+                            "emp_id": "NEX37464",
+                            "name": "Trisha Kohli",
+                            "designation": "Business Analyst",
+                            "band": "B3",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2024-04-01",
+                            "reports_to": "NEX20213",
+                            "direct_reports": 2,
+                            "reports": [
+                              {
+                                "emp_id": "NEX22056",
+                                "name": "Nupur Pillai",
+                                "designation": "Associate Delivery Manager",
+                                "band": "B2",
+                                "location": "Bengaluru",
+                                "employment_type": "Fixed-Term Contract",
+                                "date_of_joining": "2025-08-18",
+                                "reports_to": "NEX37464",
+                                "direct_reports": 0
+                              },
+                              {
+                                "emp_id": "NEX43429",
+                                "name": "Prakash Ahuja",
+                                "designation": "Graduate Engineer Trainee",
+                                "band": "B1",
+                                "location": "Bengaluru",
+                                "employment_type": "Graduate Engineer Trainee",
+                                "date_of_joining": "2025-09-03",
+                                "reports_to": "NEX37464",
+                                "direct_reports": 0
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX16383",
+                    "name": "Satish Mahajan",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2018-05-23",
+                    "reports_to": "NEX41831",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX28274",
+                        "name": "Anjali Dubey",
+                        "designation": "Associate Delivery Manager",
+                        "band": "B2",
+                        "location": "Pune",
+                        "employment_type": "Fixed-Term Contract",
+                        "date_of_joining": "2023-10-24",
+                        "reports_to": "NEX16383",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX32339",
+                            "name": "Shashank Narayanan",
+                            "designation": "Graduate Engineer Trainee",
+                            "band": "B1",
+                            "location": "Pune",
+                            "employment_type": "Graduate Engineer Trainee",
+                            "date_of_joining": "2025-04-05",
+                            "reports_to": "NEX28274",
+                            "direct_reports": 0
+                          }
+                        ]
+                      },
+                      {
+                        "emp_id": "NEX20795",
+                        "name": "Sourav Pathak",
+                        "designation": "Associate Delivery Manager",
+                        "band": "B2",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-08-13",
+                        "reports_to": "NEX16383",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX40479",
+                    "name": "Sourav Gupta",
+                    "designation": "Scrum Master",
+                    "band": "B4",
+                    "location": "Pune",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2022-03-30",
+                    "reports_to": "NEX41831",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX17214",
+                        "name": "Uday Trivedi",
+                        "designation": "Business Analyst",
+                        "band": "B3",
+                        "location": "Pune",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-07-21",
+                        "reports_to": "NEX40479",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX39579",
+                            "name": "Mayank Mehta",
+                            "designation": "Project Coordinator",
+                            "band": "B1",
+                            "location": "Pune",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2023-03-14",
+                            "reports_to": "NEX17214",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX25814",
+            "name": "Sanjay Bhattacharya",
+            "designation": "Senior Manager - Data & Analytics",
+            "band": "B6",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2021-02-18",
+            "reports_to": "NEX34040",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX47029",
+                "name": "Anirudh Gawande",
+                "designation": "Data Engineering Manager",
+                "band": "B5",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2016-04-11",
+                "reports_to": "NEX25814",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX42060",
+                    "name": "Aditi Vohra",
+                    "designation": "Senior Data Engineer",
+                    "band": "B3",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2020-10-26",
+                    "reports_to": "NEX47029",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX41437",
+                        "name": "Shashank Tiwari",
+                        "designation": "Data Engineer",
+                        "band": "B2",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-02-03",
+                        "reports_to": "NEX42060",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX47114",
+                        "name": "Parvathi Chopra",
+                        "designation": "Associate Data Engineer",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-09-07",
+                        "reports_to": "NEX42060",
+                        "direct_reports": 0
+                      }
+                    ]
+                  },
+                  {
+                    "emp_id": "NEX47846",
+                    "name": "Gaurav Prasad",
+                    "designation": "Senior Data Engineer",
+                    "band": "B3",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2021-02-15",
+                    "reports_to": "NEX47029",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX27982",
+                        "name": "Prachi Bhattacharya",
+                        "designation": "Associate Data Engineer",
+                        "band": "B1",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-06-08",
+                        "reports_to": "NEX47846",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX48787",
+                "name": "Ekta Seth",
+                "designation": "Data Engineering Manager",
+                "band": "B5",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2015-01-05",
+                "reports_to": "NEX25814",
+                "direct_reports": 2,
+                "reports": [
+                  {
+                    "emp_id": "NEX25857",
+                    "name": "Supriya Dasgupta",
+                    "designation": "Senior Data Engineer",
+                    "band": "B3",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2019-08-05",
+                    "reports_to": "NEX48787",
+                    "direct_reports": 0
+                  },
+                  {
+                    "emp_id": "NEX29705",
+                    "name": "Umesh Chandra",
+                    "designation": "Senior Data Engineer",
+                    "band": "B3",
+                    "location": "Bengaluru",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-04-28",
+                    "reports_to": "NEX48787",
+                    "direct_reports": 1,
+                    "reports": [
+                      {
+                        "emp_id": "NEX25767",
+                        "name": "Mohit Bhandari",
+                        "designation": "Data Engineer",
+                        "band": "B2",
+                        "location": "Bengaluru",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2025-05-14",
+                        "reports_to": "NEX29705",
+                        "direct_reports": 1,
+                        "reports": [
+                          {
+                            "emp_id": "NEX33348",
+                            "name": "Anup Sharma",
+                            "designation": "Associate Data Engineer",
+                            "band": "B1",
+                            "location": "Bengaluru",
+                            "employment_type": "Permanent",
+                            "date_of_joining": "2022-07-23",
+                            "reports_to": "NEX25767",
+                            "direct_reports": 0
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX49735",
+        "name": "Ishita Pathak",
+        "designation": "Senior Manager - Data & Analytics",
+        "band": "B6",
+        "location": "Bengaluru",
+        "employment_type": "Permanent",
+        "date_of_joining": "2015-06-03",
+        "reports_to": "NEX11646",
+        "direct_reports": 0
+      },
+      {
+        "emp_id": "NEX43501",
+        "name": "Manoj Rajan",
+        "designation": "Senior Manager - Solutions",
+        "band": "B6",
+        "location": "Bengaluru",
+        "employment_type": "Permanent",
+        "date_of_joining": "2021-07-09",
+        "reports_to": "NEX11646",
+        "direct_reports": 3,
+        "reports": [
+          {
+            "emp_id": "NEX10647",
+            "name": "Ipsita Khanna",
+            "designation": "Senior Presales Consultant",
+            "band": "B3",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2020-10-27",
+            "reports_to": "NEX43501",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX49717",
+                "name": "Nandita Iyengar",
+                "designation": "Presales Associate",
+                "band": "B1",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-01-22",
+                "reports_to": "NEX10647",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX20356",
+            "name": "Ashish Mallya",
+            "designation": "Presales Consultant",
+            "band": "B2",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2025-05-07",
+            "reports_to": "NEX43501",
+            "direct_reports": 0
+          },
+          {
+            "emp_id": "NEX32717",
+            "name": "Rohan Thakur",
+            "designation": "Presales Consultant",
+            "band": "B2",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2025-02-24",
+            "reports_to": "NEX43501",
+            "direct_reports": 0
+          }
+        ]
+      },
+      {
+        "emp_id": "NEX33404",
+        "name": "Utkarsh Rajan",
+        "designation": "Senior Manager - Data & Analytics",
+        "band": "B6",
+        "location": "Bengaluru",
+        "employment_type": "Permanent",
+        "date_of_joining": "2020-05-29",
+        "reports_to": "NEX11646",
+        "direct_reports": 3,
+        "reports": [
+          {
+            "emp_id": "NEX44901",
+            "name": "Divya Menon",
+            "designation": "Senior Technical Architect",
+            "band": "B5",
+            "location": "Bengaluru",
+            "employment_type": "Permanent",
+            "date_of_joining": "2017-04-05",
+            "reports_to": "NEX33404",
+            "direct_reports": 1,
+            "reports": [
+              {
+                "emp_id": "NEX40775",
+                "name": "Uday Iyengar",
+                "designation": "Senior Data Engineer",
+                "band": "B3",
+                "location": "Bengaluru",
+                "employment_type": "Permanent",
+                "date_of_joining": "2020-07-04",
+                "reports_to": "NEX44901",
+                "direct_reports": 0
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX26616",
+            "name": "Kaushik Gill",
+            "designation": "Data Engineering Manager",
+            "band": "B5",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2017-07-31",
+            "reports_to": "NEX33404",
+            "direct_reports": 2,
+            "reports": [
+              {
+                "emp_id": "NEX11553",
+                "name": "Parth Verma",
+                "designation": "Data Architect",
+                "band": "B4",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2024-07-22",
+                "reports_to": "NEX26616",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX39396",
+                    "name": "Yash Kadam",
+                    "designation": "Senior Data Engineer",
+                    "band": "B3",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2022-07-08",
+                    "reports_to": "NEX11553",
+                    "direct_reports": 2,
+                    "reports": [
+                      {
+                        "emp_id": "NEX22804",
+                        "name": "Abhishek Khare",
+                        "designation": "Associate Data Engineer",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Permanent",
+                        "date_of_joining": "2023-10-30",
+                        "reports_to": "NEX39396",
+                        "direct_reports": 0
+                      },
+                      {
+                        "emp_id": "NEX32894",
+                        "name": "Lavanya Pai",
+                        "designation": "Graduate Engineer Trainee",
+                        "band": "B1",
+                        "location": "Gurugram",
+                        "employment_type": "Graduate Engineer Trainee",
+                        "date_of_joining": "2025-03-17",
+                        "reports_to": "NEX39396",
+                        "direct_reports": 0
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "emp_id": "NEX30870",
+                "name": "Ragini Nair",
+                "designation": "Senior Data Engineer",
+                "band": "B3",
+                "location": "Gurugram",
+                "employment_type": "Permanent",
+                "date_of_joining": "2019-06-25",
+                "reports_to": "NEX26616",
+                "direct_reports": 1,
+                "reports": [
+                  {
+                    "emp_id": "NEX35768",
+                    "name": "Radhika Kapoor",
+                    "designation": "Associate Data Engineer",
+                    "band": "B1",
+                    "location": "Gurugram",
+                    "employment_type": "Permanent",
+                    "date_of_joining": "2023-08-19",
+                    "reports_to": "NEX30870",
+                    "direct_reports": 0
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "emp_id": "NEX40993",
+            "name": "Rekha Kohli",
+            "designation": "Data Engineering Manager",
+            "band": "B5",
+            "location": "Gurugram",
+            "employment_type": "Permanent",
+            "date_of_joining": "2024-03-18",
+            "reports_to": "NEX33404",
+            "direct_reports": 0
+          }
+        ]
+      }
+    ]
+  }
+}

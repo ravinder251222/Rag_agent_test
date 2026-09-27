@@ -1,0 +1,26 @@
+# LangChain document loaders + text splitting
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# Loader dependencies (only for formats found in data/raw/)
+pypdf            # .pdf  -> PyPDFLoader (keeps page numbers)
+beautifulsoup4   # .html -> BSHTMLLoader
+lxml             # HTML parser used by BSHTMLLoader
+docx2txt         # .docx -> Docx2txtLoader
+# .csv, .md, .txt, .json use CSVLoader / TextLoader (no extra packages)
+
+# Embeddings + reranking (all-MiniLM-L12-v2, ms-marco-MiniLM-L-6-v2)
+sentence-transformers
+
+# Vector database
+chromadb
+
+# DeepSeek (OpenAI-compatible API)
+openai
+
+# Frontend
+streamlit
+
+# Secrets from .env
+python-dotenv

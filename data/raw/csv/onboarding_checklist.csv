@@ -1,0 +1,74 @@
+task,owner,day_offset,department,mandatory_flag
+Release offer letter and obtain acceptance on the Talent portal,Talent Acquisition,-21,All,Y
+Initiate background verification with VeriTrust Screening Services,Talent Acquisition,-21,All,Y
+Send pre-boarding portal credentials to the candidate's personal email,HR Operations,-21,All,Y
+Candidate completes BGV consent and disclosure forms,New Joiner,-18,All,Y
+Document upload reminder (automated),HR Operations,-18,All,N
+Raise hardware requisition on NexServe,Hiring Manager,-14,All,Y
+Allocate desk and raise access card request,Facilities,-14,All,Y
+Confirm ODC seating clearance where the role is client-dedicated,Facilities,-14,Engineering,N
+"Provision Microsoft 365, SSO and MFA",IT Support,-10,All,Y
+"Provision PeopleHub, NexServe, NexSpend and NexoraLearn accounts",IT Support,-10,All,Y
+Provision Slack and add to team channels,IT Support,-10,All,Y
+Provision VPN (Nexora Secure Access) profile,IT Support,-10,All,Y
+Nominate and brief the onboarding buddy,Hiring Manager,-10,All,Y
+"Candidate uploads PAN, Aadhaar, education and employment documents",New Joiner,-7,All,Y
+Welcome call from the hiring manager,Hiring Manager,-7,All,Y
+Despatch joining kit and first-day agenda,HR Operations,-7,All,Y
+Draft the 30-60-90 day plan,Hiring Manager,-5,All,Y
+"Day-one readiness gate: assets, accounts, seat, buddy, plan",HR Operations,-3,All,Y
+"Send reporting time, location and contact reminder",HR Operations,-1,All,N
+"Registration, photograph and access card issue",Facilities,0,All,Y
+Welcome and company overview session,HR Operations,0,All,Y
+Verify documents and activate PeopleHub profile,HR Operations,0,All,Y
+Hand over laptop and peripherals; enrol device in MDM,IT Support,0,All,Y
+"Policy briefing: Handbook, Code of Conduct, POSH, leave, attendance",HRBP,0,All,Y
+Lunch with the onboarding buddy,Buddy,0,All,N
+Information security and acceptable use briefing,Information Security,0,All,Y
+"Site orientation: exits, first-aid points, cafeteria, ODC zones",Facilities,0,All,Y
+Team introduction and first manager one-to-one,Hiring Manager,0,All,Y
+Enrol on NexoraLearn and start the first mandatory course,Learning & Development,0,All,Y
+Complete the day-one pulse survey,New Joiner,0,All,N
+"Complete PeopleHub profile, PF Form 2 and Gratuity Form F nominations",New Joiner,1,All,Y
+Set up local development environment and run the full test suite,New Joiner,2,Engineering,Y
+"Grant GitLab, Jira and Confluence access",IT Support,1,Engineering,Y
+Walk through the branching model and code review standard,Buddy,2,Engineering,Y
+Complete NEX-SEC-101 Information Security Awareness,New Joiner,3,All,Y
+Complete NEX-SEC-107 ISO/IEC 27001:2022 ISMS Awareness,New Joiner,3,All,Y
+"Complete NEX-LEG-104 Data Protection and the DPDP Act, 2023",New Joiner,3,All,Y
+Complete NEX-HR-103 Code of Conduct and Business Ethics,New Joiner,4,All,Y
+Complete NEX-HR-102 Prevention of Sexual Harassment (POSH),New Joiner,4,All,Y
+Complete NEX-LEG-105 Anti-Bribery and Anti-Corruption,New Joiner,4,All,Y
+Complete NEX-QMS-106 ISO 9001:2015 Quality Management System,New Joiner,5,All,Y
+Agree and sign the 30-60-90 day plan on PeopleHub,New Joiner,7,All,Y
+Submit Form 12B with the previous employer's tax computation,New Joiner,10,All,Y
+Request client environment access with a named business justification,Delivery Manager,8,Engineering,Y
+Complete client-mandated security and sector training,New Joiner,12,Engineering,Y
+Complete the ENG-TRK engineering onboarding track,Learning & Development,14,Engineering,Y
+Complete the QE-TRK quality engineering onboarding track,Learning & Development,14,Quality Engineering,Y
+Complete the CLD-TRK cloud onboarding track,Learning & Development,14,Cloud & Infrastructure,Y
+Complete the DAT-TRK data onboarding track,Learning & Development,14,Data & Analytics,Y
+Complete the DEL-TRK delivery management track,Learning & Development,14,Delivery Management,Y
+Complete the PRE-TRK presales track,Learning & Development,14,Presales & Solutions,Y
+Complete the COR-TRK corporate functions track,Learning & Development,14,Human Resources,Y
+Complete the COR-TRK corporate functions track,Learning & Development,14,Finance & Accounts,Y
+Shadow two on-call rotations before joining the roster,Hiring Manager,18,Cloud & Infrastructure,N
+Merge first production change end to end,New Joiner,21,Engineering,Y
+Enrol dependants for Group Mediclaim on PeopleHub,New Joiner,25,All,Y
+Submit relieving letter from the previous employer,New Joiner,30,All,Y
+Confirm all seven mandatory compliance courses are complete,Learning & Development,30,All,Y
+Day 30 review against the 30-60-90 plan,Hiring Manager,30,All,Y
+Day 30 new joiner check-in,HRBP,30,All,Y
+Present a summary of the solution architecture at team stand-up,New Joiner,30,Engineering,N
+Introduce the new joiner to two adjacent teams,Buddy,25,All,N
+Day 60 review; close the buddy programme,Hiring Manager,60,All,Y
+Buddy submits closing note and claims the buddy allowance,Buddy,60,All,N
+"Take ownership of a named module, service or workstream",New Joiner,60,Engineering,Y
+Lead sprint estimation for at least two stories,New Joiner,55,Engineering,N
+Run the first independent client status call,New Joiner,60,Delivery Management,N
+Day 90 probation review 1,HRBP,90,All,Y
+Complete the onboarding experience survey,New Joiner,90,All,N
+Agree the Individual Development Plan for the remainder of the year,Hiring Manager,90,All,Y
+Join the on-call roster,Hiring Manager,90,Cloud & Infrastructure,N
+Day 180 probation review 2 and confirmation decision,HRBP,180,All,Y
+Issue confirmation letter on PeopleHub,HR Operations,185,All,Y

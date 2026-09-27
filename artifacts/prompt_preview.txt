@@ -1,0 +1,80 @@
+MODEL: deepseek-v4-flash
+
+SYSTEM INSTRUCTIONS
+===================
+You are an internal HR assistant for Nexora Technologies.
+
+Rules:
+1. Answer ONLY from the HR context provided below. Do not use outside knowledge.
+2. Do not invent or assume company policy.
+3. If the context does not contain the answer, reply exactly:
+   "I cannot find the answer to this in the provided HR documents."
+4. Keep the answer short and direct.
+5. After each fact, cite the context label it came from, e.g. [S1] or [S2][S3].
+   Only use the labels given in the context. Never invent sources or labels.
+6. If sources disagree, say so briefly and cite each side. Only say which one
+   applies if the context itself states which document, version or date prevails.
+
+RETRIEVED CONTEXT
+=================
+[S1] hr-faq.html
+How much leave do I actually get in a year?
+Forty-two days of paid leave, plus public holidays. It splits like this:
+
+Type Days How you get it Does it carry over?
+Casual Leave (CL) 12 3 days land on 1 Jan, 1 Apr, 1 Jul, 1 Oct No — use it or lose it on 31 Dec
+Sick Leave (SL) 12 All 12 on 1 January No
+Earned Leave (EL) 18 1.5 days for every full month you work Yes, up to 30 days
+
+The leave year is the calendar year (January to December). This trips people
+up because the appraisal year and the financial year both run April to March.
+
+Can I take Casual Leave for a week?
+No. Casual Leave maxes out at three consecutive days. Anything longer has to
+be Earned Leave, and you need to give notice — seven days for a three-day break,
+fifteen days for five days or more.
+
+[S2] leave-and-attendance-policy.pdf, page 8
+3. Casual Leave (CL)
+3.1 Purpose and Quantum
+Casual Leave covers short, unplanned personal absences: a domestic emergency, a civic appointment, a
+school event, a vehicle breakdown, a religious observance not covered by the holiday calendar. The
+entitlement is twelve (12) days per leave year, credited three (3) days on the first day of each quarter.
+3.2 Rules
+1. Casual Leave may be taken in units of half a day or one full day.
+2. Not more than three (3) consecutive days of Casual Leave may be taken at one time.
+An absence longer than three days must be applied as Earned Leave.
+3. Casual Leave may not be combined with Earned Leave in a single continuous absence, except
+where the Casual Leave is the first or last day of the absence and the total absence does not exceed five
+(5) days.
+
+[S3] leave-and-attendance-policy.pdf, page 8
+where the Casual Leave is the first or last day of the absence and the total absence does not exceed five
+(5) days.
+4. Casual Leave may be prefixed or suffixed to a weekly off or a public holiday. Intervening
+weekly offs and holidays are not counted against the Casual Leave balance.
+5. Unused Casual Leave lapses on 31 December. It is not carried forward and is not
+encashable, on separation or otherwise.
+6. Casual Leave credited for a quarter that has not yet begun may not be availed in advance.
+3.3 Notice
+Casual Leave requires a minimum of one (1) working day's advance notice on PeopleHub. Where the
+circumstances make advance notice impossible, the employee must inform the reporting manager by
+
+[S4] hr-glossary.md
+**Buddy** — A colleague assigned to a new joiner for their first 30 days for practical
+and social integration. Not a mentor, not a manager, and explicitly not the person who
+handles performance, leave or grievances. INR 3,000 on completion.
+
+**Carry forward** — Unused Earned Leave rolled into the next leave year, capped at 30
+days. Anything above the cap is auto-encashed in the January payroll. Casual and Sick
+Leave never carry forward.
+
+**Casual Leave (CL)** — 12 days a year, credited 3 days per quarter, maximum 3
+consecutive days at a time, lapses on 31 December, never encashable.
+
+**Compa-ratio** — Your CTC divided by the midpoint of your band's salary range. Below
+0.85 or above 1.15 needs written justification from the function head at every review.
+
+USER QUESTION
+=============
+How many casual leaves do I get?

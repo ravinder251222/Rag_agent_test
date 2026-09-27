@@ -1,0 +1,301 @@
+emp_id,name,designation,department,location,manager_id,date_of_joining,employment_type
+NEX10314,Shruti Sharma,Senior Software Engineer,Engineering,Gurugram,NEX33526,2024-03-18,Permanent
+NEX10373,Girish Hegde,Senior Software Engineer,Engineering,Gurugram,NEX32373,2023-05-15,Permanent
+NEX10409,Naveen Nagarajan,Accounts Payable Analyst,Finance & Accounts,Pune,NEX29245,2025-12-16,Permanent
+NEX10599,Mohit Sharma,Talent Acquisition Specialist,Human Resources,Gurugram,NEX37792,2024-09-30,Permanent
+NEX10626,Venkatesh Dutta,Associate Security Analyst,Information Security,Bengaluru,NEX28013,2024-02-07,Permanent
+NEX10638,Saurabh Biswas,Scrum Master,Delivery Management,Gurugram,NEX29535,2022-05-02,Permanent
+NEX10647,Ipsita Khanna,Senior Presales Consultant,Presales & Solutions,Gurugram,NEX43501,2020-10-27,Permanent
+NEX10648,Balaji Anand,Software Engineer,Engineering,Gurugram,NEX39800,2025-04-10,Permanent
+NEX11121,Vinod Biswas,Senior Facilities Executive,Facilities & Administration,Pune,NEX27141,2024-04-18,Permanent
+NEX11553,Parth Verma,Data Architect,Data & Analytics,Gurugram,NEX26616,2024-07-22,Permanent
+NEX11633,Varsha Oberoi,Associate Cloud Engineer,Cloud & Infrastructure,Bengaluru,NEX22024,2024-04-23,Permanent
+NEX11646,Meera Raghunathan,Founder & Chief Executive Officer,Executive Leadership,Gurugram,,2013-04-15,Permanent
+NEX11728,Shailesh Narayanan,Vice President - Cloud,Cloud & Infrastructure,Pune,NEX30252,2016-08-01,Permanent
+NEX12139,Sameer Awasthi,Director - Cloud & Infrastructure,Cloud & Infrastructure,Pune,NEX11728,2016-11-07,Permanent
+NEX12179,Gaurav Mallya,Inside Sales Executive,Sales & Account Management,Gurugram,NEX45154,2024-02-29,Permanent
+NEX12260,Rishi Rana,DevOps Engineer,Cloud & Infrastructure,Pune,NEX21971,2024-09-04,Permanent
+NEX12278,Balaji Maheshwari,Senior Software Engineer,Engineering,Gurugram,NEX32373,2025-06-06,Permanent
+NEX12297,Atul Bhosale,Software Engineer,Engineering,Bengaluru,NEX21787,2025-02-13,Permanent
+NEX12318,Satish Pillai,Software Engineer,Engineering,Gurugram,NEX16432,2024-12-21,Fixed-Term Contract
+NEX12754,Manisha Mishra,Engineering Manager,Engineering,Bengaluru,NEX18289,2020-03-18,Permanent
+NEX12776,Ishita Maheshwari,Marketing Associate,Marketing,Gurugram,NEX24960,2024-02-20,Permanent
+NEX12998,Sunil Talwar,Senior Software Engineer,Engineering,Pune,NEX26702,2024-03-25,Permanent
+NEX13123,Anirudh Fernandes,DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX21768,2024-10-30,Fixed-Term Contract
+NEX13232,Vishal Mahajan,Marketing Associate,Marketing,Gurugram,NEX16127,2025-05-16,Permanent
+NEX13249,Subodh Talwar,IT Support Associate,IT Support,Gurugram,NEX47477,2025-08-27,Fixed-Term Contract
+NEX13488,Ankita Sethi,Security Architect,Information Security,Gurugram,NEX17967,2023-07-17,Permanent
+NEX13833,Zoya Rahman,Manager - Human Resources,Human Resources,Gurugram,NEX23182,2016-02-15,Permanent
+NEX13905,Swati Kulkarni,Manager - Talent Acquisition,Human Resources,Pune,NEX19123,2022-12-21,Permanent
+NEX13925,Suresh Iyengar,Senior Manager - Payroll & Compliance,Finance & Accounts,Gurugram,NEX24614,2021-08-16,Permanent
+NEX14239,Harish Varma,Associate Delivery Manager,Delivery Management,Gurugram,NEX29757,2023-02-25,Permanent
+NEX14702,Anjali Trivedi,Senior Manager - Quality Engineering,Quality Engineering,Pune,NEX38438,2020-02-12,Permanent
+NEX14736,Karthik Bhattacharya,Software Engineer,Engineering,Gurugram,NEX16432,2025-06-23,Fixed-Term Contract
+NEX15019,Meghana Dutta,Associate Delivery Manager,Delivery Management,Gurugram,NEX39836,2023-08-07,Permanent
+NEX15068,Ashish Ramachandran,DevOps Engineer,Cloud & Infrastructure,Pune,NEX21971,2024-09-05,Permanent
+NEX15079,Mayank Lal,Graduate Engineer Trainee,Delivery Management,Bengaluru,NEX18181,2021-06-14,Graduate Engineer Trainee
+NEX15138,Lakshman Verma,QA Engineer,Quality Engineering,Bengaluru,NEX17452,2024-08-19,Permanent
+NEX15584,Shivam Deshpande,Senior Manager - Marketing,Marketing,Gurugram,NEX24614,2018-10-16,Permanent
+NEX15766,Keerthi Saxena,Associate Software Engineer,Engineering,Bengaluru,NEX21787,2021-04-27,Permanent
+NEX15790,Shreyas Das,Cloud Architect,Cloud & Infrastructure,Bengaluru,NEX11728,2024-03-14,Permanent
+NEX15955,Madhuri Iyengar,Senior Manager - Finance,Finance & Accounts,Gurugram,NEX24614,2015-02-02,Permanent
+NEX16127,Sridevi Joshi,Senior Marketing Specialist,Marketing,Gurugram,NEX26461,2022-09-24,Fixed-Term Contract
+NEX16285,Ravi Shukla,Graduate Engineer Trainee,Engineering,Gurugram,NEX14736,2025-08-09,Graduate Engineer Trainee
+NEX16350,Vedant Bansal,Graduate Engineer Trainee,Human Resources,Pune,NEX36237,2025-07-19,Graduate Engineer Trainee
+NEX16360,Sumit Sivaraman,Technical Lead,Engineering,Bengaluru,NEX12754,2023-03-13,Permanent
+NEX16383,Satish Mahajan,Scrum Master,Delivery Management,Pune,NEX41831,2018-05-23,Permanent
+NEX16396,Meera Goswami,Associate Software Engineer,Engineering,Pune,NEX49810,2024-08-01,Permanent
+NEX16432,Rakesh Chatterjee,Senior Software Engineer,Engineering,Gurugram,NEX33526,2022-11-19,Permanent
+NEX16467,Suraj Ahuja,Manager - Human Resources,Human Resources,Gurugram,NEX20417,2016-04-07,Permanent
+NEX16593,Vikas Mehta,Graduate Engineer Trainee,Cloud & Infrastructure,Bengaluru,NEX22024,2025-05-26,Graduate Engineer Trainee
+NEX16612,Atul Maheshwari,HR Business Partner,Human Resources,Gurugram,NEX13833,2024-01-15,Permanent
+NEX16726,Dinesh Anand,Account Manager,Sales & Account Management,Bengaluru,NEX25226,2020-04-15,Permanent
+NEX16741,Arjun Goel,Senior IT Support Engineer,IT Support,Pune,NEX19945,2022-08-29,Permanent
+NEX16785,Kiran Grover,Software Engineer,Engineering,Gurugram,NEX12278,2025-01-20,Permanent
+NEX17214,Uday Trivedi,Business Analyst,Delivery Management,Pune,NEX40479,2025-07-21,Permanent
+NEX17353,Nirav Mehra,Associate Cloud Engineer,Cloud & Infrastructure,Pune,NEX15068,2025-05-26,Permanent
+NEX17366,Mihir Fernandes,Account Executive,Sales & Account Management,Gurugram,NEX21886,2025-06-30,Fixed-Term Contract
+NEX17452,Aman Pathak,QA Lead,Quality Engineering,Bengaluru,NEX28761,2024-06-05,Permanent
+NEX17461,Amol Singh,Accounts Payable Analyst,Finance & Accounts,Pune,NEX29245,2024-07-15,Permanent
+NEX17501,Anand Kulkarni,Senior Finance Analyst,Finance & Accounts,Gurugram,NEX39034,2025-04-13,Permanent
+NEX17668,Ankit Rao,HR Executive,Human Resources,Gurugram,NEX10599,2024-11-04,Permanent
+NEX17737,Sowmya Bansal,Associate QA Engineer,Quality Engineering,Gurugram,NEX18839,2023-09-18,Permanent
+NEX17930,Ajay Dutta,Vice President - Engineering,Engineering,Bengaluru,NEX30252,2015-06-15,Permanent
+NEX17967,Sagar Basu,Manager - Information Security,Information Security,Bengaluru,NEX30252,2024-02-24,Permanent
+NEX18073,Smita Garg,Senior Software Engineer,Engineering,Gurugram,NEX32373,2020-08-04,Permanent
+NEX18083,Varun Nambiar,Technical Lead,Engineering,Bengaluru,NEX20469,2021-10-25,Permanent
+NEX18165,Indrajit Anand,Associate Cloud Engineer,Cloud & Infrastructure,Gurugram,NEX42061,2024-10-14,Permanent
+NEX18181,Pavan Patel,Business Analyst,Delivery Management,Bengaluru,NEX20213,2021-09-13,Permanent
+NEX18289,Shalini Sengupta,Director - Engineering,Engineering,Bengaluru,NEX30252,2015-09-28,Permanent
+NEX18597,Bhaskar Madhavan,Associate QA Engineer,Quality Engineering,Bengaluru,NEX21385,2025-10-21,Permanent
+NEX18741,Vidya Agarwal,Software Engineer,Engineering,Gurugram,NEX24841,2024-05-21,Fixed-Term Contract
+NEX18839,Faisal Reddy,QA Engineer,Quality Engineering,Gurugram,NEX31060,2023-07-19,Permanent
+NEX18867,Aditi Bajaj,HR Business Partner,Human Resources,Gurugram,NEX13833,2024-10-23,Permanent
+NEX19101,Amit Bhandari,Intern - Eng,Engineering,Pune,NEX30203,2022-02-21,Intern
+NEX19123,Kavita Deshpande,Chief Human Resources Officer,Human Resources,Gurugram,NEX11646,2015-04-20,Permanent
+NEX19457,Pragya Ahuja,Facilities Executive,Facilities & Administration,Bengaluru,NEX33102,2024-04-08,Permanent
+NEX19471,Aniket Chopra,Scrum Master,Delivery Management,Gurugram,NEX29535,2019-12-30,Permanent
+NEX19581,Kavya Pai,Senior QA Engineer,Quality Engineering,Pune,NEX33935,2022-07-29,Permanent
+NEX19701,Ananya Krishnan,Director - Learning & Development,Human Resources,Bengaluru,NEX19123,2014-09-26,Permanent
+NEX19896,Sameer Vaidya,Manager - Human Resources,Human Resources,Gurugram,NEX23182,2015-03-27,Permanent
+NEX19945,Radhika Puri,Chief Information Officer,IT Support,Bengaluru,NEX19123,2013-03-01,Permanent
+NEX20025,Zaid Ahluwalia,Software Engineer,Engineering,Bengaluru,NEX49498,2025-06-13,Permanent
+NEX20213,Vandana Shukla,Scrum Master,Delivery Management,Bengaluru,NEX42457,2025-07-31,Permanent
+NEX20275,Megha Maheshwari,Senior Manager - Quality Engineering,Quality Engineering,Pune,NEX38438,2024-03-28,Permanent
+NEX20356,Ashish Mallya,Presales Consultant,Presales & Solutions,Bengaluru,NEX43501,2025-05-07,Permanent
+NEX20417,Priyanka Bhattacharya,Director - Talent Acquisition,Human Resources,Gurugram,NEX19123,2015-11-02,Permanent
+NEX20469,Aditi Ahuja,Engineering Manager,Engineering,Bengaluru,NEX26227,2017-12-11,Permanent
+NEX20571,Shreyas Srinivasan,Senior Software Engineer,Engineering,Gurugram,NEX32373,2024-04-11,Permanent
+NEX20774,Mukesh Seth,Senior HR Business Partner,Human Resources,Bengaluru,NEX49011,2021-03-15,Permanent
+NEX20795,Sourav Pathak,Associate Delivery Manager,Delivery Management,Pune,NEX16383,2025-08-13,Permanent
+NEX20900,Girish Chandra,Engineering Manager,Engineering,Gurugram,NEX22540,2023-05-21,Permanent
+NEX21096,Aniket Prasad,Senior Finance Analyst,Finance & Accounts,Gurugram,NEX39034,2024-02-12,Permanent
+NEX21288,Saurabh Mukherjee,HR Executive,Human Resources,Pune,NEX28368,2024-02-15,Permanent
+NEX21302,Rohan Mehta,Intern - Eng,Engineering,Pune,NEX22413,2025-01-27,Intern
+NEX21322,Hemant Khanna,Senior QA Engineer,Quality Engineering,Pune,NEX36609,2020-07-27,Permanent
+NEX21385,Vinod Rajan,QA Engineer,Quality Engineering,Bengaluru,NEX17452,2023-04-14,Permanent
+NEX21559,Nupur Kohli,Software Engineer,Engineering,Bengaluru,NEX21787,2024-08-22,Permanent
+NEX21768,Sanjay Mukherjee,Senior DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX49304,2023-12-09,Permanent
+NEX21787,Manoj Rao,Senior Software Engineer,Engineering,Bengaluru,NEX18083,2024-05-26,Permanent
+NEX21886,Jatin Bansal,Senior Account Executive,Sales & Account Management,Gurugram,NEX25226,2022-07-25,Permanent
+NEX21971,Amol Deshmukh,Technical Architect,Cloud & Infrastructure,Pune,NEX26549,2020-02-03,Permanent
+NEX22024,Siddharth Nambiar,Senior DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX40960,2023-12-06,Permanent
+NEX22056,Nupur Pillai,Associate Delivery Manager,Delivery Management,Bengaluru,NEX37464,2025-08-18,Fixed-Term Contract
+NEX22239,Ramesh Seth,Graduate Engineer Trainee,Sales & Account Management,Gurugram,NEX45154,2025-04-10,Graduate Engineer Trainee
+NEX22286,Aman Verma,DevOps Engineer,Cloud & Infrastructure,Pune,NEX21971,2025-04-03,Permanent
+NEX22413,Nikhil Naidu,Software Engineer,Engineering,Pune,NEX12998,2023-03-27,Permanent
+NEX22540,Manish Grover,Director - Engineering,Engineering,Gurugram,NEX30252,2013-01-05,Permanent
+NEX22670,Aparna Sethi,Senior Manager - Finance,Finance & Accounts,Gurugram,NEX24614,2016-05-09,Permanent
+NEX22739,Mohit Seth,Associate Software Engineer,Engineering,Gurugram,NEX39433,2025-06-10,Permanent
+NEX22804,Abhishek Khare,Associate Data Engineer,Data & Analytics,Gurugram,NEX39396,2023-10-30,Permanent
+NEX23182,Nandita Sharma,Director - HR Operations,Human Resources,Gurugram,NEX19123,2018-03-12,Permanent
+NEX23359,Amol Sivaraman,Graduate Engineer Trainee,IT Support,Pune,NEX24385,2025-08-25,Graduate Engineer Trainee
+NEX23520,Omkar Rana,Finance Executive,Finance & Accounts,Gurugram,NEX21096,2022-03-27,Permanent
+NEX23564,Vikas Puri,IT Support Associate,IT Support,Bengaluru,NEX24851,2023-11-08,Fixed-Term Contract
+NEX24374,Akanksha Nadkarni,Finance Executive,Finance & Accounts,Pune,NEX17461,2024-02-26,Fixed-Term Contract
+NEX24385,Kaushik Rajan,Senior IT Support Engineer,IT Support,Pune,NEX19945,2018-09-27,Permanent
+NEX24614,Arjun Menon,Chief Financial Officer,Finance & Accounts,Gurugram,NEX11646,2013-04-01,Permanent
+NEX24696,Amit Madhavan,Senior Facilities Executive,Facilities & Administration,Gurugram,NEX45017,2020-01-15,Fixed-Term Contract
+NEX24841,Zaid Mahajan,Senior Software Engineer,Engineering,Gurugram,NEX32373,2021-06-16,Permanent
+NEX24851,Amit Tandon,IT Support Engineer,IT Support,Bengaluru,NEX19945,2024-10-30,Permanent
+NEX24862,Zaid Puri,Senior HR Business Partner,Human Resources,Gurugram,NEX16467,2019-10-16,Permanent
+NEX24928,Karan Jain,Legal Counsel,Legal & Compliance,Gurugram,NEX37498,2021-09-21,Permanent
+NEX24960,Kanika Garg,Senior Marketing Specialist,Marketing,Gurugram,NEX26461,2018-08-12,Permanent
+NEX25170,Simran Deshmukh,IT Support Associate,IT Support,Pune,NEX16741,2025-02-06,Permanent
+NEX25226,Balaji Mehra,Senior Account Manager,Sales & Account Management,Gurugram,NEX24614,2016-05-17,Permanent
+NEX25409,Sandeep Nair,Senior Director - Delivery,Delivery Management,Gurugram,NEX34040,2017-11-09,Permanent
+NEX25668,Akash Ganguly,Senior Software Engineer,Engineering,Gurugram,NEX32373,2019-08-11,Fixed-Term Contract
+NEX25737,Sunita Subramanian,Senior Software Engineer,Engineering,Bengaluru,NEX16360,2019-07-16,Permanent
+NEX25767,Mohit Bhandari,Data Engineer,Data & Analytics,Bengaluru,NEX29705,2025-05-14,Permanent
+NEX25814,Sanjay Bhattacharya,Senior Manager - Data & Analytics,Data & Analytics,Bengaluru,NEX34040,2021-02-18,Permanent
+NEX25857,Supriya Dasgupta,Senior Data Engineer,Data & Analytics,Bengaluru,NEX48787,2019-08-05,Permanent
+NEX25974,Supriya Das,DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX21768,2025-09-23,Permanent
+NEX26096,Prithvi Gawande,Associate Software Engineer,Engineering,Bengaluru,NEX20025,2024-09-02,Permanent
+NEX26227,Shashank Sinha,Senior Manager - Engineering,Engineering,Bengaluru,NEX18289,2021-12-09,Permanent
+NEX26235,Pranav Mishra,Associate Software Engineer,Engineering,Bengaluru,NEX20025,2024-02-12,Permanent
+NEX26461,Suresh Hegde,Manager - Marketing,Marketing,Gurugram,NEX15584,2016-02-03,Permanent
+NEX26478,Kunal Pillai,Software Engineer,Engineering,Gurugram,NEX18073,2025-07-07,Permanent
+NEX26549,Deepak Sekhar,Cloud Engineering Manager,Cloud & Infrastructure,Pune,NEX12139,2018-12-05,Permanent
+NEX26616,Kaushik Gill,Data Engineering Manager,Data & Analytics,Gurugram,NEX33404,2017-07-31,Permanent
+NEX26702,Meera Gill,Engineering Manager,Engineering,Pune,NEX27333,2017-10-27,Permanent
+NEX26808,Sarvesh Oberoi,Software Engineer,Engineering,Gurugram,NEX39800,2025-03-31,Permanent
+NEX26986,Mahesh Kaul,Cloud Engineering Manager,Cloud & Infrastructure,Pune,NEX12139,2021-12-14,Permanent
+NEX27105,Harini Bhat,Associate Cloud Engineer,Cloud & Infrastructure,Pune,NEX15068,2024-01-15,Permanent
+NEX27141,Farida Contractor,Senior Manager - Shared Services,Facilities & Administration,Pune,NEX37498,2023-09-09,Permanent
+NEX27320,Anuradha Kaul,Graduate Engineer Trainee,Product & Design,Gurugram,NEX30001,2023-11-16,Graduate Engineer Trainee
+NEX27333,Vedant Rajan,Senior Manager - Engineering,Engineering,Gurugram,NEX38924,2016-11-28,Permanent
+NEX27732,Meghana Bhosale,Marketing Associate,Marketing,Gurugram,NEX24960,2025-03-04,Permanent
+NEX27920,Anuradha Sharma,Senior DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX40960,2024-04-08,Permanent
+NEX27965,Yogesh Anand,Senior IT Support Engineer,IT Support,Gurugram,NEX28819,2020-03-16,Permanent
+NEX27982,Prachi Bhattacharya,Associate Data Engineer,Data & Analytics,Bengaluru,NEX47846,2023-06-08,Permanent
+NEX28013,Parvathi Naidu,Information Security Analyst,Information Security,Bengaluru,NEX17967,2023-06-05,Permanent
+NEX28273,Saurabh Talwar,Talent Acquisition Specialist,Human Resources,Bengaluru,NEX20774,2025-04-23,Permanent
+NEX28274,Anjali Dubey,Associate Delivery Manager,Delivery Management,Pune,NEX16383,2023-10-24,Fixed-Term Contract
+NEX28368,Tarun Basu,Talent Acquisition Specialist,Human Resources,Pune,NEX13905,2024-05-06,Fixed-Term Contract
+NEX28407,Nilesh Joshi,Senior QA Engineer,Quality Engineering,Pune,NEX32407,2021-05-27,Permanent
+NEX28761,Lakshmi Sundaresan,Director - Quality Engineering,Quality Engineering,Bengaluru,NEX24614,2021-11-15,Permanent
+NEX28819,Deepak Bhatia,Director - IT,IT Support,Gurugram,NEX19945,2018-04-06,Permanent
+NEX28881,Prakash Patil,HR Executive,Human Resources,Gurugram,NEX10599,2025-09-08,Permanent
+NEX28917,Srikanth Mitra,Senior Finance Analyst,Finance & Accounts,Gurugram,NEX39034,2023-03-02,Permanent
+NEX28946,Akanksha Gawande,HR Business Partner,Human Resources,Gurugram,NEX19896,2024-02-08,Permanent
+NEX29083,Pranav Bhandari,Software Engineer,Engineering,Bengaluru,NEX16360,2023-08-19,Permanent
+NEX29160,Lavanya Menon,Graduate Engineer Trainee,Cloud & Infrastructure,Pune,NEX22286,2025-01-18,Graduate Engineer Trainee
+NEX29226,Chetan Patel,Associate Software Engineer,Engineering,Gurugram,NEX20571,2024-07-08,Permanent
+NEX29245,Varsha Wadhwa,Manager - Finance & Accounts,Finance & Accounts,Pune,NEX22670,2018-11-21,Permanent
+NEX29535,Harish Sekhar,Program Manager,Delivery Management,Gurugram,NEX25409,2023-12-18,Permanent
+NEX29610,Ankit Mathur,Senior Facilities Executive,Facilities & Administration,Gurugram,NEX45017,2024-11-04,Permanent
+NEX29705,Umesh Chandra,Senior Data Engineer,Data & Analytics,Bengaluru,NEX48787,2023-04-28,Permanent
+NEX29742,Praveen Rao,Senior Software Engineer,Engineering,Gurugram,NEX46361,2021-09-27,Permanent
+NEX29757,Vidya Ramachandran,Scrum Master,Delivery Management,Gurugram,NEX29535,2024-08-20,Permanent
+NEX30001,Nupur Ganguly,UX Designer,Product & Design,Gurugram,NEX41379,2024-09-16,Permanent
+NEX30013,Abhishek Karnik,Software Engineer,Engineering,Gurugram,NEX41763,2024-12-30,Permanent
+NEX30203,Pranav Subramanian,Software Engineer,Engineering,Pune,NEX49810,2025-07-07,Permanent
+NEX30230,Rohan Maheshwari,Graduate Engineer Trainee,Quality Engineering,Pune,NEX36377,2024-03-02,Graduate Engineer Trainee
+NEX30252,Rohan Iyer,Chief Technology Officer,Engineering,Bengaluru,NEX11646,2019-10-09,Permanent
+NEX30490,Neelam Bhosale,Director - Cloud & Infrastructure,Cloud & Infrastructure,Pune,NEX11728,2012-10-09,Permanent
+NEX30506,Ranjit Nambiar,Senior Software Engineer,Engineering,Pune,NEX26702,2020-01-29,Permanent
+NEX30758,Madhav Aggarwal,Associate QA Engineer,Quality Engineering,Pune,NEX19581,2024-10-18,Permanent
+NEX30870,Ragini Nair,Senior Data Engineer,Data & Analytics,Gurugram,NEX26616,2019-06-25,Permanent
+NEX31035,Hema Kaul,Account Executive,Sales & Account Management,Bengaluru,NEX16726,2025-07-31,Permanent
+NEX31060,Shruti Pandit,Senior QA Engineer,Quality Engineering,Gurugram,NEX32936,2020-11-10,Permanent
+NEX31310,Omkar Ahuja,Senior Software Engineer,Engineering,Gurugram,NEX32373,2022-07-18,Permanent
+NEX31380,Tarun Verma,Associate QA Engineer,Quality Engineering,Bengaluru,NEX21385,2024-04-01,Permanent
+NEX31616,Vivek Kapoor,Graduate Engineer Trainee,Quality Engineering,Bengaluru,NEX21385,2025-09-22,Graduate Engineer Trainee
+NEX31690,Umesh Krishnan,Business Analyst,Delivery Management,Gurugram,NEX39836,2025-09-10,Permanent
+NEX31984,Aniket Venkataraman,Account Executive,Sales & Account Management,Gurugram,NEX21886,2023-02-13,Permanent
+NEX32174,Shruti Ramachandran,Facilities Associate,Facilities & Administration,Gurugram,NEX29610,2024-12-09,Fixed-Term Contract
+NEX32339,Shashank Narayanan,Graduate Engineer Trainee,Delivery Management,Pune,NEX28274,2025-04-05,Graduate Engineer Trainee
+NEX32373,Aditya Gopalan,Technical Lead,Engineering,Gurugram,NEX37644,2021-06-12,Permanent
+NEX32407,Vandana Ahuja,Quality Engineering Manager,Quality Engineering,Pune,NEX14702,2016-09-26,Permanent
+NEX32425,Varun Goswami,Graduate Engineer Trainee,Engineering,Bengaluru,NEX21559,2025-06-03,Graduate Engineer Trainee
+NEX32717,Rohan Thakur,Presales Consultant,Presales & Solutions,Bengaluru,NEX43501,2025-02-24,Permanent
+NEX32894,Lavanya Pai,Graduate Engineer Trainee,Data & Analytics,Gurugram,NEX39396,2025-03-17,Graduate Engineer Trainee
+NEX32936,Pavan Chatterjee,Quality Engineering Manager,Quality Engineering,Pune,NEX14702,2018-08-24,Permanent
+NEX33102,Farhan Ahluwalia,Senior Manager - Administration,Facilities & Administration,Bengaluru,NEX37498,2019-06-18,Permanent
+NEX33348,Anup Sharma,Associate Data Engineer,Data & Analytics,Bengaluru,NEX25767,2022-07-23,Permanent
+NEX33404,Utkarsh Rajan,Senior Manager - Data & Analytics,Data & Analytics,Bengaluru,NEX11646,2020-05-29,Permanent
+NEX33481,Deepika Nagarajan,Engineering Manager,Engineering,Pune,NEX22540,2021-12-04,Permanent
+NEX33526,Omkar Trivedi,Engineering Manager,Engineering,Gurugram,NEX46910,2023-12-21,Permanent
+NEX33707,Roshni Pathak,Intern - Prd,Product & Design,Gurugram,NEX36169,2024-02-26,Intern
+NEX33818,Uma Pai,Associate Software Engineer,Engineering,Gurugram,NEX39800,2024-07-22,Permanent
+NEX33935,Kanika Deshmukh,Quality Engineering Manager,Quality Engineering,Pune,NEX14702,2015-02-16,Permanent
+NEX34040,Vikram Sundaram,Chief Operating Officer,Executive Leadership,Gurugram,NEX11646,2019-06-24,Permanent
+NEX35098,Subodh Puri,Graduate Engineer Trainee,Cloud & Infrastructure,Bengaluru,NEX13123,2024-11-25,Graduate Engineer Trainee
+NEX35284,Sarvesh Kohli,Facilities Executive,Facilities & Administration,Pune,NEX11121,2022-05-23,Permanent
+NEX35309,Rashmi Shetty,Talent Acquisition Specialist,Human Resources,Pune,NEX13905,2025-10-10,Permanent
+NEX35319,Madhuri Grover,HR Executive,Human Resources,Gurugram,NEX16612,2025-03-18,Permanent
+NEX35718,Ashish Deshpande,Senior Software Engineer,Engineering,Pune,NEX33481,2018-01-14,Permanent
+NEX35768,Radhika Kapoor,Associate Data Engineer,Data & Analytics,Gurugram,NEX30870,2023-08-19,Permanent
+NEX36169,Balaji Grover,UX Designer,Product & Design,Gurugram,NEX41379,2024-08-31,Permanent
+NEX36237,Tushar Wadhwa,Talent Acquisition Specialist,Human Resources,Pune,NEX13905,2024-12-23,Fixed-Term Contract
+NEX36238,Saurabh Garg,Security Architect,Information Security,Gurugram,NEX17967,2024-07-03,Permanent
+NEX36246,Mayank Joshi,Software Engineer,Engineering,Bengaluru,NEX21787,2022-10-03,Permanent
+NEX36323,Uma Naidu,Associate Software Engineer,Engineering,Gurugram,NEX18073,2024-12-02,Permanent
+NEX36377,Ajay Rana,QA Engineer,Quality Engineering,Pune,NEX36609,2024-03-06,Permanent
+NEX36499,Dinesh Rastogi,QA Engineer,Quality Engineering,Pune,NEX21322,2025-04-09,Permanent
+NEX36609,Bhavana Wadhwa,QA Lead,Quality Engineering,Pune,NEX33935,2018-09-21,Permanent
+NEX36611,Harsh Khare,Associate Delivery Manager,Delivery Management,Bengaluru,NEX18181,2025-01-27,Permanent
+NEX37464,Trisha Kohli,Business Analyst,Delivery Management,Bengaluru,NEX20213,2024-04-01,Permanent
+NEX37498,Farhan Qureshi,General Counsel,Legal & Compliance,Gurugram,NEX11646,2017-03-15,Permanent
+NEX37644,Pavan Oberoi,Senior Manager - Engineering,Engineering,Gurugram,NEX22540,2023-05-22,Permanent
+NEX37749,Lavanya Pathak,Associate Cloud Engineer,Cloud & Infrastructure,Bengaluru,NEX22024,2022-12-12,Permanent
+NEX37778,Chetan Mehta,Senior DevOps Engineer,Cloud & Infrastructure,Bengaluru,NEX15790,2024-04-08,Permanent
+NEX37792,Vinay Jain,HR Business Partner,Human Resources,Gurugram,NEX24862,2023-07-24,Permanent
+NEX37922,Pooja Oberoi,Associate Software Engineer,Engineering,Gurugram,NEX25668,2024-01-31,Permanent
+NEX38409,Prakash Pandey,Finance Executive,Finance & Accounts,Gurugram,NEX17501,2024-05-30,Permanent
+NEX38438,Girish Pai,Director - Quality Engineering,Quality Engineering,Pune,NEX24614,2016-02-01,Permanent
+NEX38545,Mitali Kamath,Legal Counsel,Legal & Compliance,Gurugram,NEX37498,2025-03-31,Permanent
+NEX38594,Prashant Goel,Technical Lead,Engineering,Pune,NEX26702,2019-10-09,Permanent
+NEX38924,Amit Grover,Director - Engineering,Engineering,Gurugram,NEX17930,2015-11-30,Permanent
+NEX39034,Keshav Sinha,Manager - Finance & Accounts,Finance & Accounts,Gurugram,NEX22670,2016-12-10,Permanent
+NEX39361,Ashwin Prasad,Associate Security Analyst,Information Security,Gurugram,NEX44933,2024-02-23,Permanent
+NEX39396,Yash Kadam,Senior Data Engineer,Data & Analytics,Gurugram,NEX11553,2022-07-08,Permanent
+NEX39433,Chetan Dutta,Software Engineer,Engineering,Gurugram,NEX29742,2023-01-12,Permanent
+NEX39471,Vandana Mallya,Software Engineer,Engineering,Pune,NEX49810,2024-06-06,Permanent
+NEX39579,Mayank Mehta,Project Coordinator,Delivery Management,Pune,NEX17214,2023-03-14,Permanent
+NEX39599,Shraddha Chandra,Graduate Engineer Trainee,Sales & Account Management,Gurugram,NEX21886,2026-01-28,Graduate Engineer Trainee
+NEX39800,Ragini Soni,Senior Software Engineer,Engineering,Gurugram,NEX33526,2022-05-23,Permanent
+NEX39836,Deepa Mehta,Scrum Master,Delivery Management,Gurugram,NEX29535,2022-07-19,Permanent
+NEX40479,Sourav Gupta,Scrum Master,Delivery Management,Pune,NEX41831,2022-03-30,Permanent
+NEX40775,Uday Iyengar,Senior Data Engineer,Data & Analytics,Bengaluru,NEX44901,2020-07-04,Permanent
+NEX40848,Bhavana Singh,Associate Security Analyst,Information Security,Gurugram,NEX44933,2024-08-19,Permanent
+NEX40927,Sanjay Fernandes,Finance Executive,Finance & Accounts,Gurugram,NEX17501,2023-05-15,Permanent
+NEX40960,Sudhir Rao,Cloud Architect,Cloud & Infrastructure,Bengaluru,NEX26549,2020-09-21,Permanent
+NEX40993,Rekha Kohli,Data Engineering Manager,Data & Analytics,Gurugram,NEX33404,2024-03-18,Permanent
+NEX41176,Nakul Oberoi,QA Lead,Quality Engineering,Bengaluru,NEX28761,2023-09-11,Permanent
+NEX41353,Dhruv Vohra,Software Engineer,Engineering,Gurugram,NEX24841,2025-08-04,Permanent
+NEX41379,Harsh Nair,Senior UX Designer,Product & Design,Bengaluru,NEX30252,2022-12-06,Permanent
+NEX41437,Shashank Tiwari,Data Engineer,Data & Analytics,Bengaluru,NEX42060,2025-02-03,Permanent
+NEX41569,Shashank Bajaj,Software Engineer,Engineering,Gurugram,NEX46361,2026-01-05,Permanent
+NEX41763,Vikas Sekhar,Senior Software Engineer,Engineering,Gurugram,NEX46361,2019-07-27,Permanent
+NEX41831,Radhika Khanna,Program Manager,Delivery Management,Pune,NEX25409,2019-06-10,Permanent
+NEX42060,Aditi Vohra,Senior Data Engineer,Data & Analytics,Bengaluru,NEX47029,2020-10-26,Permanent
+NEX42061,Abhishek Wadhwa,DevOps Engineer,Cloud & Infrastructure,Gurugram,NEX30490,2025-01-30,Permanent
+NEX42457,Farida Dutta,Delivery Manager,Delivery Management,Pune,NEX41831,2024-04-01,Permanent
+NEX42784,Namrata Prasad,UX Designer,Product & Design,Gurugram,NEX41379,2023-03-15,Permanent
+NEX42842,Shweta Venkataraman,Graduate Engineer Trainee,Facilities & Administration,Gurugram,NEX24696,2022-10-07,Graduate Engineer Trainee
+NEX42994,Meghana Contractor,Graduate Engineer Trainee,IT Support,Gurugram,NEX45659,2025-10-06,Graduate Engineer Trainee
+NEX43429,Prakash Ahuja,Graduate Engineer Trainee,Delivery Management,Bengaluru,NEX37464,2025-09-03,Graduate Engineer Trainee
+NEX43501,Manoj Rajan,Senior Manager - Solutions,Presales & Solutions,Bengaluru,NEX11646,2021-07-09,Permanent
+NEX43621,Karthik Chauhan,Graduate Engineer Trainee,Quality Engineering,Gurugram,NEX31060,2022-01-05,Graduate Engineer Trainee
+NEX43740,Mukesh Prasad,Senior Software Engineer,Engineering,Pune,NEX33481,2020-12-17,Permanent
+NEX43860,Rahul Gupta,Associate Cloud Engineer,Cloud & Infrastructure,Pune,NEX22286,2022-12-16,Permanent
+NEX43939,Meera Khanna,Senior Software Engineer,Engineering,Gurugram,NEX32373,2018-10-25,Permanent
+NEX44001,Vidya Awasthi,Senior Finance Analyst,Finance & Accounts,Gurugram,NEX39034,2023-09-13,Permanent
+NEX44168,Prashant Kulkarni,Associate Cloud Engineer,Cloud & Infrastructure,Bengaluru,NEX37778,2024-10-29,Permanent
+NEX44671,Smita Goel,Software Engineer,Engineering,Gurugram,NEX16432,2025-07-21,Permanent
+NEX44687,Ragini Chatterjee,Software Engineer,Engineering,Bengaluru,NEX25737,2024-05-14,Permanent
+NEX44844,Karthik Subramanian,Senior Engineering Manager,Engineering,Bengaluru,NEX17930,2017-09-16,Permanent
+NEX44901,Divya Menon,Senior Technical Architect,Data & Analytics,Bengaluru,NEX33404,2017-04-05,Permanent
+NEX44933,Bhaskar Sundaram,Senior Information Security Analyst,Information Security,Gurugram,NEX36238,2024-06-18,Permanent
+NEX45010,Arjun Mukherjee,Associate Cloud Engineer,Cloud & Infrastructure,Bengaluru,NEX25974,2024-08-19,Permanent
+NEX45017,Mukesh Khare,Facilities Lead,Facilities & Administration,Gurugram,NEX33102,2018-08-17,Permanent
+NEX45029,Karan Agarwal,Marketing Associate,Marketing,Gurugram,NEX16127,2024-06-17,Permanent
+NEX45154,Santosh Awasthi,Account Executive,Sales & Account Management,Gurugram,NEX21886,2024-05-20,Permanent
+NEX45373,Harish Shukla,Business Analyst,Delivery Management,Gurugram,NEX29757,2024-09-01,Permanent
+NEX45659,Shalini Awasthi,IT Support Engineer,IT Support,Gurugram,NEX27965,2024-05-30,Permanent
+NEX45852,Parth Varma,Intern - Mkt,Marketing,Gurugram,NEX45029,2023-12-26,Intern
+NEX45909,Bhaskar Chopra,Senior Compliance Analyst,Legal & Compliance,Gurugram,NEX24928,2020-01-09,Fixed-Term Contract
+NEX46173,Uday Subramanian,Associate Software Engineer,Engineering,Bengaluru,NEX36246,2025-06-25,Permanent
+NEX46361,Vikas Krishnan,Technical Lead,Engineering,Gurugram,NEX33526,2019-09-23,Permanent
+NEX46558,Ritu Malhotra,Senior Director - Delivery Assurance,Delivery Management,Gurugram,NEX19123,2015-11-30,Permanent
+NEX46910,Ipsita Malhotra,Senior Manager - Engineering,Engineering,Gurugram,NEX22540,2019-10-12,Permanent
+NEX47029,Anirudh Gawande,Data Engineering Manager,Data & Analytics,Bengaluru,NEX25814,2016-04-11,Permanent
+NEX47052,Kunal Varma,Project Coordinator,Delivery Management,Gurugram,NEX14239,2024-07-25,Fixed-Term Contract
+NEX47095,Umesh Deshpande,Associate Software Engineer,Engineering,Gurugram,NEX10373,2025-05-23,Permanent
+NEX47114,Parvathi Chopra,Associate Data Engineer,Data & Analytics,Bengaluru,NEX42060,2023-09-07,Permanent
+NEX47356,Nupur Pai,Associate Security Analyst,Information Security,Bengaluru,NEX28013,2024-09-18,Permanent
+NEX47471,Mitali Khanna,Account Executive,Sales & Account Management,Bengaluru,NEX16726,2025-12-09,Permanent
+NEX47477,Atul Bansal,IT Support Engineer,IT Support,Gurugram,NEX27965,2024-07-30,Permanent
+NEX47565,Nikhil Grover,Graduate Engineer Trainee,Quality Engineering,Bengaluru,NEX21385,2024-05-15,Graduate Engineer Trainee
+NEX47846,Gaurav Prasad,Senior Data Engineer,Data & Analytics,Bengaluru,NEX47029,2021-02-15,Permanent
+NEX47946,Mahesh Agarwal,Associate Cloud Engineer,Cloud & Infrastructure,Pune,NEX12260,2024-02-19,Permanent
+NEX48787,Ekta Seth,Data Engineering Manager,Data & Analytics,Bengaluru,NEX25814,2015-01-05,Permanent
+NEX48978,Rajat Bhatia,Intern - Hr,Human Resources,Gurugram,NEX28946,2024-07-08,Intern
+NEX49011,Nithya Ramachandran,Senior Manager - Human Resources,Human Resources,Bengaluru,NEX19701,2016-02-29,Permanent
+NEX49304,Prithvi Kapoor,Cloud Architect,Cloud & Infrastructure,Bengaluru,NEX12139,2019-10-07,Permanent
+NEX49471,Sachin Prasad,Associate Software Engineer,Engineering,Gurugram,NEX39800,2025-08-25,Permanent
+NEX49498,Kailash Soni,Senior Software Engineer,Engineering,Bengaluru,NEX16360,2021-05-10,Permanent
+NEX49717,Nandita Iyengar,Presales Associate,Presales & Solutions,Gurugram,NEX10647,2024-01-22,Permanent
+NEX49735,Ishita Pathak,Senior Manager - Data & Analytics,Data & Analytics,Bengaluru,NEX11646,2015-06-03,Permanent
+NEX49810,Swati Chopra,Senior Software Engineer,Engineering,Pune,NEX26702,2018-11-02,Permanent

@@ -1,0 +1,1773 @@
+HR HELPDESK - TICKET EXPORT
+Nexora Technologies Pvt Ltd  |  PeopleHub Helpdesk module  |  export run 12-May-2026 18:42 IST
+Filter: category=HR*  status=any  raised between 01-Jan-2026 and 30-Apr-2026
+Rows: 80   |   CONFIDENTIAL - INTERNAL USE ONLY   |   contains personal data, do not forward
+NOTE: free-text fields are exported verbatim, including original spelling and formatting.
+==============================================================================
+
+==============================================================================
+TICKET NEX-HD-2026-04000    [LEAVE]    P3
+Raised by :  Saurabh Biswas (NEX10638), Scrum Master, Gurugram
+Opened    : 03-Apr-2026 09:00 IST
+Agent     : Ritika Sood
+Subject   : comp off expiry
+------------------------------------------------------------------------------
+USER:
+  hi team, i worked on saturday 14 feb for the settlement release. my
+  manager approved the comp off. i tried to apply it today and peoplehub
+  says balance 0. where did it go
+
+[internal note - not visible to requester] 03-Apr 10:00 - Ritika Sood: checked PeopleHub ledger and Delivery Management HRBP notes before replying.
+
+AGENT RESPONSE (Ritika Sood, 03-Apr-2026 10:00):
+  Checked your ledger. The comp-off was credited 16 Feb 2026 and lapsed on 2
+  Apr 2026. Comp-off has to be availed within 45 days of the date earned -
+  after that it lapses and it is not encashable. Nothing can be restored, I
+  am sorry.
+
+  ** QA FLAG raised 22-Apr-2026 by Nandita Sharma: agent quoted the superseded 45-day
+     comp-off validity. HR-POL-004 v4.2 (eff. 01-Jan-2026) sets it at 60 days. Ticket
+     reopened and corrected. Agent rebriefed. Intranet HR FAQ still shows 45 days -
+     raised with HR Communications as NEX-HD-2026-04117.
+
+status=Resolved | closed=03-Apr-2026 11:00 | ttr=2.0h | csat=5 - very satisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+------------------------------------------------------------
+#NEX-HD-2026-04038 | comp off expiry - correction | Leave | P3 | Resolved
+From: Satish Pillai <satish.pillai@nexoratech.in>
+Emp ID: NEX12318   Dept: Engineering   Loc: Gurugram
+
+ Date: 2026-04-13 10:17:00
+
+Satish Pillai wrote at 10:17:
+Following up on my earlier ticket.  A colleague told me comp-off is valid
+for 60 days now, not 45. Which is it?
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-04-13 16:40:00:
+You are right and my earlier answer was wrong - apologies. HR-POL-004
+v4.2, effective 1 January 2026, extended comp-off validity from 45 days to
+60 days. Your 16 Feb credit was therefore valid until 17 April. I have
+ raised a correction with HR Operations to restore it. The intranet HR FAQ
+still shows 45 days and has been flagged to HR Communications.
+
+status=Resolved | closed=13-Apr-2026 17:40 | ttr=7.4h | csat=4 - satisfied
+
+>>> NEX-HD-2026-04076
+>>> subject: paternity leave duration   category: leave   priority: P2
+>>> requester: Karthik Bhattacharya / NEX14736 / gurugram
+>>> opened 15/01/2026 11:34 AM   assigned Sneha Pillai
+
+[user]
+My wife is due in July. How many days of paternity leave do I get? The
+ handbook PDF I downloaded says 5 days but someone in my team took 10 last
+month.
+
+[agent Sneha Pillai | 15/01/2026 11:20 PM]
+Ten (10) working days. The Leave and Attendance Policy HR-POL-004 v4.2,
+effective 1 January 2026, increased it from 5 to 10. The Employee Handbook
+you downloaded is v3.1 from April 2024 and is out of date on this point -
+it is due for revision. Take it in up to two blocks within six months of
+the birth, and upload the birth certificate on PeopleHub within 30 days of
+starting the leave.
+
+status=Resolved | closed=16-Jan-2026 00:20 | ttr=12.8h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-04114
+  Category ............ Leave
+  Priority ............ P3
+  Requester ........... Satish Mahajan  [NEX16383]
+  Location ............ Pune
+  Opened .............. 17-01-2026 at 12:51
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  i have 36 days EL showing. what happens on 31 dec? do i lose 6 days
+
+AGENT RESPONSE (Abhinav Rastogi, 18-Jan-2026 05:00):
+  No, you do not lose them. 30 days carry forward to the next leave year.
+  The 6 days above the cap are encashed automatically in the January payroll
+  at (Basic + DA)/30 per day. It is taxable as salary and shows on the
+  payslip as 'EL Encashment'. No application needed from you.
+
+
+  Status .............. Closed
+  Closed .............. 18-01-2026 at 06:00
+  Time to resolve ..... 17.1 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-04152    [LEAVE]    P2
+Raised by : Amol Singh (NEX17461), Accounts Payable Analyst, Pune
+Opened    : 22-Jan-2026 13:08 IST
+Agent     : Preeti Chandra
+ Subject   : casual leave consecutive days
+------------------------------------------------------------------------------
+USER:
+  PeopleHub is not letting me apply 4 days CL for a family function. Is this
+  a bug?
+
+AGENT RESPONSE (Preeti Chandra, 23-Jan-2026 10:40):
+  Not a bug. Casual Leave is capped at 3 consecutive days (HR-POL-004 clause
+  3.2). For 4 days, apply Earned Leave. You need 7 calendar days' notice for
+  a 3+ day EL absence and 15 days for 5+ days.
+
+status=Closed | closed=23-Jan-2026 11:40 | ttr=22.5h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-04190 | sick leave certificate | Leave | P1 | Awaiting user response
+From: Faisal Reddy <faisal.reddy@nexoratech.in>
+Emp ID: NEX18839   Dept: Quality Engineering   Loc: Gurugram
+Date: 2026-01-27 14:25:00
+
+Faisal Reddy wrote at 14:25:
+Was down with dengue for 9 days.  Submitted the leave.  HRBP is asking for
+something more than the doctor's note?
+
+[internal note - not visible to requester] 27-Jan 16:00 - Vikas Talwar: checked PeopleHub ledger and Quality Engineering HRBP notes before replying.
+
+Vikas Talwar (HR Helpdesk) replied at 2026-01-28 17:20:00:
+For more than 5 consecutive working days you need a fitness-to-resume
+certificate in addition to the medical certificate, before you return.
+Above 10 consecutive days the HRBP also reviews the case and may refer it
+to the Company medical adviser with your consent. Please upload the
+fitness certificate on PeopleHub and the leave will be regularised.
+
+status=Awaiting user response | closed=28-Jan-2026 18:20 | ttr=27.9h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-04228
+>>> subject: leave declined   category: leave   priority: P3
+>>> requester: Priyanka Bhattacharya / NEX20417 / gurugram
+>>> opened 01/02/2026 03:42 PM   assigned Harini Balakrishnan
+
+[user]
+my manager rejected my EL for 12-16 october with the reason 'project
+pressure'. i asked for these dates two months ago. this is the third time.
+
+[agent Harini Balakrishnan | 02/02/2026 11:00 PM]
+A decline has to record a specific delivery commitment at risk - 'project
+pressure' is expressly not an acceptable reason under HR-POL-004 clause
+10.2 - and the manager must offer an alternative window within 60 days. On
+top of that,  leave cannot be declined where the same window has already
+been declined twice. I have escalated this to your HRBP and copied your
+skip-level. Expect a response within 3 working days.
+
+  ESCALATED to HRBP (Zoya Rahman) on 03-Feb-2026 - awaiting function head input
+
+status=Escalated | closed=03-Feb-2026 00:00 | ttr=32.3h | csat=not rated
+
+ **************************************************************************
+  Ticket ref .......... NEX-HD-2026-04266
+  Category ............ Leave
+  Priority ............ P3
+  Requester ........... Jatin Bansal  [NEX21886]
+  Location ............ Gurugram
+  Opened ..............  30-01-2026 at 16:59
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  Took leave Thu 9 Jul to Mon 13 Jul.  3 days deducted but I only applied for
+  Thursday, Friday and Monday. Why is the weekend counted?
+
+AGENT RESPONSE (Imran Sheikh, 01-Feb-2026 05:40):
+  It is not - you have been charged 3 days for Thu, Fri and Mon. Weekends
+  only count against the balance where the absence runs more than 5
+  continuous calendar days. Your absence is 5 days end to end, so the
+  weekend is free. Ledger looks correct.
+
+  [reopened 02-Feb-2026 09:40] requester: this still is not showing correctly on peoplehub
+  [resolved  02-Feb-2026 14:40] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 01-02-2026 at 06:40
+  Time to resolve ..... 37.7 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-04304    [LEAVE]    P2
+Raised by : Omkar Rana (NEX23520), Finance Executive, Gurugram
+Opened    : 04-Feb-2026 17:16 IST
+Agent     : Ritika Sood
+Subject   : leave during notice
+------------------------------------------------------------------------------
+ USER:
+  I have resigned, LWD is 30 June. I have 14 days EL. Can I use them and
+  finish earlier?
+
+AGENT RESPONSE (Ritika Sood, 06-Feb-2026 10:20):
+  No. Earned Leave cannot be adjusted against the notice period. Any leave
+  you do take during notice extends the last working day by the same number
+  of calendar days, unless your function head waives it in writing. Your EL
+  will be encashed in the F&F, up to a maximum of 30 days.
+
+status=Resolved | closed=06-Feb-2026 11:20 | ttr=42.1h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-04342 | salary not credited | Payroll | P3 | Resolved
+From: Sandeep Nair <sandeep.nair@nexoratech.in>
+Emp ID: NEX25409   Dept: Delivery Management   Loc: Gurugram
+Date: 2026-02-09 09:33:00
+
+Sandeep Nair wrote at 09:33:
+Salary not credited today. It is the last working day. Everyone else in my
+team has received it.
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-02-11 08:00:00:
+Your bank details were updated on PeopleHub on the 22nd, after the 18th
+payroll input cut-off. The credit was attempted to the old account and
+returned. It will be paid in the next payment run on Tuesday. There is no
+off-cycle payment for a bank detail change - please update details before
+the 18th in future.
+
+ status=Resolved | closed=11-Feb-2026 09:00 | ttr=47.5h | csat=4 - satisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+>>> NEX-HD-2026-04380
+>>> subject:  take home vs CTC   category: payroll   priority: P2
+>>> requester: Kaushik Gill / NEX26616 / gurugram
+ >>> opened 14/02/2026 10:50 AM   assigned Sneha Pillai
+
+[user]
+my offer says 18 lakhs CTC.  that should be 1.5L a month but i am getting
+1.09L. is something wrong
+
+[internal note - not visible to requester] 14-Feb 12:10 - Sneha Pillai: checked PeopleHub ledger and Data & Analytics HRBP notes before replying.
+
+[agent Sneha Pillai | 14/02/2026 04:40 PM]
+Nothing is wrong. CTC includes variable pay (8% at your band, paid
+annually in June), the employer PF contribution and the gratuity provision
+- none of which reach you monthly. Then PF, professional tax and TDS come
+off the monthly figure. The worked example at clause 2.3 of HR-POL-007
+breaks it down line by line. Happy to walk through your specific numbers
+on a call.
+
+status=Resolved | closed=14-Feb-2026 17:40 | ttr=6.8h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-04407
+  Category ............ Payroll
+  Priority ............ P1
+  Requester ........... Saurabh Talwar  [NEX28273]
+  Location ............ Bengaluru
+  Opened .............. 19-02-2026 at 11:07
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  why is PT 300 this month instead of 200
+
+AGENT RESPONSE (Abhinav Rastogi, 19-Feb-2026 21:20):
+  You are on the Pune payroll. Maharashtra levies INR 200 for ten months and
+  INR 300 in February, totalling INR 2,500 for the year. Nothing has changed
+  for you.
+
+  Status .............. Closed
+  Closed .............. 19-02-2026 at 22:20
+  Time to resolve ..... 11.2 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-04445    [PAYROLL]    P3
+Raised by : Harish Sekhar (NEX29535), Program Manager, Gurugram
+Opened    : 24-Feb-2026 12:24 IST
+Agent     : Preeti Chandra
+Subject   : form 16
+------------------------------------------------------------------------------
+USER:
+  Need Form 16 for FY 2025-26 for a home loan application. The bank wants it
+  this week.
+
+AGENT RESPONSE (Preeti Chandra,  25-Feb-2026 04:00):
+  Form 16 is issued by 15 June each year and is not available before the
+  annual return is filed. For a loan application the bank will normally
+  accept the salary certificate plus the last 3 payslips and the annual tax
+  computation sheet - all downloadable from PeopleHub > My Pay. If they
+  insist on Form 16, we can issue a provisional computation on the Company
+  letterhead. Confirm and I will raise it.
+
+status=Closed | closed=25-Feb-2026 05:00 | ttr=16.6h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-04483 | investment proof deadline | Payroll | P3 | Awaiting user response
+From: Ragini Nair <ragini.nair@nexoratech.in>
+Emp ID: NEX30870   Dept: Data & Analytics   Loc: Gurugram
+ Date: 2026-03-01 13:41:00
+
+Ragini Nair wrote at 13:41:
+I missed the January proof submission window. I have all the receipts. Can
+it be taken now?
+
+Vikas Talwar (HR Helpdesk) replied at 2026-03-02 10:40:00:
+Not for withholding purposes - the window closed on 31 January and your
+declaration has been withdrawn, so tax was recomputed without those
+deductions across February and March. You have not lost the deduction:
+claim it when you file your return of income and the excess withheld comes
+back as a refund.
+
+status=Awaiting user response | closed=02-Mar-2026 11:40 | ttr=22.0h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-04521
+>>> subject: add parents to mediclaim   category: benefits   priority: P2
+>>> requester: Rohan Thakur / NEX32717 / bengaluru
+>>> opened 27/02/2026 02:58 PM   assigned Harini Balakrishnan
+
+[user]
+Want to add my father to the medical policy. Joined the company in 2023.
+
+[agent Harini Balakrishnan | 28/02/2026 04:20 PM]
+Outside the 30-day joining window and outside a life event, additions can
+only be made at the 1 July renewal. The parental top-up is INR 18,500 per
+parent per year, payroll deducted, INR 5,00,000 floater with a 15% co-
+payment on parental claims. Note you can cover your parents OR your
+parents-in-law, not both sets. Enrolment opens on PeopleHub on 1 June.
+
+  ESCALATED to HRBP (Swati Kulkarni) on 28-Feb-2026 - awaiting function head input
+
+status=Escalated | closed=28-Feb-2026 17:20 | ttr=26.4h | csat=not rated
+
+**************************************************************************
+   Ticket ref .......... NEX-HD-2026-04559
+  Category ............ Benefits
+  Priority ............ P3
+  Requester ........... Rashmi Shetty  [NEX35309]
+  Location ............  Pune
+  Opened .............. 04-03-2026 at 15:15
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  Hospital bill was 2.4 lakhs, insurer settled 1.7 lakhs saying room rent
+  capping. I do not understand, my sum insured is 5 lakhs.
+
+[internal note - not visible to requester] 04-Mar 16:20 - Imran Sheikh: checked PeopleHub ledger and Human Resources HRBP notes before replying.
+
+AGENT RESPONSE (Imran Sheikh, 05-Mar-2026 22:00):
+  Room rent is capped at 1.5% of sum insured per day - INR 7,500 on your
+  floater. You took a room at INR 12,000. When you exceed the room cap the
+   insurer proportions down EVERY associated line on the bill - surgeon fees,
+  nursing, investigations - not just the room charge. This is the most
+  common cause of a short settlement.  I have asked the Benefits team to
+  raise it with the insurer's corporate desk, though on the policy wording
+  the settlement looks correct.
+
+
+  [reopened 07-Mar-2026 02:00] requester: this still is not showing correctly on peoplehub
+  [resolved  07-Mar-2026 07:00] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+   Status .............. Reopened then resolved
+  Closed .............. 05-03-2026 at 23:00
+  Time to resolve ..... 31.8 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-04597    [BENEFITS]    P2
+Raised by :  Trisha Kohli (NEX37464),  Business Analyst, Bengaluru
+Opened    : 15-Mar-2026 16:32 IST
+Agent     : Ritika Sood
+Subject   : newborn cover
+------------------------------------------------------------------------------
+USER:
+  Baby born on 3 March.  Do I need to do anything for insurance?
+
+AGENT RESPONSE (Ritika Sood, 17-Mar-2026 03:40):
+  Yes, and quickly. Intimate MedAssist within 30 days of the birth to add
+  the child to the floater - cover is then effective from day one of life.
+  Also enrol the child on PeopleHub > My Profile > Dependants.
+  Congratulations. Your paternity leave is 10 working days, to be taken
+  within six months.
+
+status=Resolved | closed=17-Mar-2026 04:40 | ttr=36.1h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-04635 | EAP confidentiality | Benefits | P1 | Resolved
+From: Ashwin Prasad <ashwin.prasad@nexoratech.in>
+Emp ID: NEX39361   Dept: Information Security   Loc: Gurugram
+Date: 2026-03-14 17:49:00
+
+Ashwin Prasad wrote at 17:49:
+Is the counselling thing actually confidential or does it come back to HR
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-03-16 10:20:00:
+It is genuinely confidential. Ashray Wellbeing Services run it
+independently on 1800-102-8899. Nexora receives anonymised utilisation
+counts only - never who called, never what was discussed, never that a
+specific person used it. Eight sessions per person per year at no cost,
+
+and your immediate family can use it too.
+
+status=Resolved | closed=16-Mar-2026 11:20 | ttr=41.5h | csat=4 - satisfied
+
+>>> NEX-HD-2026-04673
+>>> subject: notice period length   category: separation   priority: P3
+>>> requester: Rekha Kohli / NEX40993 / gurugram
+>>> opened 19/04/2026 09:06 AM   assigned Sneha Pillai
+
+[user]
+Resigning.  HR portal shows 60 days but my appointment letter from 2022
+says 90. Which applies?
+
+[agent Sneha Pillai | 21/04/2026 07:00 AM]
+Sixty days. HR-POL-007 v2.4 effective 1 April 2026 restructured notice by
+band - 60 calendar days at B1 to B3, 90 at B4 and above. You are at B3.
+The Employee Handbook and the intranet FAQ both still show the old flat 90
+days and are being corrected. PeopleHub is right.
+
+status=Resolved | closed=21-Apr-2026 08:00 | ttr=46.9h | csat=4 - satisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-04711
+  Category ............ Separation
+  Priority ............ P3
+  Requester ........... Meghana Contractor  [NEX42994]
+   Location ............  Gurugram
+  Opened .............. 24-03-2026 at 10:23
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  New employer wants me to join in 30 days. What does buying out cost?
+
+AGENT RESPONSE (Abhinav Rastogi, 24-Mar-2026 14:40):
+  A shortfall has to be approved by your function head and the CHRO first -
+  it is not automatic. If approved, recovery is (Basic + DA)/30 per day of
+  shortfall, adjusted against your F&F. On your Basic that works out to
+  about INR 2,050 per day,  so roughly INR 61,500 for a 30-day shortfall.  It
+  is not tax deductible for you.
+
+  Status .............. Closed
+  Closed .............. 24-03-2026 at 15:40
+  Time to resolve ..... 5.3 hrs
+  CSAT ................  3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-04749    [SEPARATION]    P2
+Raised by : Bhaskar Sundaram (NEX44933), Senior Information Security Analyst, Gurugram
+Opened    : 16-Apr-2026 11:40 IST
+Agent     : Preeti Chandra
+Subject   : F and F timeline
+------------------------------------------------------------------------------
+USER:
+  LWD was 28 Feb. Still no settlement. It has been 6 weeks.
+
+[internal note - not visible to requester] 16-Apr 13:20 - Preeti Chandra: checked PeopleHub ledger and Information Security HRBP notes before replying.
+
+AGENT RESPONSE (Preeti Chandra, 16-Apr-2026 21:20):
+  F&F is processed within 45 days of the last working day. Yours is due by
+  14 April and is currently held on one open item: the docking station
+  issued to you in 2024 has not been returned to NexServe. Return it at any
+  site reception and the settlement releases in the next run. If it is
+  genuinely lost, tell me and we will process it with the depreciated value
+  recovered instead.
+
+status=Closed | closed=16-Apr-2026 22:20 | ttr=10.7h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-04787 | late marks | Attendance | P3 | Awaiting user response
+From: Kunal Varma <kunal.varma@nexoratech.in>
+Emp ID: NEX47052   Dept: Delivery Management   Loc: Gurugram
+Date: 2026-03-27 12:57:00
+
+Kunal Varma wrote at 12:57:
+3 late marks this month and half a day CL got deducted.  i was in the
+office by 11:10 each time because of the metro. this feels harsh
+
+Vikas Talwar (HR Helpdesk) replied at 2026-03-28 03:00:00:
+The rule is arrival after 11:00 IST without a prior approved exception.
+Three in a month is half a day of CL. Two things you can do: shift your
+flexi start with your manager's agreement - the window is 08:00 to 11:00
+and nothing forces an 11:00 start; or, where Facilities has notified a
+transport disruption, late marks are not recorded at all. Metro delays are
+not automatically covered unless notified.
+
+status=Awaiting user response | closed=28-Mar-2026 04:00 | ttr=15.1h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-04814
+>>> subject: missed swipe regularisation   category: attendance   priority: P2
+>>> requester:  Kailash Soni / NEX49498 / bengaluru
+>>> opened 07/04/2026 01:14 PM   assigned Harini Balakrishnan
+
+[user]
+Forgot to swipe out on 12 and 13 March,  noticed only now (2 April).
+Regularisation is greyed out.
+
+[agent Harini Balakrishnan | 08/04/2026 08:40 AM]
+The self-service window is 7 calendar days. Past that it needs HRBP
+approval and is granted only in exceptional circumstances. I have raised
+it with your HRBP with a note that these were client-site days - if you
+can attach the client meeting invitations it will go through.
+
+  ESCALATED to HRBP (Nithya Ramachandran) on 08-Apr-2026 - awaiting function head input
+
+status=Escalated | closed=08-Apr-2026 09:40 | ttr=20.4h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-04852
+  Category ............ Attendance
+
+  Priority ............ P1
+  Requester ........... Parth Verma  [NEX11553]
+  Location ............ Gurugram
+  Opened .............. 06-04-2026 at 14:31
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  How many days do I need to come in? I have heard 10 and I have heard 12.
+
+AGENT RESPONSE (Imran Sheikh, 07-Apr-2026 15:20):
+  Ten working days per calendar month, including the team anchor day in each
+  week it falls. HR-POL-012 v1.4 reduced it from 12 to 10 with effect from 1
+  March 2026. The Employee Handbook and the intranet HR FAQ both still say
+  12 and are queued for correction. Ten is the current position.
+
+  [reopened 08-Apr-2026 19:20] requester: this still is not showing correctly on peoplehub
+  [resolved  09-Apr-2026 00:20] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 07-04-2026 at 16:20
+  Time to resolve ..... 25.8 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-04890    [IT]    P3
+Raised by : Anirudh Fernandes (NEX13123), DevOps Engineer, Bengaluru
+Opened    : 11-Apr-2026 15:48 IST
+Agent     : Ritika Sood
+Subject   :  laptop not ready on day one
+------------------------------------------------------------------------------
+USER:
+  I joined today.  Reported at 9:30. There is no laptop for me. I have been
+  sitting in the cafeteria since 11.
+
+AGENT RESPONSE (Ritika Sood, 12-Apr-2026 21:00):
+  That should not have happened and I am sorry. A P1 has been raised with IT
+  and a loaner has been allocated from the Gurugram buffer pool - collect it
+  from the Level 3 IT desk now. Your assigned machine arrives Thursday. This
+  is also being logged as a day-one readiness failure against the DOJ-3 gate
+  and will show in the monthly onboarding metrics.
+
+status=Resolved | closed=12-Apr-2026 22:00 | ttr=30.2h | csat=5 - very satisfied
+
+ ------------------------------------------------------------
+#NEX-HD-2026-04928 | client environment access delay | IT | P3 | Resolved
+From: Lakshman Verma <lakshman.verma@nexoratech.in>
+Emp ID: NEX15138   Dept: Quality Engineering   Loc: Bengaluru
+Date: 2026-04-16 16:05:00
+
+Lakshman Verma wrote at 16:05:
+Day 16 and still no client VPN. I cannot do anything on the actual
+project.
+
+[internal note - not visible to requester] 16-Apr 17:30 - Manoj Kelkar: checked PeopleHub ledger and Quality Engineering HRBP notes before replying.
+
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-04-18 02:40:00:
+Client access is approved by the client, not by us, and typically runs 5
+to 15 working days. Yours is held because the client-specific payments
+data module on NexoraLearn is not marked complete - the client will not
+approve until it is. Complete it today and your Delivery Manager can chase
+the approval tomorrow.
+
+status=Resolved | closed=18-Apr-2026 03:40 | ttr=35.6h | csat=4 - satisfied
+
+>>> NEX-HD-2026-04966
+>>> subject: personal usb blocked   category: it   priority: P2
+>>> requester: Vikas Mehta / NEX16593 / bengaluru
+>>> opened 21/04/2026 05:22 PM   assigned Sneha Pillai
+
+[user]
+tried to copy some reference material off a pen drive and the laptop
+blocked it and i got an email from security. did i do something wrong
+
+[agent Sneha Pillai | 23/04/2026 09:20 AM]
+The DLP agent blocked it, which is what it is meant to do. Personal
+removable storage on a Nexora device is prohibited under ISMS-POL-004 and
+it is a serious matter if it is repeated. Nothing further happens on a
+first, clearly innocent, blocked attempt. Use OneDrive or the team
+SharePoint to move material instead.
+
+status=Resolved | closed=23-Apr-2026 10:20 | ttr=41.0h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05004
+  Category ............ IT
+  Priority ............ P3
+  Requester ........... Ajay Dutta  [NEX17930]
+  Location ............ Bengaluru
+  Opened .............. 26-04-2026 at 09:39
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  Can I use my own ChatGPT Plus subscription for work? It is faster than
+  switching windows.
+
+AGENT RESPONSE (Abhinav Rastogi, 28-Apr-2026 06:00):
+  No. Only the enterprise instances on the NexServe catalogue may be used
+  for work - personal accounts and personal API keys are not permitted. No
+  client-confidential material, personal data, credentials or proprietary
+  source code goes into any unapproved service. Also check your engagement's
+  Delivery Operating Model: several of our BFSI clients prohibit AI-assisted
+  development entirely.
+
+  Status .............. Closed
+  Closed .............. 28-04-2026 at 07:00
+  Time to resolve ..... 45.4 hrs
+  CSAT ................ 3 - neutral
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+==============================================================================
+TICKET NEX-HD-2026-05042    [ONBOARDING]    P2
+Raised by : Aniket Chopra (NEX19471), Scrum Master, Gurugram
+Opened    : 24-Apr-2026 10:56 IST
+Agent     : Preeti Chandra
+Subject   : mandatory training deadline
+------------------------------------------------------------------------------
+USER:
+  Got a mail saying my access will be suspended. I have done 5 of the 7
+  courses.
+
+AGENT RESPONSE (Preeti Chandra, 24-Apr-2026 14:40):
+  Escalation runs at day 15,  day 25 and day 31, and at day 45 everything
+  except PeopleHub and NexoraLearn is suspended until you finish. You are at
+  day 38. The two outstanding are NEX-LEG-105 (1 hour) and NEX-QMS-106 (1
+  hour). Two hours of work clears it.
+
+status=Closed | closed=24-Apr-2026 15:40 | ttr=4.7h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05080 | relieving letter | Onboarding | P1 | Awaiting user response
+From: Sourav Pathak <sourav.pathak@nexoratech.in>
+Emp ID: NEX20795   Dept: Delivery Management   Loc: Pune
+Date: 2026-04-29 11:13:00
+
+Sourav Pathak wrote at 11:13:
+Previous employer is dragging their feet on the relieving letter. I joined
+40 days ago.
+
+Vikas Talwar (HR Helpdesk) replied at 2026-04-29 19:20:00:
+You have 90 days from joining before it is treated as a Red BGV finding,
+so there is time, but please keep chasing. If they refuse in writing, send
+us that refusal along with your resignation acknowledgement and the last
+payslip - the Amber review panel can close it on that basis.  What we
+cannot do is confirm you without establishing that the previous employment
+has ended.
+
+status=Awaiting user response | closed=29-Apr-2026 20:20 | ttr=9.1h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-05118
+>>> subject: buddy not assigned   category: onboarding   priority: P3
+>>> requester: Ramesh Seth / NEX22239 / gurugram
+>>> opened 06/01/2026 12:30 PM   assigned Harini Balakrishnan
+
+[user]
+Two weeks in and no buddy. I have been figuring things out by asking
+whoever looks least busy.
+
+[internal note - not visible to requester] 06-Jan 13:40 - Harini Balakrishnan: checked PeopleHub ledger and Sales & Account Management HRBP notes before replying.
+
+[agent Harini Balakrishnan | 07/01/2026 02:00 AM]
+That is a miss - buddies are nominated at DOJ-10. I have flagged it to
+
+your manager and the HRBP. Someone will be assigned today and the 30-day
+clock starts from then rather than from your joining date.
+
+  ESCALATED to HRBP (Zoya Rahman) on 07-Jan-2026 - awaiting function head input
+
+status=Escalated | closed=07-Jan-2026 03:00 | ttr=14.5h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05156
+  Category ............ Conduct
+  Priority ............ P3
+  Requester ........... Arjun Menon  [NEX24614]
+  Location ............ Gurugram
+  Opened .............. 11-01-2026 at 13:47
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  A vendor sent a hamper to my desk at Diwali.  I would guess it is worth
+  about 6000. What do I do with it?
+
+AGENT RESPONSE (Imran Sheikh, 12-Jan-2026 08:40):
+  Above the INR 5,000 threshold, so declare it on the PeopleHub Gift
+
+  Register within 7 days. You may keep it only if your function head
+  approves; otherwise hand it to HR and it goes into the annual charity
+  draw. If you are currently in a tender or contract negotiation with that
+  vendor, it must be returned regardless of value.
+
+  [reopened 13-Jan-2026 12:40] requester: this still is not showing correctly on peoplehub
+  [resolved  13-Jan-2026 17:40] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 12-01-2026 at 09:40
+  Time to resolve ..... 19.9 hrs
+  CSAT ................ not rated
+
+
+==============================================================================
+TICKET NEX-HD-2026-05194    [CONDUCT]    P2
+Raised by : Sanjay Bhattacharya (NEX25814), Senior Manager - Data & Analytics, Bengaluru
+Opened    : 16-Jan-2026 14:04 IST
+Agent     : Ritika Sood
+Subject   : moonlighting query
+------------------------------------------------------------------------------
+USER:
+  I have been offered a weekend teaching slot at a coaching institute, paid.
+  Do I need permission?
+
+AGENT RESPONSE (Ritika Sood, 17-Jan-2026 13:20):
+  Paid teaching is concurrent engagement and needs the CHRO's prior written
+   approval on PeopleHub. Unpaid teaching, mentoring and conference speaking
+  do not, provided no Company or client information is disclosed and it does
+  not fall in working hours. Apply and give the hours - it is usually
+  approved where there is no overlap with a client or a competitor.
+
+status=Resolved | closed=17-Jan-2026 14:20 | ttr=24.3h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05221 | raising a concern anonymously | Conduct | P3 | Resolved
+From: Harini Bhat <harini.bhat@nexoratech.in>
+Emp ID: NEX27105   Dept: Cloud & Infrastructure   Loc: Pune
+
+Date: 2026-01-21 15:21:00
+
+Harini Bhat wrote at 15:21:
+I want to report something about expense claims on my project but I do not
+want my name attached.
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-01-22 20:00:00:
+Use IntegriLine on 1800-419-6272 or integriline.nexoratech.in. It is run
+by an independent third party, operates 24 hours in seven languages, and
+you can stay anonymous - you get a case reference and a call-back date and
+can follow up without identifying yourself. Reports go to the General
+Counsel and are summarised to the Audit Committee, not to your management
+chain. Retaliation is itself a serious misconduct.
+
+status=Resolved | closed=22-Jan-2026 21:00 | ttr=29.6h | csat=4 - satisfied
+
+>>> NEX-HD-2026-05259
+>>> subject: certification reimbursement   category: learning   priority: P2
+>>> requester: Lakshmi Sundaresan / NEX28761 / bengaluru
+>>> opened 26/01/2026 04:38 PM   assigned Sneha Pillai
+
+[user]
+Failed AWS SA Pro on the first attempt,  cleared it on the second. How much
+comes back?
+
+[agent Sneha Pillai | 28/01/2026 01:40 AM]
+50% of the examination fee for a second-attempt pass. First-attempt passes
+are 100%; third attempts and failed attempts are nil.  Claim on NexSpend
+under 'Certification' with the score report attached, within the INR
+40,000 annual cap.
+
+status=Resolved | closed=28-Jan-2026 02:40 | ttr=34.0h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05297
+  Category ............ Learning
+  Priority ............ P1
+  Requester ........... Vidya Ramachandran  [NEX29757]
+  Location ............ Gurugram
+  Opened .............. 24-01-2026 at 17:55
+  Handled by .......... Abhinav Rastogi
+ **************************************************************************
+USER:
+  Applying for a part-time executive PG. Deadline for the college is 20
+  June.
+
+[internal note - not visible to requester] 24-Jan 19:40 - Abhinav Rastogi: checked PeopleHub ledger and Delivery Management HRBP notes before replying.
+
+AGENT RESPONSE (Abhinav Rastogi, 26-Jan-2026 08:20):
+  The Nexora application window is 1 April to 31 May, so you have missed it
+  for this year - the next window opens 1 April 2027 and there are 25 awards
+  a year across the Company. Up to INR 1,50,000, disbursed 50% on admission
+  and 50% on completion, with a 24-month service bond. You can still take
+  the programme and use up to 6 days of paid examination leave a year.
+
+  Status .............. Closed
+  Closed .............. 26-01-2026 at 09:20
+  Time to resolve ..... 39.4 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-05335    [PERFORMANCE]    P3
+Raised by : Tarun Verma (NEX31380), Associate QA Engineer, Bengaluru
+Opened    : 29-Jan-2026 09:12 IST
+Agent     : Preeti Chandra
+Subject   : rating disagreement
+------------------------------------------------------------------------------
+USER:
+  Got a 3. I shipped the migration and I covered for two people who left. I
+  do not accept this.
+
+AGENT RESPONSE (Preeti Chandra, 31-Jan-2026 05:00):
+  You can appeal to your function head within 15 working days of the rating
+  conversation, setting out what was not considered or was considered
+  wrongly. Also worth saying plainly: a 3 is 'Meets Expectations' and is the
+  rating for most of the company in any year.  It is not a warning and it
+  does not block promotion - two consecutive 3s with a readiness assessment
+  makes you eligible.
+
+
+status=Closed | closed=31-Jan-2026 06:00 | ttr=44.8h | csat=5 - very satisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+------------------------------------------------------------
+#NEX-HD-2026-05373 | PIP process | Performance | P3 | Awaiting user response
+From: Anup Sharma <anup.sharma@nexoratech.in>
+Emp ID: NEX33348   Dept: Data & Analytics   Loc: Bengaluru
+Date: 2026-02-03 10:29:00
+
+Anup Sharma wrote at 10:29:
+Manager has put me on a PIP. It just says 'improve quality of work'. Is
+that allowed?
+
+Vikas Talwar (HR Helpdesk) replied at 2026-02-03 12:40:00:
+No. A PIP has to state the specific gap in observable terms, the standard
+to be met, the support the Company will provide, the review dates, and the
+consequence. 'Improve quality of work' meets none of that. Fortnightly
+reviews are mandatory and the HRBP attends the opening and closing
+reviews. I am escalating this to your HRBP to have the document rewritten
+before the clock starts.
+
+status=Awaiting user response | closed=03-Feb-2026 13:40 | ttr=3.2h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-05411
+>>> subject: access card not working   category: facilities   priority: P2
+>>> requester: Balaji Grover / NEX36169 / gurugram
+>>> opened 08/02/2026 11:46 AM   assigned Harini Balakrishnan
+
+[user]
+Card stopped working at the Level 6 turnstile this morning. Worked
+yesterday.
+
+[agent Harini Balakrishnan | 08/02/2026 07:20 PM]
+
+Your access profile was updated last night after the team move to Level 8.
+The Level 6 profile was removed and Level 8 added.  Tap at Level 8.  If you
+still need Level 6 for the lab, raise a Facilities request and it will be
+added back.
+
+  ESCALATED to HRBP (Swati Kulkarni) on 08-Feb-2026 - awaiting function head input
+
+status=Escalated | closed=08-Feb-2026 20:20 | ttr=8.6h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05449
+  Category ............ Facilities
+  Priority ............ P3
+  Requester ........... Chetan Mehta  [NEX37778]
+   Location ............  Bengaluru
+  Opened .............. 13-02-2026 at 12:03
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  I am being rostered on night shift from next month. I am not comfortable
+  travelling at 2am.
+
+AGENT RESPONSE (Imran Sheikh, 14-Feb-2026 01:00):
+  Two things. You may decline a night-shift roster without any adverse
+  consequence. If you do work it, door-to-door Company transport with a
+  security escort is provided - it is not optional for the Company to
+  arrange and not something you have to ask for. Talk to your Delivery
+  Manager; I have copied your HRBP.
+
+  [reopened 15-Feb-2026 05:00] requester: this still is not showing correctly on peoplehub
+  [resolved  15-Feb-2026 10:00] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 14-02-2026 at 02:00
+  Time to resolve .....  13.9 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-05487    [LEAVE]    P2
+Raised by : Mayank Mehta (NEX39579), Project Coordinator, Pune
+Opened    : 06-Apr-2026 13:20 IST
+Agent     : Ritika Sood
+Subject   : comp off expiry
+------------------------------------------------------------------------------
+USER:
+  hi team, i worked on saturday 14 feb for the settlement release. my
+  manager approved the comp off. i tried to apply it today and peoplehub
+  says balance 0. where did it go
+
+[internal note - not visible to requester] 06-Apr 14:50 - Ritika Sood: checked PeopleHub ledger and Delivery Management HRBP notes before replying.
+
+AGENT RESPONSE (Ritika Sood, 07-Apr-2026 06:40):
+  Checked your ledger.  The comp-off was credited 16 Feb 2026 and lapsed on 2
+  Apr 2026. Comp-off has to be availed within 45 days of the date earned -
+  after that it lapses and it is not encashable. Nothing can be restored, I
+  am sorry.
+
+  ** QA FLAG raised 22-Apr-2026 by Nandita Sharma:  agent quoted the superseded 45-day
+     comp-off validity. HR-POL-004 v4.2 (eff. 01-Jan-2026) sets it at 60 days. Ticket
+     reopened and corrected.  Agent rebriefed.  Intranet HR FAQ still shows 45 days -
+     raised with HR Communications as NEX-HD-2026-04117.
+
+status=Resolved | closed=07-Apr-2026 07:40 | ttr=18.3h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05525 | comp off expiry - correction | Leave | P1 | Resolved
+From: Shashank Tiwari <shashank.tiwari@nexoratech.in>
+Emp ID: NEX41437   Dept: Data & Analytics   Loc: Bengaluru
+Date:  2026-04-24 14:37:00
+
+Shashank Tiwari wrote at 14:37:
+Following up on my earlier ticket. A colleague told me comp-off is valid
+for 60 days now,  not 45.  Which is it?
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-04-25 13:20:00:
+You are right and my earlier answer was wrong - apologies. HR-POL-004
+v4.2, effective 1 January 2026, extended comp-off validity from 45 days to
+60 days. Your 16 Feb credit was therefore valid until 17 April. I have
+raised a correction with HR Operations to restore it. The intranet HR FAQ
+still shows 45 days and has been flagged to HR Communications.
+
+status=Resolved | closed=25-Apr-2026 14:20 | ttr=23.7h | csat=4 - satisfied
+
+>>> NEX-HD-2026-05563
+>>> subject: paternity leave duration   category: leave   priority: P3
+>>> requester: Mukesh Prasad / NEX43740 / pune
+>>> opened 27/02/2026 03:54 PM   assigned Sneha Pillai
+
+[user]
+My wife is due in July. How many days of paternity leave do I get? The
+handbook PDF I downloaded says 5 days but someone in my team took 10 last
+month.
+
+[agent Sneha Pillai | 28/02/2026 07:00 PM]
+Ten (10) working days. The Leave and Attendance Policy HR-POL-004 v4.2,
+effective 1 January 2026, increased it from 5 to 10. The Employee Handbook
+you downloaded is v3.1 from April 2024 and is out of date on this point -
+it is due for revision. Take it in up to two blocks within six months of
+ the birth, and upload the birth certificate on PeopleHub within 30 days of
+starting the leave.
+
+status=Resolved | closed=28-Feb-2026 20:00 | ttr=28.1h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05601
+  Category ............  Leave
+  Priority ............ P3
+  Requester ........... Santosh Awasthi  [NEX45154]
+  Location ............ Gurugram
+
+  Opened .............. 26-02-2026 at 16:11
+   Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  i have 36 days EL showing. what happens on 31 dec? do i lose 6 days
+
+AGENT RESPONSE (Abhinav Rastogi, 28-Feb-2026 00:40):
+  No, you do not lose them. 30 days carry forward to the next leave year.
+  The 6 days above the cap are encashed automatically in the January payroll
+  at (Basic + DA)/30 per day. It is taxable as salary and shows on the
+  payslip as 'EL Encashment'. No application needed from you.
+
+  Status .............. Closed
+  Closed .............. 28-02-2026 at 01:40
+  Time to resolve ..... 33.5 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-05628    [LEAVE]    P2
+Raised by : Mitali Khanna (NEX47471), Account Executive, Bengaluru
+Opened    : 03-Mar-2026 17:28 IST
+Agent     : Preeti Chandra
+Subject   : casual leave consecutive days
+ ------------------------------------------------------------------------------
+USER:
+  PeopleHub is not letting me apply 4 days CL for a family function. Is this
+  a bug?
+
+AGENT RESPONSE (Preeti Chandra, 05-Mar-2026 07:20):
+  Not a bug. Casual Leave is capped at 3 consecutive days (HR-POL-004 clause
+  3.2). For 4 days, apply Earned Leave. You need 7 calendar days' notice for
+  a 3+ day EL absence and 15 days for 5+ days.
+
+status=Closed | closed=05-Mar-2026 08:20 | ttr=38.9h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05666 | sick leave certificate | Leave | P3 | Awaiting user response
+From: Shruti Sharma <shruti.sharma@nexoratech.in>
+Emp ID: NEX10314   Dept: Engineering   Loc: Gurugram
+Date: 2026-03-08 09:45:00
+
+Shruti Sharma wrote at 09:45:
+ Was down with dengue for 9 days. Submitted the leave. HRBP is asking for
+something more than the doctor's note?
+
+[internal note - not visible to requester] 08-Mar 11:00 - Vikas Talwar: checked PeopleHub ledger and Engineering HRBP notes before replying.
+
+Vikas Talwar (HR Helpdesk) replied at 2026-03-10 04:00:00:
+For more than 5 consecutive working days you need a fitness-to-resume
+certificate in addition to the medical certificate, before you return.
+Above 10 consecutive days the HRBP also reviews the case and may refer it
+to the Company medical adviser with your consent. Please upload the
+fitness certificate on PeopleHub and the leave will be regularised.
+
+status=Awaiting user response | closed=10-Mar-2026 05:00 | ttr=43.2h | csat=2 - dissatisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+>>> NEX-HD-2026-05704
+>>> subject: leave declined   category: leave   priority: P2
+>>> requester: Sameer Awasthi / NEX12139 / pune
+>>> opened 13/03/2026 10:02 AM   assigned Harini Balakrishnan
+
+
+[user]
+my manager rejected my EL for 12-16 october with the reason 'project
+pressure'. i asked for these dates two months ago. this is the third time.
+
+[agent Harini Balakrishnan | 13/03/2026 11:40 AM]
+A decline has to record a specific delivery commitment at risk - 'project
+pressure' is expressly not an acceptable reason under HR-POL-004 clause
+10.2 - and the manager must offer an alternative window within 60 days. On
+top of that,  leave cannot be declined where the same window has already
+been declined twice. I have escalated this to your HRBP and copied your
+skip-level. Expect a response within 3 working days.
+
+  ESCALATED to HRBP (Nithya Ramachandran) on 13-Mar-2026 - awaiting function head input
+
+status=Escalated | closed=13-Mar-2026 12:40 | ttr=2.6h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05742
+  Category ............ Leave
+  Priority ............ P1
+  Requester ........... Zoya Rahman  [NEX13833]
+  Location ............ Gurugram
+  Opened .............. 18-03-2026 at 11:19
+
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  Took leave Thu 9 Jul to Mon 13 Jul. 3 days deducted but I only applied for
+   Thursday, Friday and Monday. Why is the weekend counted?
+
+AGENT RESPONSE (Imran Sheikh, 18-Mar-2026 17:20):
+  It is not - you have been charged 3 days for Thu, Fri and Mon. Weekends
+  only count against the balance where the absence runs more than 5
+  continuous calendar days. Your absence is 5 days end to end, so the
+  weekend is free. Ledger looks correct.
+
+  [reopened 19-Mar-2026 21:20] requester: this still is not showing correctly on peoplehub
+  [resolved  20-Mar-2026 02:20] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 18-03-2026 at 18:20
+  Time to resolve ..... 7.0 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-05780    [LEAVE]    P3
+Raised by : Madhuri Iyengar (NEX15955), Senior Manager - Finance, Gurugram
+Opened    : 23-Mar-2026 12:36 IST
+Agent     : Ritika Sood
+Subject   : leave during notice
+------------------------------------------------------------------------------
+USER:
+  I have resigned, LWD is 30 June. I have 14 days EL. Can I use them and
+  finish earlier?
+
+AGENT RESPONSE (Ritika Sood, 24-Mar-2026 00:00):
+  No. Earned Leave cannot be adjusted against the notice period. Any leave
+  you do take during notice extends the last working day by the same number
+  of calendar days, unless your function head waives it in writing. Your EL
+  will be encashed in the F&F, up to a maximum of 30 days.
+
+status=Resolved | closed=24-Mar-2026 01:00 | ttr=12.4h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05818 | salary not credited | Payroll | P3 | Resolved
+From: Kiran Grover <kiran.grover@nexoratech.in>
+Emp ID: NEX16785   Dept: Engineering   Loc: Gurugram
+Date: 2026-03-21 13:53:00
+
+Kiran Grover wrote at 13:53:
+Salary not credited today. It is the last working day. Everyone else in my
+team has received it.
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-03-22 06:40:00:
+Your bank details were updated on PeopleHub on the 22nd, after the 18th
+payroll input cut-off.  The credit was attempted to the old account and
+returned. It will be paid in the next payment run on Tuesday. There is no
+off-cycle payment for a bank detail change - please update details before
+the 18th in future.
+
+status=Resolved | closed=22-Mar-2026 07:40 | ttr=17.8h | csat=4 - satisfied
+
+>>> NEX-HD-2026-05856
+>>> subject: take home vs CTC   category: payroll   priority: P2
+>>> requester: Indrajit Anand / NEX18165 / gurugram
+>>> opened 26/03/2026 02:10 PM   assigned Sneha Pillai
+
+[user]
+my offer says 18 lakhs CTC. that should be 1.5L a month but i am getting
+1.09L. is something wrong
+
+[internal note - not visible to requester] 26-Mar 15:10 - Sneha Pillai: checked PeopleHub ledger and Cloud & Infrastructure HRBP notes before replying.
+
+[agent Sneha Pillai | 27/03/2026 11:20 AM]
+Nothing is wrong.  CTC includes variable pay (8% at your band, paid
+annually in June), the employer PF contribution and the gratuity provision
+- none of which reach you monthly. Then PF, professional tax and TDS come
+
+off the monthly figure. The worked example at clause 2.3 of HR-POL-007
+breaks it down line by line. Happy to walk through your specific numbers
+ on a call.
+
+status=Resolved | closed=27-Mar-2026 12:20 | ttr=22.2h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-05894
+  Category ............ Payroll
+  Priority ............  P3
+  Requester ........... Radhika Puri  [NEX19945]
+  Location ............ Bengaluru
+  Opened .............. 31-03-2026 at 15:27
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  why is PT 300 this month instead of 200
+
+AGENT RESPONSE (Abhinav Rastogi, 01-Apr-2026 18:00):
+  You are on the Pune payroll. Maharashtra levies INR 200 for ten months and
+  INR 300 in February, totalling INR 2,500 for the year. Nothing has changed
+  for you.
+
+  Status .............. Closed
+  Closed .............. 01-04-2026 at 19:00
+  Time to resolve .....  27.6 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-05932    [PAYROLL]    P2
+ Raised by : Hemant Khanna (NEX21322), Senior QA Engineer, Pune
+Opened    : 05-Apr-2026 16:44 IST
+Agent     : Preeti Chandra
+Subject   : form 16
+------------------------------------------------------------------------------
+USER:
+  Need Form 16 for FY 2025-26 for a home loan application. The bank wants it
+  this week.
+
+AGENT RESPONSE (Preeti Chandra, 07-Apr-2026 00:40):
+  Form 16 is issued by 15 June each year and is not available before the
+  annual return is filed. For a loan application the bank will normally
+  accept the salary certificate plus the last 3 payslips and the annual tax
+   computation sheet - all downloadable from PeopleHub > My Pay. If they
+  insist on Form 16, we can issue a provisional computation on the Company
+  letterhead. Confirm and I will raise it.
+
+status=Closed | closed=07-Apr-2026 01:40 | ttr=32.9h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-05970 | investment proof deadline | Payroll | P1 | Awaiting user response
+From:  Aparna Sethi <aparna.sethi@nexoratech.in>
+Emp ID: NEX22670   Dept: Finance & Accounts   Loc: Gurugram
+Date: 2026-04-10 17:01:00
+
+Aparna Sethi wrote at 17:01:
+I missed the January proof submission window. I have all the receipts. Can
+it be taken now?
+
+Vikas Talwar (HR Helpdesk) replied at 2026-04-12 05:20:00:
+Not for withholding purposes - the window closed on 31 January and your
+declaration has been withdrawn, so tax was recomputed without those
+deductions across February and March. You have not lost the deduction:
+claim it when you file your return of income and the excess withheld comes
+back as a refund.
+
+status=Awaiting user response | closed=12-Apr-2026 06:20 | ttr=37.3h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-06008
+>>> subject: add parents to mediclaim   category: benefits   priority: P3
+>>> requester: Zaid Puri / NEX24862 / gurugram
+ >>> opened 15/04/2026 09:18 AM   assigned Harini Balakrishnan
+
+
+[user]
+Want to add my father to the medical policy. Joined the company in 2023.
+
+[agent Harini Balakrishnan | 17/04/2026 03:00 AM]
+Outside the 30-day joining window and outside a life event, additions can
+ only be made at the 1 July renewal. The parental top-up is INR 18,500 per
+parent per year,  payroll deducted,  INR 5,00,000 floater with a 15% co-
+payment on parental claims. Note you can cover your parents OR your
+parents-in-law, not both sets. Enrolment opens on PeopleHub on 1 June.
+
+  ESCALATED to HRBP (Zoya Rahman) on 17-Apr-2026 - awaiting function head input
+
+status=Escalated | closed=17-Apr-2026 04:00 | ttr=42.7h | csat=not rated
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06035
+  Category ............ Benefits
+  Priority ............ P3
+  Requester ........... Shashank Sinha  [NEX26227]
+  Location ............ Bengaluru
+  Opened .............. 20-04-2026 at 10:35
+  Handled by .......... Imran Sheikh
+ **************************************************************************
+
+USER:
+   Hospital bill was 2.4 lakhs, insurer settled 1.7 lakhs saying room rent
+  capping. I do not understand, my sum insured is 5 lakhs.
+
+[internal note - not visible to requester] 20-Apr 12:10 - Imran Sheikh:  checked PeopleHub ledger and Engineering HRBP notes before replying.
+
+AGENT RESPONSE (Imran Sheikh, 22-Apr-2026 08:40):
+  Room rent is capped at 1.5% of sum insured per day - INR 7,500 on your
+  floater. You took a room at INR 12,000. When you exceed the room cap the
+  insurer proportions down EVERY associated line on the bill - surgeon fees,
+  nursing,  investigations - not just the room charge.  This is the most
+  common cause of a short settlement. I have asked the Benefits team to
+  raise it with the insurer's corporate desk, though on the policy wording
+  the settlement looks correct.
+
+  [reopened 23-Apr-2026 12:40] requester: this still is not showing correctly on peoplehub
+  [resolved  23-Apr-2026 17:40] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 22-04-2026 at 09:40
+  Time to resolve ..... 47.1 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-06073    [BENEFITS]    P2
+Raised by : Meghana Bhosale (NEX27732), Marketing Associate, Gurugram
+
+Opened    : 05-Mar-2026 11:52 IST
+Agent     : Ritika Sood
+Subject   : newborn cover
+------------------------------------------------------------------------------
+USER:
+  Baby born on 3 March. Do I need to do anything for insurance?
+
+AGENT RESPONSE (Ritika Sood, 05-Mar-2026 17:20):
+  Yes, and quickly. Intimate MedAssist within 30 days of the birth to add
+  the child to the floater - cover is then effective from day one of life.
+  Also enrol the child on PeopleHub > My Profile > Dependants.
+  Congratulations. Your paternity leave is 10 working days, to be taken
+  within six months.
+
+status=Resolved | closed=05-Mar-2026 18:20 | ttr=6.5h | csat=5 - very satisfied
+
+------------------------------------------------------------
+ #NEX-HD-2026-06111 | EAP confidentiality | Benefits | P3 | Resolved
+From: Akanksha Gawande <akanksha.gawande@nexoratech.in>
+Emp ID: NEX28946   Dept: Human Resources   Loc: Gurugram
+Date:  2026-04-23 12:09:00
+
+Akanksha Gawande wrote at 12:09:
+Is the counselling thing actually confidential or does it come back to HR
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-04-23 23:00:00:
+It is genuinely confidential. Ashray Wellbeing Services run it
+independently on 1800-102-8899. Nexora receives anonymised utilisation
+counts only - never who called, never what was discussed, never that a
+specific person used it. Eight sessions per person per year at no cost,
+and your immediate family can use it too.
+
+
+status=Resolved | closed=24-Apr-2026 00:00 | ttr=11.8h | csat=4 - satisfied
+
+>>> NEX-HD-2026-06149
+>>> subject: notice period length   category: separation   priority: P2
+>>> requester: Rohan Maheshwari / NEX30230 / pune
+>>> opened 03/04/2026 01:26 PM   assigned Sneha Pillai
+
+[user]
+Resigning. HR portal shows 60 days but my appointment letter from 2022
+says 90. Which applies?
+
+[agent Sneha Pillai | 04/04/2026 04:40 AM]
+Sixty days.  HR-POL-007 v2.4 effective 1 April 2026 restructured notice by
+band - 60 calendar days at B1 to B3,  90 at B4 and above.  You are at B3.
+The Employee Handbook and the intranet FAQ both still show the old flat 90
+days and are being corrected. PeopleHub is right.
+
+status=Resolved | closed=04-Apr-2026 05:40 | ttr=16.2h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06187
+  Category ............ Separation
+  Priority ............ P1
+  Requester ........... Shruti Ramachandran  [NEX32174]
+  Location ............ Gurugram
+  Opened .............. 05-01-2026 at 14:43
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  New employer wants me to join in 30 days. What does buying out cost?
+
+AGENT RESPONSE (Abhinav Rastogi, 06-Jan-2026 11:20):
+  A shortfall has to be approved by your function head and the CHRO first -
+  it is not automatic. If approved, recovery is (Basic + DA)/30 per day of
+  shortfall, adjusted against your F&F. On your Basic that works out to
+  about INR 2,050 per day, so roughly INR 61,500 for a 30-day shortfall. It
+  is not tax deductible for you.
+
+  Status .............. Closed
+  Closed .............. 06-01-2026 at 12:20
+  Time to resolve ..... 21.6 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-06225    [SEPARATION]    P3
+Raised by : Uma Pai (NEX33818), Associate Software Engineer, Gurugram
+Opened    : 14-Apr-2026 15:00 IST
+Agent     : Preeti Chandra
+Subject   :  F and F timeline
+------------------------------------------------------------------------------
+USER:
+  LWD was 28 Feb. Still no settlement. It has been 6 weeks.
+
+[internal note - not visible to requester] 14-Apr 16:20 - Preeti Chandra: checked PeopleHub ledger and Engineering HRBP notes before replying.
+
+AGENT RESPONSE (Preeti Chandra, 15-Apr-2026 16:00):
+  F&F is processed within 45 days of the last working day. Yours is due by
+  14 April and is currently held on one open item: the docking station
+   issued to you in 2024 has not been returned to NexServe. Return it at any
+  site reception and the settlement releases in the next run. If it is
+  genuinely lost, tell me and we will process it with the depreciated value
+  recovered instead.
+
+
+status=Closed | closed=15-Apr-2026 17:00 | ttr=26.0h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-06263 | late marks | Attendance | P3 | Awaiting user response
+From: Uma Naidu <uma.naidu@nexoratech.in>
+Emp ID: NEX36323   Dept: Engineering   Loc: Gurugram
+Date: 2026-01-15 16:17:00
+
+Uma Naidu wrote at 16:17:
+3 late marks this month and half a day CL got deducted.  i was in the
+office by 11:10 each time because of the metro. this feels harsh
+
+Vikas Talwar (HR Helpdesk) replied at 2026-01-16 22:40:00:
+The rule is arrival after 11:00 IST without a prior approved exception.
+Three in a month is half a day of CL. Two things you can do: shift your
+flexi start with your manager's agreement - the window is 08:00 to 11:00
+and nothing forces an 11:00 start; or, where Facilities has notified a
+transport disruption, late marks are not recorded at all. Metro delays are
+not automatically covered unless notified.
+
+status=Awaiting user response | closed=16-Jan-2026 23:40 | ttr=31.4h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-06301
+>>> subject: missed swipe regularisation   category: attendance   priority: P2
+
+>>> requester: Girish Pai / NEX38438 / pune
+>>> opened 04/04/2026 05:34 PM   assigned Harini Balakrishnan
+
+[user]
+Forgot to swipe out on 12 and 13 March, noticed only now (2 April).
+Regularisation is greyed out.
+
+[agent Harini Balakrishnan | 06/04/2026 05:20 AM]
+The self-service window is 7 calendar days. Past that it needs HRBP
+approval and is granted only in exceptional circumstances. I have raised
+it with your HRBP with a note that these were client-site days - if you
+can attach the client meeting invitations it will go through.
+
+
+  ESCALATED to HRBP (Swati Kulkarni) on 06-Apr-2026 - awaiting function head input
+
+status=Escalated | closed=06-Apr-2026 06:20 | ttr=36.8h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06339
+  Category ............ Attendance
+  Priority ............ P3
+  Requester ........... Sourav Gupta  [NEX40479]
+  Location ............ Pune
+  Opened .............. 18-03-2026 at 09:51
+  Handled by .......... Imran Sheikh
+
+**************************************************************************
+USER:
+  How many days do I need to come in? I have heard 10 and I have heard 12.
+
+AGENT RESPONSE (Imran Sheikh, 20-Mar-2026 02:00):
+  Ten working days per calendar month, including the team anchor day in each
+  week it falls. HR-POL-012 v1.4 reduced it from 12 to 10 with effect from 1
+  March 2026. The Employee Handbook and the intranet HR FAQ both still say
+  12 and are queued for correction. Ten is the current position.
+
+  [reopened 21-Mar-2026 06:00] requester: this still is not showing correctly on peoplehub
+  [resolved  21-Mar-2026 11:00] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 20-03-2026 at 03:00
+  Time to resolve .....  41.1 hrs
+  CSAT ................ not rated
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+==============================================================================
+TICKET NEX-HD-2026-06377    [IT]    P2
+Raised by : Aditi Vohra (NEX42060), Senior Data Engineer, Bengaluru
+Opened    : 23-Jan-2026 10:08 IST
+Agent     : Ritika Sood
+Subject   :  laptop not ready on day one
+------------------------------------------------------------------------------
+USER:
+  I joined today. Reported at 9:30. There is no laptop for me. I have been
+  sitting in the cafeteria since 11.
+
+AGENT RESPONSE (Ritika Sood, 25-Jan-2026 07:40):
+  That should not have happened and I am sorry. A P1 has been raised with IT
+  and a loaner has been allocated from the Gurugram buffer pool - collect it
+  from the Level 3 IT desk now. Your assigned machine arrives Thursday. This
+  is also being logged as a day-one readiness failure against the DOJ-3 gate
+  and will show in the monthly onboarding metrics.
+
+status=Resolved | closed=25-Jan-2026 08:40 | ttr=46.5h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-06415 | client environment access delay | IT | P1 | Resolved
+From: Prashant Kulkarni <prashant.kulkarni@nexoratech.in>
+Emp ID: NEX44168   Dept: Cloud & Infrastructure   Loc: Bengaluru
+Date: 2026-01-28 11:25:00
+
+
+Prashant Kulkarni wrote at 11:25:
+Day 16 and still no client VPN. I cannot do anything on the actual
+project.
+
+[internal note - not visible to requester] 28-Jan 12:30 - Manoj Kelkar: checked PeopleHub ledger and Cloud & Infrastructure HRBP notes before replying.
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-01-28 16:20:00:
+Client access is approved by the client, not by us, and typically runs 5
+to 15 working days. Yours is held because the client-specific payments
+data module on NexoraLearn is not marked complete - the client will not
+approve until it is. Complete it today and your Delivery Manager can chase
+the approval tomorrow.
+
+status=Resolved | closed=28-Jan-2026 17:20 | ttr=5.9h | csat=4 - satisfied
+
+>>> NEX-HD-2026-06442
+>>> subject: personal usb blocked   category: it   priority: P3
+>>> requester: Uday Subramanian / NEX46173 / bengaluru
+>>> opened 02/02/2026 12:42 PM   assigned Sneha Pillai
+
+[user]
+tried to copy some reference material off a pen drive and the laptop
+blocked it and i got an email from security. did i do something wrong
+
+[agent Sneha Pillai | 02/02/2026 10:00 PM]
+The DLP agent blocked it, which is what it is meant to do. Personal
+removable storage on a Nexora device is prohibited under ISMS-POL-004 and
+it is a serious matter if it is repeated. Nothing further happens on a
+first, clearly innocent, blocked attempt. Use OneDrive or the team
+SharePoint to move material instead.
+
+status=Resolved | closed=02-Feb-2026 23:00 | ttr=10.3h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06480
+  Category ............ IT
+  Priority ............ P3
+  Requester ........... Mahesh Agarwal  [NEX47946]
+  Location ............ Pune
+  Opened .............. 07-02-2026 at 13:59
+  Handled by ..........  Abhinav Rastogi
+**************************************************************************
+USER:
+  Can I use my own ChatGPT Plus subscription for work? It is faster than
+  switching windows.
+
+AGENT RESPONSE (Abhinav Rastogi, 08-Feb-2026 04:40):
+  No.  Only the enterprise instances on the NexServe catalogue may be used
+  for work - personal accounts and personal API keys are not permitted. No
+  client-confidential material, personal data, credentials or proprietary
+  source code goes into any unapproved service. Also check your engagement's
+  Delivery Operating Model:  several of our BFSI clients prohibit AI-assisted
+  development entirely.
+
+  Status .............. Closed
+   Closed .............. 08-02-2026 at 05:40
+  Time to resolve ..... 15.7 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-06518    [ONBOARDING]    P2
+Raised by : Venkatesh Dutta (NEX10626), Associate Security Analyst, Bengaluru
+ Opened    :  12-Feb-2026 14:16 IST
+Agent     : Preeti Chandra
+Subject   : mandatory training deadline
+------------------------------------------------------------------------------
+USER:
+  Got a mail saying my access will be suspended. I have done 5 of the 7
+  courses.
+
+AGENT RESPONSE (Preeti Chandra, 13-Feb-2026 09:20):
+  Escalation runs at day 15, day 25 and day 31, and at day 45 everything
+  except PeopleHub and NexoraLearn is suspended until you finish. You are at
+  day 38. The two outstanding are NEX-LEG-105 (1 hour) and NEX-QMS-106 (1
+  hour). Two hours of work clears it.
+
+status=Closed | closed=13-Feb-2026 10:20 | ttr=20.1h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-06556 | relieving letter | Onboarding | P3 | Awaiting user response
+From: Atul Bhosale <atul.bhosale@nexoratech.in>
+Emp ID: NEX12297   Dept: Engineering   Loc: Bengaluru
+Date: 2026-02-17 15:33:00
+
+Atul Bhosale wrote at 15:33:
+Previous employer is dragging their feet on the relieving letter. I joined
+40 days ago.
+
+Vikas Talwar (HR Helpdesk) replied at 2026-02-18 16:00:00:
+You have 90 days from joining before it is treated as a Red BGV finding,
+so there is time, but please keep chasing. If they refuse in writing, send
+us that refusal along with your resignation acknowledgement and the last
+payslip - the Amber review panel can close it on that basis. What we
+cannot do is confirm you without establishing that the previous employment
+has ended.
+
+status=Awaiting user response | closed=18-Feb-2026 17:00 | ttr=25.4h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-06594
+>>> subject: buddy not assigned   category: onboarding   priority: P2
+>>> requester: Anjali Trivedi / NEX14702 / pune
+>>> opened 15/02/2026 04:50 PM   assigned Harini Balakrishnan
+
+[user]
+Two weeks in and no buddy.  I have been figuring things out by asking
+whoever looks least busy.
+
+[internal note - not visible to requester] 15-Feb 18:30 - Harini Balakrishnan: checked PeopleHub ledger and Quality Engineering HRBP notes before replying.
+
+[agent Harini Balakrishnan | 16/02/2026 10:40 PM]
+That is a miss - buddies are nominated at DOJ-10. I have flagged it to
+your manager and the HRBP. Someone will be assigned today and the 30-day
+clock starts from then rather than from your joining date.
+
+  ESCALATED to HRBP (Nithya Ramachandran) on 16-Feb-2026 - awaiting function head input
+
+status=Escalated | closed=16-Feb-2026 23:40 | ttr=30.8h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06632
+
+  Category ............ Conduct
+  Priority ............ P1
+  Requester ........... Sumit Sivaraman  [NEX16360]
+  Location ............ Bengaluru
+  Opened .............. 20-02-2026 at 17:07
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  A vendor sent a hamper to my desk at Diwali. I would guess it is worth
+  about 6000. What do I do with it?
+
+AGENT RESPONSE (Imran Sheikh, 22-Feb-2026 03:20):
+  Above the INR 5,000 threshold, so declare it on the PeopleHub Gift
+  Register within 7 days. You may keep it only if your function head
+  approves; otherwise hand it to HR and it goes into the annual charity
+  draw. If you are currently in a tender or contract negotiation with that
+
+  vendor,  it must be returned regardless of value.
+
+  [reopened 23-Feb-2026 07:20] requester: this still is not showing correctly on peoplehub
+  [resolved  23-Feb-2026 12:20] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 22-02-2026 at 04:20
+
+  Time to resolve ..... 35.2 hrs
+  CSAT ................ not rated
+
+==============================================================================
+TICKET NEX-HD-2026-06670    [CONDUCT]    P3
+Raised by : Aman Pathak (NEX17452), QA Lead, Bengaluru
+Opened    : 25-Feb-2026 09:24 IST
+Agent     : Ritika Sood
+Subject   :  moonlighting query
+------------------------------------------------------------------------------
+USER:
+  I have been offered a weekend teaching slot at a coaching institute, paid.
+
+  Do I need permission?
+
+AGENT RESPONSE (Ritika Sood, 27-Feb-2026 01:00):
+  Paid teaching is concurrent engagement and needs the CHRO's prior written
+  approval on PeopleHub. Unpaid teaching, mentoring and conference speaking
+  do not, provided no Company or client information is disclosed and it does
+  not fall in working hours. Apply and give the hours - it is usually
+  approved where there is no overlap with a client or a competitor.
+
+status=Resolved | closed=27-Feb-2026 02:00 | ttr=40.6h | csat=5 - very satisfied
+
+--- Nexora Technologies Pvt Ltd - Confidential - Internal Use Only - do not forward ---
+
+------------------------------------------------------------
+#NEX-HD-2026-06708 | raising a concern anonymously | Conduct | P3 | Resolved
+From: Vidya Agarwal <vidya.agarwal@nexoratech.in>
+Emp ID: NEX18741   Dept: Engineering   Loc: Gurugram
+Date: 2026-03-02 10:41:00
+
+Vidya Agarwal wrote at 10:41:
+I want to report something about expense claims on my project but I do not
+want my name attached.
+
+Manoj Kelkar (HR Helpdesk) replied at 2026-03-04 07:40:00:
+Use IntegriLine on 1800-419-6272 or integriline.nexoratech.in. It is run
+by an independent third party, operates 24 hours in seven languages, and
+you can stay anonymous - you get a case reference and a call-back date and
+can follow up without identifying yourself. Reports go to the General
+Counsel and are summarised to the Audit Committee,  not to your management
+chain. Retaliation is itself a serious misconduct.
+
+status=Resolved | closed=04-Mar-2026 08:40 | ttr=46.0h | csat=4 - satisfied
+
+>>> NEX-HD-2026-06746
+>>> subject: certification reimbursement   category: learning   priority: P2
+>>> requester: Ashish Mallya / NEX20356 / bengaluru
+>>> opened 07/03/2026 11:58 AM   assigned Sneha Pillai
+
+[user]
+Failed AWS SA Pro on the first attempt, cleared it on the second. How much
+comes back?
+
+[agent Sneha Pillai | 07/03/2026 03:20 PM]
+50% of the examination fee for a second-attempt pass. First-attempt passes
+are 100%; third attempts and failed attempts are nil. Claim on NexSpend
+under 'Certification' with the score report attached, within the INR
+40,000 annual cap.
+
+status=Resolved | closed=07-Mar-2026 16:20 | ttr=4.4h | csat=4 - satisfied
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06784
+  Category ............ Learning
+  Priority ............ P3
+  Requester ........... Manoj Rao  [NEX21787]
+  Location ............ Bengaluru
+  Opened .............. 12-03-2026 at 12:15
+  Handled by .......... Abhinav Rastogi
+**************************************************************************
+USER:
+  Applying for a part-time executive PG. Deadline for the college is 20
+  June.
+
+[internal note - not visible to requester] 12-Mar 13:40 - Abhinav Rastogi: checked PeopleHub ledger and Engineering HRBP notes before replying.
+
+AGENT RESPONSE (Abhinav Rastogi, 12-Mar-2026 21:00):
+  The Nexora application window is 1 April to 31 May, so you have missed it
+  for this year - the next window opens 1 April 2027 and there are 25 awards
+  a year across the Company. Up to INR 1,50,000, disbursed 50% on admission
+  and 50% on completion, with a 24-month service bond. You can still take
+  the programme and use up to 6 days of paid examination leave a year.
+
+  Status .............. Closed
+  Closed .............. 12-03-2026 at 22:00
+  Time to resolve ..... 9.8 hrs
+  CSAT ................ 3 - neutral
+
+==============================================================================
+TICKET NEX-HD-2026-06822    [PERFORMANCE]    P2
+Raised by : Amol Sivaraman (NEX23359), Graduate Engineer Trainee, Pune
+Opened    : 17-Mar-2026 13:32 IST
+ Agent     : Preeti Chandra
+Subject   : rating disagreement
+------------------------------------------------------------------------------
+USER:
+  Got a 3. I shipped the migration and I covered for two people who left. I
+  do not accept this.
+
+AGENT RESPONSE (Preeti Chandra, 18-Mar-2026 02:40):
+  You can appeal to your function head within 15 working days of the rating
+   conversation, setting out what was not considered or was considered
+  wrongly. Also worth saying plainly: a 3 is 'Meets Expectations' and is the
+  rating for most of the company in any year.  It is not a warning and it
+  does not block promotion - two consecutive 3s with a readiness assessment
+  makes you eligible.
+
+status=Closed | closed=18-Mar-2026 03:40 | ttr=14.1h | csat=5 - very satisfied
+
+------------------------------------------------------------
+#NEX-HD-2026-06849 | PIP process | Performance | P1 | Awaiting user response
+From: Balaji Mehra <balaji.mehra@nexoratech.in>
+Emp ID: NEX25226   Dept: Sales & Account Management   Loc: Gurugram
+Date: 2026-03-15 14:49:00
+
+Balaji Mehra wrote at 14:49:
+Manager has put me on a PIP. It just says 'improve quality of work'. Is
+that allowed?
+
+Vikas Talwar (HR Helpdesk) replied at 2026-03-16 09:20:00:
+No.  A PIP has to state the specific gap in observable terms, the standard
+to be met, the support the Company will provide, the review dates, and the
+consequence. 'Improve quality of work' meets none of that. Fortnightly
+reviews are mandatory and the HRBP attends the opening and closing
+reviews. I am escalating this to your HRBP to have the document rewritten
+before the clock starts.
+
+ status=Awaiting user response | closed=16-Mar-2026 10:20 | ttr=19.5h | csat=2 - dissatisfied
+
+>>> NEX-HD-2026-06887
+>>> subject: access card not working   category: facilities   priority: P3
+>>> requester: Deepak Sekhar / NEX26549 / pune
+>>> opened 20/03/2026 03:06 PM   assigned Harini Balakrishnan
+
+[user]
+Card stopped working at the Level 6 turnstile this morning. Worked
+yesterday.
+
+[agent Harini Balakrishnan | 21/03/2026 03:00 PM]
+Your access profile was updated last night after the team move to Level 8.
+The Level 6 profile was removed and Level 8 added.  Tap at Level 8. If you
+still need Level 6 for the lab, raise a Facilities request and it will be
+added back.
+
+  ESCALATED to HRBP (Zoya Rahman) on 21-Mar-2026 - awaiting function head input
+
+status=Escalated | closed=21-Mar-2026 16:00 | ttr=24.9h | csat=not rated
+
+**************************************************************************
+  Ticket ref .......... NEX-HD-2026-06925
+  Category ............ Facilities
+  Priority ............ P3
+  Requester ........... Parvathi Naidu  [NEX28013]
+  Location ............ Bengaluru
+  Opened .............. 25-03-2026 at 16:23
+  Handled by .......... Imran Sheikh
+**************************************************************************
+USER:
+  I am being rostered on night shift from next month. I am not comfortable
+  travelling at 2am.
+
+
+AGENT RESPONSE (Imran Sheikh, 26-Mar-2026 20:40):
+  Two things. You may decline a night-shift roster without any adverse
+  consequence. If you do work it, door-to-door Company transport with a
+  security escort is provided - it is not optional for the Company to
+  arrange and not something you have to ask for. Talk to your Delivery
+  Manager; I have copied your HRBP.
+
+  [reopened 28-Mar-2026 00:40] requester: this still is not showing correctly on peoplehub
+  [resolved  28-Mar-2026 05:40] Imran Sheikh: cache refresh applied, confirmed with requester.
+
+  Status .............. Reopened then resolved
+  Closed .............. 26-03-2026 at 21:40
+  Time to resolve ..... 29.3 hrs
+  CSAT ................  not rated
+
+ ==============================================================================
+END OF EXPORT   80 tickets   Nexora Technologies Pvt Ltd - Confidential - Internal Use Only
+Personal data in this export is processed under LEG-POL-005. Retain for 24 months, then destroy.
+==============================================================================
